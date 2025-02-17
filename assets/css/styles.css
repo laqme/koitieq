@@ -1,0 +1,69 @@
+/* Fonts */
+
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=block");
+@import url("https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+/* Reset */
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -moz-text-size-adjust: none; -webkit-text-size-adjust: none; text-size-adjust: none; }
+body, h1, h2, h3, h4, p, figure, blockquote, dl, dd { margin-block-end: 0; }
+ul[role='list'], ol[role='list'] { list-style: none; }
+body { min-height: 100vh; line-height: 1.5; }
+h1, h2, h3, h4, button, input, label { line-height: 1.1; }
+h1, h2, h3, h4 { text-wrap: balance; }
+img, picture { max-width: 100%; display: block; }
+input, button, textarea, select { font-family: inherit; font-size: inherit; }
+:target { scroll-margin-block: 5ex; }
+
+/* ========================= Koitieq =========================== */
+
+html {
+  --sans: "Fira Sans", "Andika", sans-serif;
+  --primary: #39e;
+}
+
+body { font-family: var(--sans); }
+body { font-size-adjust: from-font; }
+h1 { font-family: var(--serif); }
+h1 span[lang=en] { font-weight: 400; }
+
+header nav { padding-top: 1em; padding-left: 2em; }
+.nav-item { padding-inline: 0.2em; }
+.nav-item.current { font-weight: bold; }
+nav a { color: var(--primary); }
+
+.t, [lang=qtq] { color: var(--primary); }
+em.t { font-style: normal; }
+
+.chapter {
+	margin: 0 auto;
+	padding: 2em;
+}
+
+.aside {
+  padding: 1em;
+}
+
+.sidenote { font-size: 0.8rem; }
+
+@media screen and (min-width: 750px) {
+  .chapter { padding-left: 6em; }
+  header nav { padding-left: 6em; }
+  .chapter > p { width: 600px; }
+  /* .sidenote { float: right; clear: right; max-width: 40%; position: relative; margin-right: -45%; } */
+}
+
+@media screen and (max-width: 900px) {
+  .sidenote { margin-inline: 0.5rem; opacity: 0.8; }
+  .sidenote::before { content: "("; }
+  .sidenote::after { content: ")"; }
+}
+
+.prevnext { margin-top: 2em; }
+.prevnext { display: flex; gap: 2em; }
+.prevnext a { color: inherit; text-decoration: none; }
+
+.aside.grammar { background: #fed; }
+.aside.semantics { background: #def; }
+.aside.culture { background: #fde; }

@@ -1,0 +1,31 @@
+title: Koıtıeq
+description: A Toaq textbook
+baseurl: "/koitieq" # Change this to your repository name
+url: "https://laqme.github.io" # Change this to your GitHub Pages URL
+# theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-toc
+
+# Collection settings
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+

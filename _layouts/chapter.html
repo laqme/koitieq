@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="chapter">
+  <h1>{% if page.chapter %}{{ page.chapter }}. {% endif %}<span lang="qtq">{{ page.title }}</span> / <span lang="en">{{ page.title_en }}</span></h1>
+
+  {% if page.toc %}
+    <div class="toc">
+      <h2>Table of Contents</h2>
+      {% toc %}
+    </div>
+  {% endif %}
+
+  {{ content }}
+
+  <div class="prevnext">
+    {% if page.previous.url %}
+      <a href="{{ page.previous.url | relative_url }}" class="prev">← <span lang="qtq">{{ page.previous.title }}</span><br>← <span lang="en">{{ page.previous.title_en }}</span></a>
+    {% endif %}
+
+    {% if page.next.url %}
+      <a href="{{ page.next.url | relative_url }}" class="next"><span lang="qtq">{{ page.next.title }}</span><br><span lang="en">{{ page.next.title_en }}</span> →</a>
+    {% endif %}
+  </div>
+</article>
