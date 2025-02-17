@@ -2,7 +2,6 @@
 title: "Hıa Tóaqzu?"
 title_en: "What is Toaq?"
 chapter: 1
-toc: false
 ---
 
 Toaq is a constructed language, or _conlang:_ a human language created with a purpose, like Esperanto or Toki Pona. The name is pronounced /ˈtʰo.aŋ/.
