@@ -8,5 +8,11 @@ This is a work-in-progress textbook for Toaq.
 
 ## Chapters
 
+<table><tbody>
 {% for chapter in site.chapters %}
-1. [<b lang="qtq">{{ chapter.title }}</b>]({{ chapter.url | relative_url }}) (<span lang="en">{{ chapter.title_en }}</span>){% endfor %}
+<tr>
+  <td><a href="{{chapter.url | relative_url}}"><b lang="qtq">{{chapter.chapter}}. {{ chapter.title }}</b></a></td>
+  <td style="padding-left: 0.25em;">… {{chapter.subject}}</td>
+</tr>
+{% endfor %}
+</tbody></table>

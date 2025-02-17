@@ -7,12 +7,11 @@ layout: default
   {{ content }}
 
   <div class="prevnext">
-    {% if page.previous.url %}
-      <a href="{{ page.previous.url | relative_url }}" class="prev">← <span lang="qtq">{{ page.previous.title }}</span><br>← <span lang="en">{{ page.previous.title_en }}</span></a>
-    {% endif %}
-
     {% if page.next.url %}
-      <a href="{{ page.next.url | relative_url }}" class="next"><span lang="qtq">{{ page.next.title }}</span><br><span lang="en">{{ page.next.title_en }}</span> →</a>
+      <a href="{{ page.next.url | relative_url }}" class="next">Next chapter: <b lang="qtq">{{page.next.chapter}}. {{ page.next.title }}</b></a>
     {% endif %}
+    <!-- {% if page.previous.url %}
+      <a href="{{ page.previous.url | relative_url }}" class="prev">← <span lang="qtq">{{ page.previous.title }}</span><br>← <span lang="en">{{ page.previous.title_en }}</span></a>
+    {% endif %} -->
   </div>
 </article>

@@ -6,16 +6,16 @@ layout: base
     <nav>
       {% assign sorted_chapters = site.chapters | sort: "chapter" %}
       {% if "/" == page.url %}
-      <span class="nav-item current" href="{{ " /" | relative_url }}">Index</span>
+      <span class="nav-item current" href="{{ "/" | relative_url }}">Index</span>
       {% else %}
-      <a class="nav-item" href="{{ " /" | relative_url }}">Index</a>
+      <a class="nav-item" href="{{ "/" | relative_url }}">Index</a>
       {% endif %}
       <!-- <span class="separator">·</span> -->
       {% for chapter in sorted_chapters %}
       {% if chapter.url == page.url %}
-      <span class="nav-item current">{{ chapter.chapter }}.</span>
+      <span class="nav-item current">{{ chapter.chapter }}</span>
       {% else %}
-      <a class="nav-item" href="{{ chapter.url | relative_url }}">{{ chapter.chapter }}.</a>
+      <a class="nav-item" href="{{ chapter.url | relative_url }}">{{ chapter.chapter }}</a>
       {% endif %}
       {% unless forloop.last %}
       <!-- <span class="separator">·</span> -->

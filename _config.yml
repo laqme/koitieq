@@ -14,7 +14,7 @@ plugins:
 collections:
   chapters:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:slug/
 
 defaults:
   - scope:
