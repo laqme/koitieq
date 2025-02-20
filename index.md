@@ -8,7 +8,7 @@ This is a work-in-progress textbook for Toaq.
 
 ## Chapters
 
-<table><tbody>
+<table class="index"><tbody>
 {% for chapter in site.chapters %}
 <tr>
   <td><a href="{{chapter.url | relative_url}}"><b lang="qtq">{{chapter.chapter}}. {{ chapter.title }}</b></a></td>

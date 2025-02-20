@@ -1,12 +1,12 @@
 ---
-title: "Zao jí ní lua!"
-title_en: "I know this story!"
+title: "Zao jí ní lua"
+title_en: "I know this story"
 chapter: 6
 slug: "6"
 subject: "everyday vocab"
 ---
 
-That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary. It's a good idea to make flashcards in order to memorize the words. But if you'd rather learn by doing, you can join the Toaq Discord and make some sentences.
+That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary. It's a good idea to make flashcards in order to memorize the words. If you'd rather learn by doing, you can join the <a href="https://toaq.me/Discord">Toaq Discord</a> and make some sentences in the _#toaq-practice_ channel.
 
 <div style="display: flex; align-items: start" markdown="1">
 
@@ -36,48 +36,21 @@ That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary.
 | _shú **word**{:.v}_{:.t} | the word… |
 | _mó **…**{:.v} teo_{:.t} | the words… |
 
-<!--
-| Word | Meaning |
-| --- | --- |
-| _chaq_{:.t} | ▯ is a day (24 hours) |
-| _hoeı_{:.t} | ▯ is a morning |
-| _dıo_{:.t} | ▯ is a daytime |
-| _seum_{:.t} | ▯ is an evening |
-| _nuaq_{:.t} | ▯ is a night |
-| _seoq_{:.t} | ▯ is a sky |
-| _hoe_{:.t} | ▯ is a sun |
-| _mıao_{:.t} | ▯ is a moon |
-| _nuım_{:.t} | ▯ is a star |
--->
-
 </div>
 
 <div style="display: flex; align-items: start" markdown="1">
-<!--
-| Word | Meaning |
-| --- | --- |
-| _haq_{:.t} | ▯ is food |
-| _hoeıhaq_{:.t} | ▯ is breakfast |
-| _chuhaq_{:.t} | ▯ is lunch |
-| _seumhaq_{:.t} | ▯ is dinner |
-| _nam_{:.t} | ▯ is bread |
-| _feaq_{:.t} | ▯ is rice |
-| _nueq_{:.t} | ▯ is meat |
-| _nao_{:.t} | ▯ is water |
-| _chaı_{:.t} | ▯ is tea |
-| _huı_{:.t} | ▯ is bad | -->
 
 | Word | Meaning |
 | --- | --- |
 | _hıaı_{:.t} | ▯ laughs |
 | _nuo_{:.t} | ▯ sleeps |
+| _sıgı_{:.t} | ▯ is interesting |
 | _zao_{:.t} | ▯ is familiar with ▯ |
 | _cho_{:.t} | ▯ likes ▯ |
 | _maı_{:.t} | ▯ loves ▯ |
 | _keoı_{:.t} | ▯ talks with ▯ |
 | _gaq_{:.t} | ▯ accompanies ▯ |
 | _pao_{:.t} | ▯ is a parent of ▯ |
-| _paopao_{:.t} | ▯ is a grandparent of ▯ |
 | _pıa_{:.t} | ▯ is a sibling of ▯ |
 
 | Word | Meaning |
@@ -91,7 +64,7 @@ That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary.
 | _marao_{:.t} | ▯ dances |
 | _baı_{:.t} | ▯ makes/builds ▯ |
 | _fıeq_{:.t} | ▯ invents ▯ |
-| _kaı_{:.t} | ▯ writes down ▯ |
+| _sı_{:.t} | ▯ focuses on ▯ |
 
 </div>
 
@@ -117,9 +90,11 @@ Translate these sentences:
 1. Okay, I'll make the pizza. <small markdown="1">(This is a promise; use _nha_{:.t}.)</small>
 1. I understand the word "gochıq".
 1. The cat is asleep.
+1. He watches the movie. <small markdown="1">(Use _si_{:.t} for "watch.")</small>
 1. _Kaı súq ní toa ba._{:.t}
 1. _Choq ké poq ní chuo dâ._{:.t}
 1. _Ma de ní kıq?_{:.t}
 1. _Hıchu, marao úmo ba._{:.t}
 1. _Ma zao súq Míqte móq?_{:.t}
+1. _Raq ní lua ké req._{:.t}
 1. _Kuq nháo mó << jadı, hóı súq! >> teo._{:.t}
