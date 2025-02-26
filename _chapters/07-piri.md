@@ -6,23 +6,25 @@ slug: "7"
 subject: "topic–comment, quantifiers"
 ---
 
+This time, we'll learn about the "topic" paricle _bï_{:.t} and learn how to say _some_, _every_, and _no_.
+
 ## Conversation
 
 Ráqsu complains about a bad day to Síoka.
 
 > **Ráqsu:** _Oro, níchaq bï, huı tú raı ꝡeı!_{:.t}<br>
-> **Síoka:** _Obe… Ma faq sá huı móq?_{:.t}<br>
+> **Síoka:** _Obe… Ma faq sá huı móq?_{:.t.sec}<br>
 > **Ráqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí sía chaı._{:.t}<br>
-> **Síoka:** _Akoı._{:.t}<br>
+> **Síoka:** _Akoı._{:.t.sec}<br>
 > **Ráqsu:** _Ké dıochu bï, zueq tú koqpıuta da._{:.t}<br>
-> **Síoka:** _Pırıge° hú tue ꝡeı._{:.t} &emsp; _°annoying_<br>
+> **Síoka:** _Pırıge° hú tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
 > **Ráqsu:** _Ké seum bï, zaq sá nharu°._{:.t} &emsp; _°storm_<br>
-> **Síoka:** _Ma bo níchaq máo sá gı?_{:.t}<br>
+> **Síoka:** _Ma bo níchaq máo sá gı?_{:.t.sec}<br>
 > **Ráqsu:** _Nho... ké nuaq bï, tıjuı jí súq._{:.t}
 
 ## Vocabulary
 
-<div style="display: flex; align-items: start" markdown="1">
+<div class="side-by-side" markdown="1">
 
 | Word | Meaning |
 | --- | --- |

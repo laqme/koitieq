@@ -6,27 +6,29 @@ slug: "5"
 subject: "vocatives, sentence ends, nouns"
 ---
 
+In this lesson, we'll cover the different words that can come at the end of a sentence, and take a look at how to form nouns.
+
 ## Conversation
 
-> Lucas: _Jadı, hóı Míqte!_{:.t} \
-> Míqte: _Jadı, hóı Lúka. Ma seakuaı súq?_{:.t} \
-> Lucas: _Zı, chuqkuaı jí._{:.t} \
-> Míqte: _Fa úmo Pícajıaq ba. Koı úmo ba._{:.t} \
-> Lucas: _Inha._{:.t}
+> **Lucas:** _Jadı, hóı Míqte!_{:.t} \
+> **Míqte:** _Jadı, hóı Lúka. Ma seakuaı súq?_{:.t.sec} \
+> **Lucas:** _Zı, chuqkuaı jí._{:.t} \
+> **Míqte:** _Fa úmo Pícajıaq ba. Koı úmo ba._{:.t.sec} \
+> **Lucas:** _Inha._{:.t}
 >
-> Lucas: _Â, ma pıcarıaq Pícajıaq móq?_{:.t} \
-> Míqte: _Nho._{:.t} \
-> Lucas: _Ina. Gı ké chua._{:.t} \
-> Míqte: _Jaq gı máo ké pıca nha._{:.t}
+> **Lucas:** _Â, ma pıcarıaq Pícajıaq móq?_{:.t} \
+> **Míqte:** _Nho._{:.t.sec} \
+> **Lucas:** _Ina. Gı ké chua._{:.t} \
+> **Míqte:** _Jaq gı máo ké pıca nha._{:.t.sec}
 >
-> Míqte: _Obe, tı Tóma Sáqmeı da!_{:.t} \
-> Lucas: _Ma eq ní naq Tóma móq?_{:.t} \
-> Míqte: _Nho. Zuche máo Tóma. Paı nháo jí dâ. Hıchu, hóı Tóma!_{:.t} \
-> Tóma: _?_{:.t}
+> **Míqte:** _Obe, tı Tóma Sáqmeı da!_{:.t.sec} \
+> **Lucas:** _Ma eq ní naq Tóma móq?_{:.t} \
+> **Míqte:** _Nho. Zuche máo Tóma. Paı nháo jí dâ. Hıchu, hóı Tóma!_{:.t.sec} \
+> **Tóma:** _?_{:.t}
 
 ## Vocabulary
 
-<div style="display: flex" markdown="1">
+<div class="side-by-side" markdown="1">
 
 | Word | Meaning |
 | ---- | ------- |
@@ -57,6 +59,7 @@ subject: "vocatives, sentence ends, nouns"
 | _chua_{:.t} | ▯ is a name of ▯ |
 | _pıca_{:.t} | ▯ is a pizza |
 | _rıaq_{:.t} | ▯ is a location |
+| _paı_{:.t} | ▯ is a friend of ▯ |
 | _tı_{:.t} | ▯ is at/in ▯ |
 | _eq_{:.t} | ▯ is ▯ |
 | _â_{:.t} | aha! / oh, I get it! |

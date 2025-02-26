@@ -6,6 +6,8 @@ slug: "8"
 subject: "adjectives, tenses"
 ---
 
+In this lesson, we'll look at adjectives and tenses in Toaq.
+
 ## Conversation
 
 {:.chat-log}
@@ -37,7 +39,7 @@ subject: "adjectives, tenses"
 
 ## Vocabulary
 
-<div style="display: flex; align-items: start" markdown="1">
+<div class="side-by-side" markdown="1">
 
 | Word | Meaning |
 | --- | --- |

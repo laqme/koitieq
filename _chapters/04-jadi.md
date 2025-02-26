@@ -57,7 +57,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets Míqte on t
 
 ## Vocabulary
 
-<div style="display: flex" markdown="1">
+<div class="side-by-side" markdown="1">
 
 | Word | Meaning |
 | ---- | ------- |

@@ -8,7 +8,7 @@ subject: "everyday vocab"
 
 That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary. It's a good idea to make flashcards in order to memorize the words. If you'd rather learn by doing, you can join the <a href="https://toaq.me/Discord">Toaq Discord</a> and make some sentences in the _#toaq-practice_ channel.
 
-<div style="display: flex; align-items: start" markdown="1">
+<div class="side-by-side" markdown="1">
 
 | Word | Meaning |
 | --- | --- |
@@ -38,7 +38,7 @@ That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary.
 
 </div>
 
-<div style="display: flex; align-items: start" markdown="1">
+<div class="side-by-side" markdown="1">
 
 | Word | Meaning |
 | --- | --- |

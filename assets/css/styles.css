@@ -23,6 +23,8 @@ html {
   --primary: #27e;
 }
 
+audio, audio::-webkit-media-controls-panel { height: 30px; }
+
 a { color: inherit; }
 a[href]:hover { color: var(--primary); }
 body { margin: 0; }
@@ -50,18 +52,14 @@ em.sm { font-size: 0.8rem; line-height: 1.2; }
 .aside>*:first-child { margin-top: 0; }
 .aside>*:last-child { margin-bottom: 0; }
 
-.sidenote { font-size: 0.8rem; }
+.top-nav { display: flex; }
+.side-by-side { display: flex; align-items: start; flex-direction: column; }
 
 @media screen and (min-width: 750px) {
   .chapter { padding-left: 6em; width: 42em; margin: 0 auto 0 0; }
   header nav { padding-left: 6em; }
   /* .sidenote { float: right; clear: right; max-width: 40%; position: relative; margin-right: -45%; } */
-}
-
-@media screen and (max-width: 900px) {
-  .sidenote { margin-inline: 0.5rem; opacity: 0.8; }
-  .sidenote::before { content: "("; }
-  .sidenote::after { content: ")"; }
+  .side-by-side { flex-direction: row; }
 }
 
 .prevnext { margin-top: 4rem; margin-bottom: 3rem; }
@@ -121,4 +119,7 @@ li small { padding-inline-start: 1em; }
 .bad { color: #c00; }
 .bad::before { content: "× "; }
 
+.sec { color: #d0a; }
 .v { font-weight: normal; padding: 0.1rem 0.2rem; margin: -0.1rem 0; border: 1px solid currentColor; border-radius: 2px; font-size: 0.8rem; }
+
+table.index tr:nth-child(1n + 13) { opacity: 0.5 }
