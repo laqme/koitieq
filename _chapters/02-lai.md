@@ -8,6 +8,8 @@ subject: "spelling and pronunciation"
 
 Toaq is most often written using the Latin alphabet, as in this book. There are 22 consonants and 5 vowels. Here is Toaq's alphabet:
 
+<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/abc.ogg"></audio>
+
 | Letter | Value | As in... |
 | ------ | ------------- | -------- |
 | _a_{:.t} | /a/ | Spanish _m**á**s_ |
@@ -40,6 +42,8 @@ Toaq is most often written using the Latin alphabet, as in this book. There are 
 ## Diphthongs
 When a word contains multiple successive vowels, they are usually pronounced as separate syllables. For example, _Toaq_{:.t} is pronounced /to.aŋ/ and _kua_{:.t} as /ku.a/.
 
+<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/toaq-kua.ogg"></audio>
+
 The following four combinations of vowels are exceptions to this:
 
 | Letters | Pronunciation |
@@ -48,6 +52,8 @@ The following four combinations of vowels are exceptions to this:
 | ao | \[aw\] (as in _n**ow**_) |
 | eı | \[ej\] (as in _w**eigh**_) |
 | oı | \[oj\] (as in _b**oy**_) |
+
+<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/ai-ao-ei-oi.ogg"></audio>
 
 ## Pronouncing _ꝡ_{:.t}
 The pronunciation of the consonant _ꝡ_{:.t} depends on the vowel that comes before it.
@@ -61,4 +67,7 @@ One way to think of this is that _ꝡ_{:.t} wants you to move your lips. After _
 <details class="aside grammar" markdown="1">
 <summary>Closed syllables</summary>
 A finer point of Toaq pronunciation is that vowels before _q_{:.t} are pronounced slightly shorter and more "closed" than other vowels. For example, the syllable _gu_{:.t} is pronounced [guː] and _gum_{:.t} is pronounced [guːm], but _guq_{:.t} is pronounced [gʊŋ].
+
+<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/gu-gum-guq.ogg"></audio>
+
 </details>

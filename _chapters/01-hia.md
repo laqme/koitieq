@@ -24,9 +24,15 @@ Essentially, Toaq is a [_formal language_](https://en.wikipedia.org/wiki/Formal_
 > _This blade shall lay waste to thee, vile demon!_{:.sm}
 > <audio controls><source src="../assets/audio/haida-ni.ogg"></audio>
 >
+> _Foaına, Tóaqzu bï, sá jıoqjuao nä, tıembo tú kuna zujuaodue shí chateı, lâ muaogaı há ké kunateı hoqbo, rúbıe jıoq há ké muı hôq lîeı jíoqjuao da._{:.t} \
+> _Specifically, as for Toaq, there is an algorithm J, so that each valid sentence has a single way to parse its grammar, and then calculate its meaning by following J._{:.sm}
+> <audio controls><source src="../assets/audio/foaina.ogg"></audio>
+>
+> <!--
 > _jeba ahaha sieqnhe juagi ni2 foto vei_{:.t} \
 > _dude hahaha this pic is amazingly cursed_{:.sm}
 > <audio controls><source src="../assets/audio/jeba.ogg"></audio>
+> -->
 >
 <!-- > _Gıtu :) â, ma noalıe súq kú, lá joaıtaı já báq toa tıao chôq Tóadua móq?_{:.t} \
 > _No worries :) ah, is it that you're having trouble finding the right words using Toadua?_{:.sm} -->
