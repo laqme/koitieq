@@ -166,3 +166,20 @@ Notice that these are all in the *rising tone*, as are personal pronouns: _jí_{
 {:.tone-figure}
 _Bua_{:.t1} _jí_{:.t2} _Rédueq._{:.t2} _De_{:.t1} _Rédueq._{:.t2}
 
+<details class="aside grammar" markdown="1">
+<summary>What's a "noun"?</summary>
+
+We'll call anything that can fill a verb slot a "noun", in this textbook. This is a little inaccurate and idiosyncratic, but there's no confusion, since Toaq does not have lexical nouns.
+
+Linguists might prefer to call these _noun phrases_ or _determiner phrases_ (DP), but that isn't always quite right, either. We'll call complementizer phrases (such as "that I speak Toaq") nouns, too.
+
+Toaqologists call them [noun forms](https://toaq.me/Noun_form), or _aqmı_{:.t}.
+
+</details>
+
+<details class="aside grammar" markdown="1">
+<summary>What happened to <i class="t">mí</i>?</summary>
+
+In this textbook, we adopt the somewhat daring convention that the rising tone really makes _variable names_, and that there's no real difference between a proper name in the real world and a variable name in the logic world.
+
+</details>
