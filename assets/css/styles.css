@@ -122,4 +122,9 @@ li small { padding-inline-start: 1em; }
 .sec { color: #d0a; }
 .v { font-weight: normal; padding: 0.1rem 0.2rem; margin: -0.1rem 0; border: 1px solid currentColor; border-radius: 2px; font-size: 0.8rem; }
 
+.scope { border: 1px solid currentColor; border-radius: 2px; padding: 0.1rem 0.2rem; margin: 0.3rem 0.2rem; }
+.scope { overflow: hidden; white-space: pre; display: inline-flex; align-items: baseline }
+.sb { background-color: currentColor; margin: -2rem 0.2rem -2rem -0.2rem; padding: 2rem 0.2rem; }
+.sb>i { color: white; font-style: normal;}
+
 table.index tr:nth-child(1n + 13) { opacity: 0.5 }

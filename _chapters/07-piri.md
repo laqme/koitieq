@@ -6,7 +6,7 @@ slug: "7"
 subject: "topic–comment, quantifiers"
 ---
 
-This time, we'll learn about the "topic" paricle _bï_{:.t} and learn how to say _some_, _every_, and _no_.
+In this lesson, we'll learn about the "topic" paricle _bï_{:.t} and learn how to say _some_, _every_, and _no_.
 
 ## Conversation
 
