@@ -64,17 +64,20 @@ This paragraph contains cultural details. For example, it may tell you that _nuo
 
 It may be wise to skip over technical asides on a first reading of the book, and then, once you've become more comfortable with Toaq, read the book again and engage with the contents of the asides as well.
 
+<img width="100%" src="../tiai.svg" alt="An abstract illustration of colored rectangles.">
+
 ## Versions of Toaq
 
 Toaq's development has taken it through multiple _versions_. Each new version is named by a new Greek letter. Toaq Alpha (2013) and Toaq Beta (2017) served as predecessors to a planned "final version" of the language. The next version, in 2021, was called Gamma by the community, and released roughly alongside a tutorial called _Toaq with Ease_.
 
 In the process of formalizing this language by writing a parser, it became clear that the language needed some far-reaching changes to meet its goal, leading to the development of Toaq Delta in 2022. The formalization process continued with work on a new parser, called [_Kuna_](https://github.com/toaq/kuna). Questions that came up during the development of this new parser, in turn, inspired some new ideas about scope, negation, and so on. This course aims to document a version of Toaq that incorporates those ideas while not being so radical as to call it Epsilon.
 
-<div class="aside grammar" markdown="1">
+<details class="aside grammar" markdown="1">
+<summary>Which version of Toaq, exactly?</summary>
 
-(It's Toaq Delta + [Simple Focus](https://toaq.me/Simple_Focus) + [Pronoun structure](https://toaq.me/Pronoun_structure) + [Some Scope Creep](https://toaq.me/Some_Scope_Creep) + [Kıazıu](https://toaq.me/Kıazıu) + [Eatoaq](https://robin.town/blog/sa-ea-buriaq)'s complementizers, pendents, generics, discursives, variable names.)
+It's Toaq Delta + [Simple Focus](https://toaq.me/Simple_Focus) + [Pronoun structure](https://toaq.me/Pronoun_structure) + [Some Scope Creep](https://toaq.me/Some_Scope_Creep) + [Kıazıu](https://toaq.me/Kıazıu) + [Eatoaq](https://robin.town/blog/sa-ea-buriaq)'s complementizers, pendents, generics, discursives, variable names.
 
-</div>
+</details>
 
 ## How to use this textbook
 

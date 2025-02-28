@@ -100,7 +100,7 @@ When we imagine Toaq being spoken somewhere, we often think of _Tóaqgua_{:.t}, 
 
 ## Verb, subject, object
 
-The basic structure of a Toaq sentence is: verb, subject, object. The conversation above consists of such sentences and interjections, such as _jadı_{:.t} _hello_ and  _kushe_{:.t} _sorry_, which may occur mostly anywhere. They are italicized in the text to help you spot them.
+The basic structure of a Toaq sentence is: verb, subject, object. The conversation above consists entirely of such sentences, alongside interjections, such as _jadı_{:.t} _hello_ and  _kushe_{:.t} _sorry_, which may occur mostly anywhere. They are italicized in the text to help you spot them.
 
 Toaq does not distinguish between verbs, nouns, and adjectives in its dictionary. Compare these three sentences:
 
@@ -123,6 +123,10 @@ Only English differentiates the parts of speech here. From Toaq's perspective, t
 
 Each of these verbs has a "hole" or "slot" (▯) in its definition. To make a complete sentence, you say the verb, and then a _subject_ to fill the slot.
 
+### Verbs with two slots
+
+<img width="40%" style="float: right;" src="../toai.svg" alt="An abstract illustration of a piece of a path.">
+
 Now compare these sentences:
 
 > _Sıom jí Tóaqzu._{:.t} \
@@ -134,7 +138,7 @@ Now compare these sentences:
 > _Tıjuı Sáqmeı Rédueq._{:.t} \
 > Saqmeı is nearby Redueq.
 
-Again, let's look up these words in a Toaq dictionary.
+Again, let's look up these verbs in a Toaq dictionary.
 
 > _sıom_{:.t} — ▯ studies ▯. \
 > _bua_{:.t} — ▯ lives in ▯. \
@@ -171,15 +175,15 @@ _Bua_{:.t1} _jí_{:.t2} _Rédueq._{:.t2} _De_{:.t1} _Rédueq._{:.t2}
 
 We'll call anything that can fill a verb slot a "noun", in this textbook. This is a little inaccurate and idiosyncratic, but there's no confusion, since Toaq does not have lexical nouns.
 
-Linguists might prefer to call these _noun phrases_ or _determiner phrases_ (DP), but that isn't always quite right, either. We'll call complementizer phrases (such as "that I speak Toaq") nouns, too.
-
-Toaqologists call them [noun forms](https://toaq.me/Noun_form), or _aqmı_{:.t}.
+Linguists might call them something like "argument phrases." When being more proper, Toaqologists call them [noun forms](https://toaq.me/Noun_form), or _aqmı_{:.t}.
 
 </details>
 
 <details class="aside grammar" markdown="1">
 <summary>What happened to <i class="t">mí</i>?</summary>
 
-In this textbook, we adopt the somewhat daring convention that the rising tone really makes _variable names_, and that there's no real difference between a proper name in the real world and a variable name in the logic world.
+If you've learned some Toaq before, you may know that another way to refer to things by name in Toaq is _mí **name**{:.v}_{:.t}. This still works fine!
+
+In this textbook, we adopt the convention that the rising tone makes _variable names_, and that there's no real difference between a proper name in the real world and a variable name in the logic world. So, _Míqte_{:.t} refers to Lucas's new friend because of some _context_ that that name is used in, just like how pronouns refer to the right thing in their own, smaller context.
 
 </details>

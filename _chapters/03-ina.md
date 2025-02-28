@@ -30,25 +30,25 @@ Náo just finished explaining a complicated job to Tóma. She asks...
 
 {:.tone-figure}
 _Ína,_{:.t2} _ínha?_{:.t2}
-<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/ina-inha.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/ina-inha.ogg"></audio>
 
 And Tóma shows that he understood, and will do as she asked:
 
 {:.tone-figure}
 _Nho,_{:.t1} _ına._{:.t1} _Inha._{:.t1}
-<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/nho-ina-inha.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/nho-ina-inha.ogg"></audio>
 
 While he's working on the job, Tóma cries out:
 
 {:.tone-figure}
 _Ahı!_{:.t1}
-<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/ahi.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/ahi.ogg"></audio>
 
 Náo worries that he's hurt — then rushes over and sees the papercut on his hand.
 
 {:.tone-figure}
 _Áhı?_{:.t2} ... _Âhı._{:.t4}
-<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/ahi-ahi.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/ahi-ahi.ogg"></audio>
 
 ## Tones
 
@@ -64,6 +64,8 @@ The hiatus tone is a bit special, because it makes the first vowel of a word lon
 
 Parts of speech are affected differently by the tones. We can see from this story that the rising tone turns an interjection into a question, while the hiatus tone turns it into a sort of expression of empathy. But further in the book, we'll see that (for example) the rising tone turns verbs into nouns, and the hiatus tone turns them into adverbs.
 
+<img width="100%" src="../soai.svg" alt="An abstract illustration of colored lines at various angles.">
+
 Whenever some grammatical quality is expressed through tone, we'll make a note of it. For now, just remember the three tone marks.
 
 ## Dealing with tones
@@ -72,7 +74,7 @@ In the next chapters, take care to practice reading words _with the correct tone
 
 {:.tone-figure}
 _Choa_{:.t1} _súq_{:.t2} _ní_{:.t2} _kuna_{:.t1} _dûe_{:.t4} _ba._{:.t1}
-<audio controls style="display:table;margin:0 auto"><source src="../assets/audio/choa-suq-ni.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/choa-suq-ni.ogg"></audio>
 
 (That means: "pronounce this sentence correctly.")
 
@@ -82,5 +84,5 @@ Don't worry too much about doing it perfectly. Producing the tones exactly right
 <summary>Syntactic and lexical tone</summary>
 Generally speaking, the role of tone is _syntactic_, not _lexical_. _Due_{:.t} and _dûe_{:.t} mean "correct" and "correctly", respectively, rather than being completely different dictionary words.
 
-There is a little bit of _lexical tone_ in Toaq as well: _na_{:.t} is an interjection meaning "well", whereas _nâ_{:.t} is a little verb meaning "to be such that." In fact, the tonal patterns found among Toaq's interjections are vague enough to say that _nho, nhó, zı, zí_{:.t} are all just different lexemes.
+But there is a little bit of _lexical tone_ in Toaq as well: _da_{:.t} is an interjection meaning "well", whereas _nä_{:.t} is an unrelated grammatical particle. In fact, the tonal patterns found among Toaq's interjections are vague enough to say that _nho, nhó, zı, zí_{:.t} are all just different lexemes.
 </details>

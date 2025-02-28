@@ -3,7 +3,7 @@ title: "Koı úmo ba"
 title_en: "Let's walk"
 chapter: 5
 slug: "5"
-subject: "vocatives, sentence ends, nouns"
+subject: "sentence ends, nouns"
 ---
 
 In this lesson, we'll cover the different words that can come at the end of a sentence, and take a look at how to form nouns.
@@ -67,16 +67,6 @@ In this lesson, we'll cover the different words that can come at the end of a se
 | _hıchu_{:.t} | hey! / oi! |
 
 </div>
-
-## Vocatives with _hóı_{:.t}
-
-You can say _hóı_{:.t} followed by a noun --- say, someone's name --- to make a phrase that's like an interjection, calling out their name.
-
-> _Hóı Álısı, jadı._{:.t} \
-> Hello, Alice.
->
-> _Hıchu, hóı súq!_{:.t} \
-> Oi, you!
 
 ## Kinds of sentence: _da nha ba móq_{:.t}
 

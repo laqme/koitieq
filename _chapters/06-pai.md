@@ -68,6 +68,16 @@ That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary.
 
 </div>
 
+## Vocatives with _hóı_{:.t}
+
+You can say _hóı_{:.t} followed by a noun --- say, someone's name --- to make a phrase that's like an interjection, calling out their name.
+
+> _**Hóı Álısı**, jadı. — Jadı **hóı súq**._{:.t} \
+> Hi, Alice. — Hey you.
+>
+> _Hıchu, **hóı ké deo**, sı súq jí ba!_{:.t} \
+> Oi, kid, pay attention to me!
+
 ## Quotation
 
 We use _shú_{:.t} to quote single words, and _mó … teo_{:.t} to quote multiple words.
@@ -79,6 +89,8 @@ When writing Toaq, we surround quoted words by << guillemets >>.
 >
 > _Kuna mó << suaq ké deo da >> teo._{:.t}<br>
 > "The child sings" is a sentence.
+
+<img width="100%" src="../saq.svg" alt="An abstract illustration of colored triangles.">
 
 ## Exercises
 

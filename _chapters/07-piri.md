@@ -62,6 +62,12 @@ You can start a sentence with a noun and _bï_{:.t} to specify a "topic" that th
 > _Ké zu **bï**, de ké toa._{:.t}<br>
 > As for the language: the words are beautiful.
 
+This word is in the only tone we haven't seen yet: the **glottal tone**. It's pronounced as a low tone with a little "glottal stop" in the middle, like in "uh-oh" or "nuh-uh".
+
+{:.tone-figure}
+_Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _Ráqsu._{:.t2}
+<audio controls class="center-audio"><source src="../assets/audio/nichaq-bi.ogg"></audio>
+
 ## More articles: _sá tú sía hú_{:.t}
 
 The articles _sá, tú, sía_{:.t} mean "some, each, none," respectively.
@@ -115,12 +121,41 @@ If there are multiple quantifying articles in a sentence, the earliest one has i
 
 </details>
 
-## The verb _raı_{:.t}
+## Vague verbs
 
-The word _raı_{:.t} is a verb that is always true of anything. So _tú raı_{:.t} is "everything", _ní raı_{:.t} is "this", and so on. We can also use articles without any verb after them, which means the same thing as using _raı_{:.t}.
+| Word | Meaning |
+| --- | --- |
+| _raı_{:.t} | ▯ is anything |
+| _nu_{:.t} | ▯ is such, is like that |
+| _hao_{:.t} | ▯ is you-know-what |
 
-> _Faq **ké** raı nha._{:.t}<br>
-> It'll happen.
+The word _raı_{:.t} is a verb that is always true of anything. So _tú raı_{:.t} is "everything", _ní raı_{:.t} is "this", and so on.
+
+> _Faq ké **raı** nha._{:.t}<br>
+> **It**'ll happen.
 >
-> _Bo **sía** poq **tú**._{:.t}<br>
-> Nobody has everything.
+> _Bo sía poq **tú raı**._{:.t}<br>
+> Nobody has **everything**.
+
+If you use an article without a following verb, it means the same thing as using _raı_{:.t}.
+
+> _Bo sía poq **tú**._{:.t}<br>
+> Nobody has **everything**.
+
+The word _nu_{:.t} refers to some property that's under discussion. It's like a demonstrative verb.
+
+> _**Nu** máo jí._{:.t}<br>
+> I'm **like that** too.
+>
+> _Zao jí **sía nu**._{:.t}<br>
+> I know no **such** things.
+
+_Hao_{:.t} is a verb that means: "you know what I mean." You can use it when a more specific verb isn't really necessary, because you trust the listener to fill the gap.
+
+In English, it corresponds to vague descriptions or even missing words:
+
+> _Zueq ké **hao** da._{:.t}<br>
+> The thingy is broken.
+>
+> _**Hao** úmo ba._{:.t}<br>
+> Let's.
