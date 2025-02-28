@@ -67,6 +67,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets Míqte on t
 | _upa_{:.t} | oops |
 | _kushe_{:.t} | sorry |
 | _gıtu_{:.t} | no worries |
+| _a_{:.t} | ah, oh |
 | _jí_{:.t} | I, me |
 | _súq_{:.t} | you |
 | _Tóaqzu_{:.t} | Toaq |
