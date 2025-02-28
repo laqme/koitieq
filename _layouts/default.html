@@ -12,10 +12,12 @@ layout: base
       {% endif %}
       <!-- <span class="separator">·</span> -->
       {% for chapter in sorted_chapters %}
+      {% if chapter.chapter <= 13 %}
       {% if chapter.url == page.url %}
       <span class="nav-item current">{{ chapter.chapter }}</span>
       {% else %}
       <a class="nav-item" href="{{ chapter.url | relative_url }}">{{ chapter.chapter }}</a>
+      {% endif %}
       {% endif %}
       {% unless forloop.last %}
       <!-- <span class="separator">·</span> -->
