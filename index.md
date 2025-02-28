@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Kóıtıeq
-title_en: A Toaq textbook
+title_en: Walkway
 ---
 
 This is a work-in-progress textbook for Toaq.
