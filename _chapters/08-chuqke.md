@@ -17,7 +17,7 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 > </div>
 > <div class="send bubble" markdown="1">Jea jí sá nueq gı nha!
 > </div>
-> <div class="send bubble" markdown="1">Naı tı jí ké dıem
+> <div class="send bubble" markdown="1">**Naı** tı jí ké dıem
 > </div>
 >
 > <div class="recv speaker">Ánhe
@@ -29,12 +29,12 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 >
 > <div class="send speaker">Míqte
 > </div>
-> <div class="send bubble" markdown="1">Ma pu chuq súq tú choko nuı...
+> <div class="send bubble" markdown="1">Ma **pu** chuq súq tú choko nuı...
 > </div>
 >
 > <div class="recv speaker">Ánhe
 > </div>
-> <div class="recv bubble" markdown="1">jia chuq jí máo ké niq wo (｡･｀ω´･｡)
+> <div class="recv bubble" markdown="1">**jia** chuq jí máo ké niq wo (｡･｀ω´･｡)
 > </div>
 
 ## Vocabulary

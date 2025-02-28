@@ -12,12 +12,12 @@ In this lesson, we'll learn about the "topic" paricle _bï_{:.t} and learn how t
 
 Ráqsu complains about a bad day to Síoka.
 
-> **Ráqsu:** _Oro, níchaq bï, huı tú raı ꝡeı!_{:.t}<br>
-> **Síoka:** _Obe… Ma faq sá huı móq?_{:.t.sec}<br>
-> **Ráqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí sía chaı._{:.t}<br>
+> **Ráqsu:** _Oro, níchaq **bï**, huı **tú** raı ꝡeı!_{:.t}<br>
+> **Síoka:** _Obe… Ma faq **sá** huı móq?_{:.t.sec}<br>
+> **Ráqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí **sía** chaı._{:.t}<br>
 > **Síoka:** _Akoı._{:.t.sec}<br>
 > **Ráqsu:** _Ké dıochu bï, zueq tú koqpıuta da._{:.t}<br>
-> **Síoka:** _Pırıge° hú tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
+> **Síoka:** _Pırıge° **hú** tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
 > **Ráqsu:** _Ké seum bï, zaq sá nharu°._{:.t} &emsp; _°storm_<br>
 > **Síoka:** _Ma bo níchaq máo sá gı?_{:.t.sec}<br>
 > **Ráqsu:** _Nho... ké nuaq bï, tıjuı jí súq._{:.t}

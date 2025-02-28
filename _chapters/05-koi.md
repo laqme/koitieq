@@ -10,20 +10,20 @@ In this lesson, we'll cover the different words that can come at the end of a se
 
 ## Conversation
 
-> **Lucas:** _Jadı, hóı Míqte!_{:.t} \
-> **Míqte:** _Jadı, hóı Lúka. Ma seakuaı súq?_{:.t.sec} \
+> **Lucas:** _Jadı, **hóı** Míqte!_{:.t} \
+> **Míqte:** _Jadı, hóı Lúka. **Ma** seakuaı súq **móq?**_{:.t.sec} \
 > **Lucas:** _Zı, chuqkuaı jí._{:.t} \
-> **Míqte:** _Fa úmo Pícajıaq ba. Koı úmo ba._{:.t.sec} \
+> **Míqte:** _Fa úmo Pícajıaq **ba**. Koı úmo ba._{:.t.sec} \
 > **Lucas:** _Inha._{:.t}
 >
-> **Lucas:** _Â, ma pıcarıaq Pícajıaq móq?_{:.t} \
+> **Lucas:** _Â, **ma** pıcarıaq Pícajıaq?_{:.t} \
 > **Míqte:** _Nho._{:.t.sec} \
 > **Lucas:** _Ina. Gı ké chua._{:.t} \
-> **Míqte:** _Jaq gı máo ké pıca nha._{:.t.sec}
+> **Míqte:** _Jaq gı **máo** ké pıca **nha**._{:.t.sec}
 >
 > **Míqte:** _Obe, tı Tóma Sáqmeı da!_{:.t.sec} \
 > **Lucas:** _Ma eq ní naq Tóma móq?_{:.t} \
-> **Míqte:** _Nho. Zuche máo Tóma. Paı nháo jí dâ. Hıchu, hóı Tóma!_{:.t.sec} \
+> **Míqte:** _Nho. Zuche máo Tóma. Paı nháo jí **dâ**. Hıchu, hóı Tóma!_{:.t.sec} \
 > **Tóma:** _?_{:.t}
 
 ## Vocabulary
