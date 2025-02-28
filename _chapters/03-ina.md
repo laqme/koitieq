@@ -84,5 +84,5 @@ Don't worry too much about doing it perfectly. Producing the tones exactly right
 <summary>Syntactic and lexical tone</summary>
 Generally speaking, the role of tone is _syntactic_, not _lexical_. _Due_{:.t} and _dûe_{:.t} mean "correct" and "correctly", respectively, rather than being completely different dictionary words.
 
-But there is a little bit of _lexical tone_ in Toaq as well: _da_{:.t} is an interjection meaning "well", whereas _nä_{:.t} is an unrelated grammatical particle. In fact, the tonal patterns found among Toaq's interjections are vague enough to say that _nho, nhó, zı, zí_{:.t} are all just different lexemes.
+But there is a little bit of _lexical tone_ in Toaq as well: _na_{:.t} is an interjection meaning "well", whereas _nä_{:.t} is an unrelated grammatical particle. In fact, the tonal patterns found among Toaq's interjections are vague enough to say that _nho, nhó, zı, zí_{:.t} are all just different lexemes.
 </details>
