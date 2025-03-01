@@ -25,11 +25,15 @@ input, button, textarea, select { font-family: inherit; font-size: inherit; }
 /* ========================= Koitieq =========================== */
 
 html {
+  color-scheme: light dark;
   --sans: "Fira Sans", "Andika", sans-serif;
-  --primary: #27e;
+  color: light-dark(#222, #ccc);
+  background: light-dark(#f5f5f8, #1c0c38);
+  --primary: light-dark(#27e, #5af);
 }
 
 audio, audio::-webkit-media-controls-panel { height: 30px; }
+
 
 a { color: inherit; }
 a[href]:hover { color: var(--primary); }
@@ -73,9 +77,9 @@ blockquote { margin: 1em 20px; }
 
 .prevnext { margin-top: 4rem; margin-bottom: 3rem; }
 
-.aside.grammar { background: #fed; }
-.aside.semantics { background: #def; }
-.aside.culture { background: #fde; }
+.aside.grammar { background: light-dark(#ffe8d0, #f803); }
+.aside.semantics { background: light-dark(#def, #5cf3); }
+.aside.culture { background: light-dark(#ffdde8, #f083); }
 
 summary { font-weight: 500; letter-spacing: 0.5px; cursor: pointer; }
 li small { padding-inline-start: 1em; }
@@ -124,8 +128,8 @@ li small { padding-inline-start: 1em; }
 
 .chat-log .bubble { border-radius: 0.5rem; max-width: 70%; display: flex; font-size: 0.9rem; }
 .chat-log .bubble p { margin: 0.5rem 0.75rem; }
-.chat-log .bubble.send { background: #39e; color: white; }
-.chat-log .bubble.recv { background: #eee; }
+.chat-log .bubble.send { background: light-dark(#39e, #79f5); color: white; }
+.chat-log .bubble.recv { background: light-dark(#eee, #9995); color: light-dark(#333, #ddd); }
 .chat-log .send { align-self: end; }
 .chat-log .recv { align-self: start; }
 .chat-log .speaker { opacity: 0.75; font-size: 0.8rem; }
@@ -146,3 +150,9 @@ li small { padding-inline-start: 1em; }
 table.index tr:nth-child(1n + 14) { opacity: 0.5 }
 audio { margin: 0.5rem auto; }
 .center-audio { display: table; margin: 0.5rem auto; }
+
+@media (prefers-color-scheme: dark) {
+  img[alt] {
+    filter: invert(1) hue-rotate(140deg) contrast(0.6) brightness(1.1);
+  }
+}

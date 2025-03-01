@@ -62,7 +62,7 @@ You can start a sentence with a noun and _bï_{:.t} to specify a "topic" that th
 > _Ké zu **bï**, de ké toa._{:.t}<br>
 > As for the language: the words are beautiful.
 
-This word is in the only tone we haven't seen yet: the **glottal tone**. It's pronounced as a low tone with a little "glottal stop" in the middle, like in "uh-oh" or "nuh-uh".
+This word is in the only tone we haven't seen yet: the **glottal tone**, marked by two dots on the first vowel of a word. It's only used for particles: everyday verbs are never in the glottal tone. It's pronounced as a low tone with a little "glottal stop" in the middle, like in "uh-oh" or "nuh-uh".
 
 {:.tone-figure}
 _Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _Ráqsu._{:.t2}

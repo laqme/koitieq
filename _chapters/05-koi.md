@@ -118,6 +118,7 @@ For the first time, this dialogue contains nouns that aren't proper nouns. In To
 
 Toaq doesn't have separate singular and plural forms of nouns. A description like _ké&nbsp;pıca_{:.t} can really mean _the pizza_ or _the pizzas_.
 
+<!--
 <details class="aside grammar" markdown="1">
 <summary>Endophoric and exophoric reference</summary>
 
@@ -137,6 +138,27 @@ Some Toaq words can only be used for anaphora, whereas others can only make exop
 
 - _Ní_{:.t} refers exophorically to something near the speaker.
 - _Ké_{:.t} is a generic definite article, like "the." (It used to be only for exophoric reference, but nowadays it's generic.)
+
+</details>
+-->
+
+<details class="aside grammar" markdown="1">
+<summary>Making nouns from two-slot verbs</summary>
+
+If _paı_{:.t} means "▯ is a friend of ▯", can we say _ké paı_{:.t} to mean "the friend"?
+
+Well... maybe. Toaqists certainly do this a lot, but it really faces the same problem as "underfilling", as we discussed in the previous chapter: "the friend" of _whom_? It's hard to pick a reasonable default.
+
+In a future lesson, we'll learn how to make a noun from a verb while also filling the second slot. But for now, let's pretend you can only make nouns out of one-slot verbs.
+
+Some two-slot verbs have one-slot variants, for ease of underfilling or making nouns out of them.
+
+| Word | Meaning |
+| ---- | ------- |
+| _chuq_{:.t} | ▯ eats ▯ |
+| _haqchuq_{:.t} | ▯ eats food |
+| _pao_{:.t} | ▯ is a parent of ▯ |
+| _deopao_{:.t} | ▯ is a parent |
 
 </details>
 

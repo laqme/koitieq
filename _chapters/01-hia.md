@@ -6,7 +6,7 @@ slug: "1"
 subject: "what is Toaq?"
 ---
 
-This book is a textbook for Toaq. Toaq is a constructed language, or _conlang:_ a human language created with a purpose, like Esperanto or Toki Pona. The name is pronounced /ˈtʰo.aŋ/.
+This book is a textbook for Toaq. Toaq is a constructed language, or _conlang:_ a human language created with a purpose, like Esperanto or Toki Pona. The name is pronounced <button onclick="this.firstChild.play()"><audio><source src="../assets/audio/toaq.ogg"></audio>/ˈtʰo.aŋ/</button>.
 
 What, then, is its purpose? Toaq is a **loglang**, in the tradition of Loglan and Lojban. Conlangs in this family investigate the interaction between logic and language. Specifically, in Toaq, each valid sentence has a single way to parse its grammar, and then _calculate_ its meaning by following a certain algorithm.
 
@@ -43,7 +43,7 @@ Essentially, Toaq is a [_formal language_](https://en.wikipedia.org/wiki/Formal_
 > <audio controls><source src="../assets/audio/alisi.ogg"></audio>
 {: style="line-height:1.3;margin:2em 3em;"}
 
-Toaq exists at the intersection of human languages like English and formal languages like Prolog, and may be analyzed using tools from either world. This textbook sets out to teach Toaq more or less as though it were a natural, human language. The main parts of the text stay friendly, and focus on helping you understand and communicate in Toaq.
+Toaq exists at the intersection of human languages and formal languages, and may be analyzed using tools from either world. This textbook sets out to teach Toaq more or less as though it were a natural, human language. The main parts of the text stay friendly, and focus on helping you understand and communicate in Toaq.
 
 From time to time, there will be "asides," in colored boxes, explaining what is really going on behind the scenes, but these are merely supplemental to the main texts and explanations in the book. You will encounter the following kinds of asides:
 
@@ -70,12 +70,14 @@ It may be wise to skip over technical asides on a first reading of the book, and
 
 Toaq's development has taken it through multiple _versions_. Each new version is named by a new Greek letter. Toaq Alpha (2013) and Toaq Beta (2017) served as predecessors to a planned "final version" of the language. The next version, in 2021, was called Gamma by the community, and released roughly alongside a tutorial called _Toaq with Ease_.
 
-In the process of formalizing this language by writing a parser, it became clear that the language needed some far-reaching changes to meet its goal, leading to the development of Toaq Delta in 2022. The formalization process continued with work on a new parser, called [_Kuna_](https://github.com/toaq/kuna). Questions that came up during the development of this new parser, in turn, inspired some new ideas about scope, negation, and so on. This course aims to document a version of Toaq that incorporates those ideas while not being so radical as to call it Epsilon.
+In the process of formalizing this language by writing a parser, it became clear that the language needed some far-reaching changes to meet its goal, leading to the development of Toaq Delta in 2022. The formalization process continued with work on a new parser, called [_Kuna_](https://github.com/toaq/kuna). Questions that came up during the development of this new parser, in turn, inspired some new ideas about the syntax and semantics.
+
+This course aims to document a version of "community Toaq" that incorporates these modern ideas in a moderate way. For an official description of Toaq Delta by its author, see the [reference grammar](https://toaq.net/refgram/introduction/).
 
 <details class="aside grammar" markdown="1">
-<summary>Which version of Toaq, exactly?</summary>
+<summary>Which proposals are included?</summary>
 
-It's Toaq Delta + [Simple Focus](https://toaq.me/Simple_Focus) + [Pronoun structure](https://toaq.me/Pronoun_structure) + [Some Scope Creep](https://toaq.me/Some_Scope_Creep) + [Kıazıu](https://toaq.me/Kıazıu) + [Eatoaq](https://robin.town/blog/sa-ea-buriaq)'s complementizers, pendents, generics, discursives, variable names.
+It's Toaq Delta + [Simple Focus](https://toaq.me/Simple_Focus) + [Pronoun structure](https://toaq.me/Pronoun_structure) + [Some Scope Creep](https://toaq.me/Some_Scope_Creep) + [Kıazıu](https://toaq.me/Kıazıu) + [Eatoaq](https://robin.town/blog/sa-ea-buriaq)'s complementizers, pendents, generics, discursives, variable names (but not the three-tone system, middlethought connectives, etc.)
 
 </details>
 

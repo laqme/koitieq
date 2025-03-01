@@ -94,7 +94,6 @@ The letter _ꝡ_{:.t} can be even trickier to type. You'll often see _v_{:.t}, _
 Tones might be omitted in a hurry, or spelled with digits --- _níchaq bï_{:.t} can become _nichaq2 bi3_{:.t} or just _nichaq bi_{:.t}. There's an article explaining various [input methods](https://toaq.me/Input_methods) on the Toaq Wiki.
 </details>
 
-
 ## Mass nouns
 
 Toaq doesn't treat mass nouns specially. A verb like _nao_{:.t} "▯ is water" really means "▯ is a quantity of water". So _tú nao_{:.t} means "each mass of water" — for example, it might quantify over all the _waters_ in everyone's glasses at a dinner table.

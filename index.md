@@ -13,7 +13,7 @@ This is a work-in-progress textbook for Toaq.
 <table class="index"><tbody>
 {% for chapter in site.chapters %}
 <tr>
-  <td style="width: 10rem;"><a href="{{chapter.url | relative_url}}"><b lang="qtq">{{chapter.chapter}}. {{ chapter.title }}</b></a></td>
+  <td style="width: 10rem;"><a lang="qtq" href="{{chapter.url | relative_url}}"><b>{{chapter.chapter}}. {{ chapter.title }}</b></a></td>
   <td style="padding-left: 0.25em;">… {{chapter.subject}}</td>
 </tr>
 {% endfor %}

@@ -60,7 +60,7 @@ Toaq words are pronounced with stress on the first syllable, and tone continuing
 | If a word doesn't have any tone mark, it's in the **falling tone**. | If a word has an **accent** (´)  on the first vowel, it's in the **rising tone**. | If a word has a **caret** (^) on the first vowel, it's in the **hiatus tone**. |
 | _ahı_{:.t1 style="line-height:4"} | _áhı_{:.t2} | _âhı_{:.t4} |
 
-The hiatus tone is a bit special, because it makes the first vowel of a word longer, as if to make room for the rise and the fall. So, _âhı_{:.t} is pronounced a bit like _á-ahı_{:.t}.
+The hiatus tone is a bit special, because it stretches the first vowel of a word into two syllables, as if to make room for the rise and the fall. So, _âhı_{:.t} is pronounced a bit like _á-ahı_{:.t}.
 
 Parts of speech are affected differently by the tones. We can see from this story that the rising tone turns an interjection into a question, while the hiatus tone turns it into a sort of expression of empathy. But further in the book, we'll see that (for example) the rising tone turns verbs into nouns, and the hiatus tone turns them into adverbs.
 
@@ -84,5 +84,5 @@ Don't worry too much about doing it perfectly. Producing the tones exactly right
 <summary>Syntactic and lexical tone</summary>
 Generally speaking, the role of tone is _syntactic_, not _lexical_. _Due_{:.t} and _dûe_{:.t} mean "correct" and "correctly", respectively, rather than being completely different dictionary words.
 
-But there is a little bit of _lexical tone_ in Toaq as well: _da_{:.t} is an interjection meaning "well", whereas _nä_{:.t} is an unrelated grammatical particle. In fact, the tonal patterns found among Toaq's interjections are vague enough to say that _nho, nhó, zı, zí_{:.t} are all just different lexemes.
+But there is a little bit of _lexical tone_ in Toaq as well: _na_{:.t} is an interjection meaning "well", whereas _nä_{:.t} is an unrelated grammatical particle. In fact, the tonal patterns found among Toaq's interjections are vague enough to say that _nho, nhó, zı, zí_{:.t} are all just different lexemes.
 </details>

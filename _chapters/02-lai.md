@@ -50,8 +50,8 @@ The following four combinations of vowels are exceptions to this:
 | ------- | ------------- |
 | aı | \[aj\] (as in _b**ye**_) |
 | ao | \[aw\] (as in _n**ow**_) |
-| eı | \[ej\] (as in _w**eigh**_) |
-| oı | \[oj\] (as in _b**oy**_) |
+| eı | \[ɛj\] (as in _w**eigh**_) |
+| oı | \[ɔj\] (as in _b**oy**_) |
 
 <audio controls class="center-audio"><source src="../assets/audio/ai-ao-ei-oi.ogg"></audio>
 
@@ -74,7 +74,7 @@ A finer point of Toaq pronunciation is that vowels before _q_{:.t} are pronounce
 
 ## Deranı
 
-Toaq has a "native" writing system called _Déranı_{:.t}. It's not used in this textbook, because the Latin script is what gets used more in daily life. It looks like this:
+Toaq has a writing system called _Déranı_{:.t}. It's not used in this textbook, because the Latin script is what gets used more in daily life. It looks like this:
 
 > <span style="font:16px IosevkaToaq;line-height:1.6">󱚲󱛃 󱛘󱚰󱛊󱚹󱛛󱛓󱚶󱚴󱚻󱚺󱚵󱚹󱛓󱛙 󱚺󱛊󱚺 󱛘󱚼󱚶󱛙 󱛔 󱚿󱛋󱚴 󱚹󱛃󱛂 󱛆󱛊󱛃󱛍󱚺 󱛀󱛊󱚹 󱛘󱚻󱚹󱛍󱚺󱚼󱚺󱛂󱛙 󱚲󱛊󱚸󱛒󱚻󱚲 󱛀󱛊󱚹 󱛘󱚲󱛃󱛂󱚼󱚺󱛂󱛙 󱛕</span><br>
 > _Bo mí Deranı sá laı, ꝡë coq hóa shí rıalaq bẹ́ıru shí boqlaq._{:.t}<br>
