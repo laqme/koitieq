@@ -147,7 +147,6 @@ li small { padding-inline-start: 1em; }
 .sb { background-color: currentColor; margin: -2rem 0.2rem -2rem -0.2rem; padding: 2rem 0.2rem; }
 .sb>i { color: white; font-style: normal;}
 
-table.index tr:nth-child(1n + 14) { opacity: 0.5 }
 audio { margin: 0.5rem auto; }
 .center-audio { display: table; margin: 0.5rem auto; }
 
