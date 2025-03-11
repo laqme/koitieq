@@ -30,25 +30,25 @@ Náo just finished explaining a complicated job to Tóma. She asks...
 
 {:.tone-figure}
 _Ína,_{:.t2} _ínha?_{:.t2}
-<audio controls class="center-audio"><source src="../assets/audio/ina-inha.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/ina-inha.mp3"></audio>
 
 And Tóma shows that he understood, and will do as she asked:
 
 {:.tone-figure}
 _Nho,_{:.t1} _ına._{:.t1} _Inha._{:.t1}
-<audio controls class="center-audio"><source src="../assets/audio/nho-ina-inha.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/nho-ina-inha.mp3"></audio>
 
 While he's working on the job, Tóma cries out:
 
 {:.tone-figure}
 _Ahı!_{:.t1}
-<audio controls class="center-audio"><source src="../assets/audio/ahi.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/ahi.mp3"></audio>
 
 Náo worries that he's hurt — then rushes over and sees the papercut on his hand.
 
 {:.tone-figure}
 _Áhı?_{:.t2} ... _Âhı._{:.t4}
-<audio controls class="center-audio"><source src="../assets/audio/ahi-ahi.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/ahi-ahi.mp3"></audio>
 
 ## Tones
 
@@ -74,7 +74,7 @@ In the next chapters, take care to practice reading words _with the correct tone
 
 {:.tone-figure}
 _Choa_{:.t1} _súq_{:.t2} _ní_{:.t2} _kuna_{:.t1} _dûe_{:.t4} _ba._{:.t1}
-<audio controls class="center-audio"><source src="../assets/audio/choa-suq-ni.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/choa-suq-ni.mp3"></audio>
 
 (That means: "pronounce this sentence correctly.")
 

@@ -6,7 +6,7 @@ slug: "1"
 subject: "what is Toaq?"
 ---
 
-This book is a textbook for Toaq. Toaq is a constructed language, or _conlang:_ a human language created with a purpose, like Esperanto or Toki Pona. The name is pronounced <button onclick="this.firstChild.play()"><audio><source src="../assets/audio/toaq.ogg"></audio>/ˈtʰo.aŋ/</button>.
+This book is a textbook for Toaq. Toaq is a constructed language, or _conlang:_ a human language created with a purpose, like Esperanto or Toki Pona. The name is pronounced <button onclick="this.firstChild.play()"><audio><source src="../assets/audio/toaq.mp3"></audio>/ˈtʰo.aŋ/</button>.
 
 What, then, is its purpose? Toaq is a **loglang**, in the tradition of Loglan and Lojban. Conlangs in this family investigate the interaction between logic and language. Specifically, in Toaq, each valid sentence has a single way to parse its grammar, and then _calculate_ its meaning by following a certain algorithm.
 
@@ -18,20 +18,20 @@ Essentially, Toaq is a [_formal language_](https://en.wikipedia.org/wiki/Formal_
 
 > _Jueq há ké kubolue róı ké tıuq ba._{:.t} \
 > _Mix the egg yolks and the sugar together._{:.sm}
-> <audio controls><source src="../assets/audio/jueq-ha.ogg"></audio>
+> <audio controls><source src="../assets/audio/jueq-ha.mp3"></audio>
 >
 > _Haıda ní sheq téqna nha, hóꝡa jóm fıe!_{:.t} \
 > _This blade shall lay waste to thee, vile demon!_{:.sm}
-> <audio controls><source src="../assets/audio/haida-ni.ogg"></audio>
+> <audio controls><source src="../assets/audio/haida-ni.mp3"></audio>
 >
 > _Foaına, Tóaqzu bï, sá jıoqjuao nä, tıembo tú kuna zujuaodue tó shí chateı, lâ muaogaı há ké kunateı hoqbo, rúbıe jıoq há ké muı hôq lîeı jíoqjuao da._{:.t} \
 > _Specifically, as for Toaq, there is an algorithm J, so that each valid sentence has only one way to parse its grammar, and then calculate its meaning by following J._{:.sm}
-> <audio controls><source src="../assets/audio/foaina.ogg"></audio>
+> <audio controls><source src="../assets/audio/foaina.mp3"></audio>
 >
 > <!--
 > _jeba ahaha sieqnhe juagi ni2 foto vei_{:.t} \
 > _dude hahaha this pic is amazingly cursed_{:.sm}
-> <audio controls><source src="../assets/audio/jeba.ogg"></audio>
+> <audio controls><source src="../assets/audio/jeba.mp3"></audio>
 > -->
 >
 <!-- > _Gıtu :) â, ma noalıe súq kú, lá joaıtaı já báq toa tıao chôq Tóadua móq?_{:.t} \
@@ -40,7 +40,7 @@ Essentially, Toaq is a [_formal language_](https://en.wikipedia.org/wiki/Formal_
 > _« Bu deq kuıdo jí pó áq, kushe », ïe kuq Álısı hóa kı, \
 > « kûı kú, ꝡá bu eq jí áq dâ. »_{:.t} \
 > _“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m not myself, you see.”_{:.sm}
-> <audio controls><source src="../assets/audio/alisi.ogg"></audio>
+> <audio controls><source src="../assets/audio/alisi.mp3"></audio>
 {: style="line-height:1.3;margin:2em 3em;"}
 
 Toaq exists at the intersection of human languages and formal languages, and may be analyzed using tools from either world. This textbook sets out to teach Toaq more or less as though it were a natural, human language. The main parts of the text stay friendly, and focus on helping you understand and communicate in Toaq.

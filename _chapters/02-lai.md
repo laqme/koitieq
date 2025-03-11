@@ -37,12 +37,12 @@ Toaq is most often written using the Latin alphabet, as in this book. There are 
 | _ꝡ_{:.t} | /w\~j/ | _**w**et_ or _**y**et_ (see below) |
 | _z_{:.t} | /d͡z/ | _be**ds**_ |
 
-<audio controls class="center-audio"><source src="../assets/audio/abc.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/abc.mp3"></audio>
 
 ## Diphthongs
 When a word contains multiple successive vowels, they are usually pronounced as separate syllables. For example, _Toaq_{:.t} is pronounced /to.aŋ/ and _kua_{:.t} as /ku.a/.
 
-<audio controls class="center-audio"><source src="../assets/audio/toaq-kua.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/toaq-kua.mp3"></audio>
 
 The following four combinations of vowels are exceptions to this:
 
@@ -53,7 +53,7 @@ The following four combinations of vowels are exceptions to this:
 | eı | \[ɛj\] (as in _w**eigh**_) |
 | oı | \[ɔj\] (as in _b**oy**_) |
 
-<audio controls class="center-audio"><source src="../assets/audio/ai-ao-ei-oi.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/ai-ao-ei-oi.mp3"></audio>
 
 ## Pronouncing _ꝡ_{:.t}
 The pronunciation of the consonant _ꝡ_{:.t} depends on the vowel that comes before it.
@@ -68,7 +68,7 @@ One way to think of this is that _ꝡ_{:.t} wants you to move your lips. After _
 <summary>Closed syllables</summary>
 A finer point of Toaq pronunciation is that vowels before _q_{:.t} are pronounced slightly shorter and more "closed" than other vowels. For example, the syllable _gu_{:.t} is pronounced [guː] and _gum_{:.t} is pronounced [guːm], but _guq_{:.t} is pronounced [gʊŋ].
 
-<audio controls class="center-audio"><source src="../assets/audio/gu-gum-guq.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/gu-gum-guq.mp3"></audio>
 
 </details>
 

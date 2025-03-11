@@ -66,7 +66,7 @@ This word is in the only tone we haven't seen yet: the **glottal tone**, marked 
 
 {:.tone-figure}
 _Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _Ráqsu._{:.t2}
-<audio controls class="center-audio"><source src="../assets/audio/nichaq-bi.ogg"></audio>
+<audio controls class="center-audio"><source src="../assets/audio/nichaq-bi.mp3"></audio>
 
 ## More articles: _sá tú sía hú_{:.t}
 
