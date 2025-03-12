@@ -103,10 +103,10 @@ Translate these sentences:
 1. I understand the word "gochıq".
 1. The cat is asleep.
 1. He watches the movie. <small markdown="1">(Use _si_{:.t} for "watch.")</small>
-1. _Kaı súq ní toa ba._{:.t}
+1. _Kuq súq ní toa ba._{:.t}
 1. _Choq ké poq ní chuo dâ._{:.t}
 1. _Ma de ní kıq?_{:.t}
 1. _Hıchu, marao úmo ba._{:.t}
 1. _Ma zao súq Míqte móq?_{:.t}
-1. _Raq ní lua ké req._{:.t}
+1. _Fıeq ké req ní lua._{:.t}
 1. _Kuq nháo mó << jadı, hóı súq! >> teo._{:.t}

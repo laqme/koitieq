@@ -1,7 +1,10 @@
 /* Fonts */
 
-@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,700;1,400;1,700&family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=block");
-@import url("https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@font-face {
+  src: url("./FiraMath-Regular.otf") format(otf);
+  font-family: "Fira Sans";
+  /* unicode-range: U+F????; */
+}
 
 @font-face {
   src: url("./IosevkaToaqAile-Regular.woff2") format(woff2);
