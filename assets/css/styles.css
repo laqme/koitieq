@@ -1,10 +1,9 @@
 /* Fonts */
 
-@font-face {
+/* @font-face {
   src: url("./FiraMath-Regular.otf") format(otf);
   font-family: "Fira Sans";
-  /* unicode-range: U+F????; */
-}
+} */
 
 @font-face {
   src: url("./IosevkaToaqAile-Regular.woff2") format(woff2);
