@@ -147,7 +147,7 @@ Some Toaq words can only be used for anaphora, whereas others can only make exop
 
 If _paı_{:.t} means "▯ is a friend of ▯", can we say _ké paı_{:.t} to mean "the friend"?
 
-Well... maybe. Toaqists certainly do this a lot, but it really faces the same problem as "underfilling", as we discussed in the previous chapter: "the friend" of _whom_? It's hard to pick a reasonable default.
+Well... maybe. Toaqists certainly do this a lot, but it really faces the same problem as "underfilling", as we discussed in the previous chapter: "the friend" of _whom_? It's hard to pick a reasonable default to fill the second slot with.
 
 In a future lesson, we'll learn how to make a noun from a verb while also filling the second slot. But for now, let's pretend you can only make nouns out of one-slot verbs.
 

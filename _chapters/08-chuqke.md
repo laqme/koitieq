@@ -98,11 +98,6 @@ Tones might be omitted in a hurry, or spelled with digits --- _níchaq bï_{:.t}
 
 Toaq doesn't treat mass nouns specially. A verb like _nao_{:.t} "▯ is water" really means "▯ is a quantity of water". So _tú nao_{:.t} means "each mass of water" — for example, it might quantify over all the _waters_ in everyone's glasses at a dinner table.
 
-<details class="aside semantics" markdown="1">
-<summary>Mereology</summary>
-TODO: no idea what I wanna write here tbh
-</details>
-
 ## Adjectives
 
 In Toaq, verbs can be used as adjectives by placing them after a "noun". When you see an article followed by two verbs, it's a so-called adjective modifying a so-called noun.
@@ -129,6 +124,8 @@ Of course, because everything is verbs, you have a bit more freedom than in othe
 It makes sense to point at an elephant and say "this is a small elephant", but it's a bit strange to call it a "small animal", right?
 
 The meaning of _sá elu nuı_{:.t} (a small elephant) might not be as simple as "_x_ is an elephant and _x_ is small." Rather, there's a notion of being "small for an elephant" that this phrase captures. We say that adjectives do the same thing in Toaq.
+
+As such, there is a slight difference between _sá nuı de_{:.t} (a small thing that's pretty compared to the average small thing) and _sá de nuı_{:.t} (a pretty thing that's small compared to the average pretty thing.)
 
 Linguists call adjectives like _small_ **non-intersective**. Other adjectives, like _red_, are **intersective**, meaning that a "red house" really is simply a house which is red.
 </details>
@@ -160,7 +157,7 @@ Whereas _mala_{:.t} is unlimited, and expresses that the claim in the sentence h
 The default tense is a "vague, definite time reference." Wait, how can it be both vague _and_ definite?! Let's look at an example.
 
 > _Chuq jí ké sushı._{:.t}<br>
-> (At time _t_,) I eat the sushi.
+> (During time _t_,) I eat the sushi.
 
 It's definite, in the sense that we constrain the existence of the eating-event to some time _t_ that we have in mind, but it's also vague, in that we don't say when this time _t_ is.
 
@@ -169,7 +166,7 @@ The default tense has a spoken form, too: _tuom_{:.t}. But it's rarely used — 
 The difference between _pu_{:.t} and _mala_{:.t} is that _pu_{:.t} only adds the detail that this vague, definite time _t_ is in the past, whereas _mala_{:.t} introduces an existential quantifier.
 
 > _**Pu** chuq jí ké sushı._{:.t}<br>
-> (At time _t_, **which is in the past**,) I eat the sushi.
+> (During time _t_, **which is in the past**,) I eat the sushi.
 
 > _**Mala** chuq jí ké sushı._{:.t}<br>
 > **There exists a past time _t_, at which** I eat the sushi.
