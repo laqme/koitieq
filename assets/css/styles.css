@@ -1,9 +1,16 @@
 /* Fonts */
 
-/* @font-face {
-  src: url("./FiraMath-Regular.otf") format(otf);
+@font-face {
+  src: url("./FiraSans-Regular-vy.woff2") format(woff2);
   font-family: "Fira Sans";
-} */
+  font-weight: 400;
+}
+
+@font-face {
+  src: url("./FiraSans-Bold-vy.woff2") format(woff2);
+  font-family: "Fira Sans";
+  font-weight: 700;
+}
 
 @font-face {
   src: url("./IosevkaToaqAile-Regular.woff2") format(woff2);
@@ -28,7 +35,7 @@ input, button, textarea, select { font-family: inherit; font-size: inherit; }
 
 html {
   color-scheme: light dark;
-  --sans: "Fira Sans", "Andika", sans-serif;
+  --sans: "Fira Sans", sans-serif;
   color: light-dark(#222, #ccc);
   background: light-dark(#fcfcfd, #1c0c38);
   --primary: light-dark(#27e, #5af);
