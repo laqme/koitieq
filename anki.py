@@ -51,4 +51,4 @@ for fn in Path("./_chapters").glob("*.md"):
                 fields = [toaq, english, str(chapter)]
                 deck.add_note(genanki.Note(model=koitieq_model, fields=fields))
 
-genanki.Package(deck).write_to_file("koitieq.apkg")
+genanki.Package(deck).write_to_file("Koitieq.apkg")
