@@ -18,6 +18,11 @@
   /* unicode-range: U+F????; */
 }
 
+@font-face {
+  font-family: 'Derani';
+  src: url('./Derani.woff2') format('woff2');
+}
+
 /* Reset */
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -60,6 +65,9 @@ header nav { padding-top: 1em; padding-left: 2em; }
 .t, [lang=qtq] { color: var(--primary); }
 em.t { font-style: normal; }
 em.sm { font-size: 0.9rem; line-height: 1.2; }
+.t.delta-derani { font-family: "Derani", sans-serif; font-size: 14px; color: #e07; }
+.t.delta { position: relative; border: 1px solid currentColor; padding: 1px 3px; margin-left: 9px; }
+.t.delta::before { content: "δ"; position: absolute; vertical-align: top; left: -9px; font-size: 12px; }
 
 .chapter { margin: 0 auto; padding: 1.5em; }
 
@@ -89,6 +97,7 @@ blockquote { margin: 1em 20px; }
 .aside.grammar { background: light-dark(#fee8d0, #f803); }
 .aside.semantics { background: light-dark(#ddeefe, #5cf3); }
 .aside.culture { background: light-dark(#fedde8, #f083); }
+.aside.history { background: light-dark(#e8e8e8, #8883); }
 
 summary { font-weight: 500; letter-spacing: 0.5px; cursor: pointer; }
 li small { padding-inline-start: 1em; }

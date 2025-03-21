@@ -180,10 +180,10 @@ Linguists might call them something like "argument phrases." When being more pro
 
 </details>
 
-<details class="aside grammar" markdown="1">
-<summary>What happened to <i class="t">mí</i>?</summary>
+<details class="aside history" markdown="1">
+<summary>The word <em class="t">mí</em></summary>
 
-If you've learned some Toaq before, you may know that another way to refer to things by name in Toaq is _mí **name**{:.v}_{:.t}. This still works fine!
+If you've learned some Toaq before, you may know that the official Toaq Delta way to refer to things by name in Toaq is _mí **name**{:.v}_{:.t}. This still works fine!
 
 In this textbook, we adopt the convention that the rising tone makes _variable names_, and that there's no real difference between a proper name in the real world and a variable name in the logic world. So, _Míqte_{:.t} refers to Lucas's new friend because of some _context_ that that name is used in, just like how pronouns refer to the right thing in their own, smaller context.
 
