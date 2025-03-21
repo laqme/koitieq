@@ -16,8 +16,8 @@ That was a lot of grammar. Let's spend a lesson simply expanding our vocabulary.
 | _req_{:.t} | ▯ is a human |
 | _deo_{:.t} | ▯ is a child |
 | _nıaı_{:.t} | ▯ is an animal |
-| _gochıq_{:.t} | ▯ is a cat |
-| _asu_{:.t} | ▯ is a dog |
+| _kato_{:.t} | ▯ is a cat |
+| _kune_{:.t} | ▯ is a dog |
 | _cıe_{:.t} | ▯ is a fish |
 | _jıbo_{:.t} | ▯ is mine |
 | _suqbo_{:.t} | ▯ is yours |
@@ -100,7 +100,7 @@ Translate these sentences:
 1. This dog is mine. <small markdown="1">("is mine" will be the verb.)</small>
 1. She greets the child.
 1. Okay, I'll make the pizza. <small markdown="1">(This is a promise; use _nha_{:.t}.)</small>
-1. I understand the word "gochıq".
+1. I understand the word "kato".
 1. The cat is asleep.
 1. He watches the movie. <small markdown="1">(Use _si_{:.t} for "watch.")</small>
 1. _Kuq súq ní toa ba._{:.t}
