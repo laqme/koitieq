@@ -140,7 +140,7 @@ _Marao_{:.t.t1} _jí_{:.t.t2} _^_{: style="visibility:hidden"} _jâq_{:.t.t4} _j
 
 ## Eventive vs. subject-sharing
 
-In _marao jí **jâı**_{:.t}, it's me who's happy, but in _kaq jí ké toa **jîm**_{:.t}, it's not me who's brief. What's going on?
+In _marao jí **jâı**_{:.t}, it's me who's happy, but in _marao jí **jîm**_{:.t}, it's not me who's brief. What's going on?
 
 If the verb being turned into an adverb _can_ describe events, the adverb is **eventive**, meaning it _applies to the event_ being described by that sentence.
 

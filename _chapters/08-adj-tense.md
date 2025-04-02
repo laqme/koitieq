@@ -63,26 +63,6 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 | _nuı_{:.t} | ▯ is small |
 | _nıq_{:.t} | ▯ is new |
 
-<!-- | _hoeıhaq_{:.t} | ▯ is breakfast | -->
-<!-- | _chuhaq_{:.t} | ▯ is lunch | -->
-<!-- | _seumhaq_{:.t} | ▯ is dinner | -->
-<!-- | _nam_{:.t} | ▯ is bread | -->
-<!-- | _feaq_{:.t} | ▯ is rice | -->
-<!--  -->
-<!-- | Word | Meaning | -->
-<!-- | --- | --- | -->
-<!-- | _zeo_{:.t} | ▯ is fruit | -->
-<!-- | _maoja_{:.t} | ▯ is a banana | -->
-<!-- | _maqkaı_{:.t} | ▯ is a mango | -->
-<!-- | _shamu_{:.t} | ▯ is an apple | -->
-<!-- | _noaı_{:.t} | ▯ is milk | -->
-<!-- | _kafe_{:.t} | ▯ is coffee | -->
-<!-- | _zeoze_{:.t} | ▯ is juice | -->
-<!-- | _bıra_{:.t} | ▯ is beer | -->
-<!-- | _geo_{:.t} | ▯ is old (in age) | -->
-<!-- | _nıo_{:.t} | ▯ is young | -->
-<!-- | _zem_{:.t} | ▯ is old (familiar) | -->
-
 </div>
 
 <details class="aside culture" markdown="1">

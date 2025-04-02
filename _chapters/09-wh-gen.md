@@ -30,6 +30,7 @@ Lucas and Míqte find the pizzeria, but...
 | _báq **verb**{:.v}_{:.t} | **verb**{:.v}-s in general |
 | _hí **verb**{:.v}_{:.t} | which **verb**{:.v}? |
 | _nánı **verb**{:.v}_{:.t} | that **verb**{:.v} over there |
+| _tıeq_{:.t} | ▯ is a way/path |
 | _kéo_{:.t} | but |
 | _ubaı_{:.t} | alas / too bad |
 | _eju_{:.t} | let's see… / let me think… |
