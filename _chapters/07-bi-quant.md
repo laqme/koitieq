@@ -47,7 +47,6 @@ Ráqsu complains about a bad day to Síoka.
 | _koqpıuta_{:.t} | ▯ is a computer |
 | _zaq_{:.t} | ▯ appears / shows up |
 | _oro_{:.t} | ugh, tsk |
-| _obe_{:.t} | oh, wow |
 | _akoı_{:.t} | poor thing! |
 
 </div>
@@ -125,7 +124,7 @@ If there are multiple quantifying articles in a sentence, the earliest one has i
 
 | Word | Meaning |
 | --- | --- |
-| _raı_{:.t} | ▯ is anything |
+|  _raı_{:.t} | ▯ is anything |
 | _nu_{:.t} | ▯ is such, is like that |
 | _hao_{:.t} | ▯ is you-know-what |
 

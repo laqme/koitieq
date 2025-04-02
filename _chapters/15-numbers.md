@@ -107,7 +107,7 @@ This means that _Zudeq jí shí zu_{:.t} means "I speak a language" and not "I s
 
 | Word | Meaning |
 | --- | --- |
-| _heı_{:.t} | ten |
+|  _heı_{:.t} | ten |
 | _guheı_{:.t} | twenty |
 | _guheı shı_{:.t} | twenty-one |
 | _fue_{:.t} | 100 |

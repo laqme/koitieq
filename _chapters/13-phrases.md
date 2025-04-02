@@ -22,7 +22,6 @@ Toaq is full of interjections, and knowing many of them will help you communicat
 | _jıkı_{:.t} | my pleasure |
 | _kıosha_{:.t} | there! done! |
 | _ose_{:.t} | good effort! |
-| _shadı_{:.t} | welcome! |
 | _shaıdı_{:.t} | goodbye |
 | _taıba_{:.t} | good luck! get 'em! |
 | _tıka_{:.t} | here I am! |
@@ -44,7 +43,6 @@ Toaq is full of interjections, and knowing many of them will help you communicat
 | _oaı_{:.t} | oh shoot, oh no |
 | _ua_{:.t} | wow |
 | _ume_{:.t} | yum! / aaaah~ |
-| _upa_{:.t} | oops |
 | _uq_{:.t} | mhm (I'm listening) |
 
 </div>

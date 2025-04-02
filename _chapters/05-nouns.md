@@ -155,10 +155,10 @@ Some two-slot verbs have one-slot variants, for ease of underfilling or making n
 
 | Word | Meaning |
 | ---- | ------- |
-| _chuq_{:.t} | ▯ eats ▯ |
-| _haqchuq_{:.t} | ▯ eats food |
-| _pao_{:.t} | ▯ is a parent of ▯ |
-| _deopao_{:.t} | ▯ is a parent |
+|  _chuq_{:.t} | ▯ eats ▯ |
+|  _haqchuq_{:.t} | ▯ eats food |
+|  _pao_{:.t} | ▯ is a parent of ▯ |
+|  _deopao_{:.t} | ▯ is a parent |
 
 </details>
 

@@ -35,6 +35,8 @@ deck = genanki.Deck(1472446179, "Kóıtıeq")
 
 re_vocab_item = re.compile(r"^\| _([^_]+)_\{:\.t\} \| (.+) \|$")
 
+vocab_dict = {}
+
 for fn in Path("./_chapters").glob("*.md"):
     chapter = int(fn.name[:2])
     if chapter <= 2:  # Skip phonology
@@ -43,12 +45,19 @@ for fn in Path("./_chapters").glob("*.md"):
         for line in f:
             line = re.sub(r"\*\*([^*]+)\*\*\{:\.v\}", r"<span class=v>\1</span>", line)
             line = line.replace("...", "…")
-            if m := re.match(re_vocab_item, line):
-                toaq = m[1]
-                english = re.sub(r"_([^_]+)_", r"<em>\1</em>", m[2])
-                if chapter == 15 and "–" in m[2]:
-                    continue  # Skip fancy month names
-                fields = [toaq, english, str(chapter)]
-                deck.add_note(genanki.Note(model=koitieq_model, fields=fields))
+            m = re.match(re_vocab_item, line)
+            if not m:
+                continue
+
+            toaq = m[1]
+            english = re.sub(r"_([^_]+)_", r"<em>\1</em>", m[2])
+            if chapter == 15 and "–" in m[2]:
+                continue  # Skip fancy month names
+
+            fields = [toaq, english, str(chapter)]
+            deck.add_note(genanki.Note(model=koitieq_model, fields=fields))
+            if toaq in vocab_dict:
+                print(f"!!! Duplicate word: {toaq} in {vocab_dict[toaq]} and {chapter}")
+            vocab_dict[toaq] = chapter
 
 genanki.Package(deck).write_to_file("Koitieq.apkg")
