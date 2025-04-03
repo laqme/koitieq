@@ -1,18 +1,6 @@
 /* Fonts */
 
 @font-face {
-  src: url("./FiraSans-Regular-vy.woff2") format(woff2);
-  font-family: "Fira Sans";
-  font-weight: 400;
-}
-
-@font-face {
-  src: url("./FiraSans-Bold-vy.woff2") format(woff2);
-  font-family: "Fira Sans";
-  font-weight: 700;
-}
-
-@font-face {
   src: url("./IosevkaToaqAile-Regular.woff2") format(woff2);
   font-family: IosevkaToaq;
   /* unicode-range: U+F????; */
@@ -38,16 +26,7 @@ input, button, textarea, select { font-family: inherit; font-size: inherit; }
 
 /* ========================= Koitieq =========================== */
 
-html {
-  color-scheme: light dark;
-  --sans: "Fira Sans", sans-serif;
-  color: light-dark(#222, #ccc);
-  background: light-dark(#fcfcfd, #1c0c38);
-  --primary: light-dark(#27e, #5af);
-}
-
 audio, audio::-webkit-media-controls-panel { height: 30px; }
-
 
 a { color: inherit; }
 a[href]:hover { color: var(--primary); }
