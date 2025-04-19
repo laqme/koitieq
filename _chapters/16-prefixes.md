@@ -195,7 +195,7 @@ But wait! What about _ẹ-_{:.t}? Doesn't that start with a vowel?
 
 Well, when a Toaq word is written with a vowel at the start, there's actually an implied glottal stop before it that we don't write. In the middle of a word, we do write this glottal stop as an apostrophe.
 
-> _Afarı_{:.t} /ʔa.fa.ɾi/<br>African
+> _Afarı_{:.t} /ʔa.fa.ɾi/<br/>African
 >
 > _Namı'afarı_{:.t} /na.mi.ʔa.fa.ɾi/<br>South African
 
