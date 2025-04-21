@@ -154,3 +154,9 @@ audio { margin: 0.5rem auto; }
 }
 
 sup, sub { line-height: 0; }
+
+.serial-combine { text-align: center; display: flex; justify-content: center; gap: 2em; }
+.serial-part { text-align: center; padding: 0; margin: 0; }
+.serial-result { text-align: center; margin: 1em; display: flex; padding: 0; }
+.serial-result>* { margin: auto; }
+.subs { font-weight: normal;  padding: 0.1rem 0.2rem; margin: -0.1rem 0; border-inline-end: 1px solid currentColor; border-block-end: 1px solid currentColor; border-end-end-radius: 2px; }
