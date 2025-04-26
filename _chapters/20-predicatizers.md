@@ -3,7 +3,7 @@ title: "Mea ké kuepaq jí"
 title_en: "I'm one of the chapters"
 chapter: 20
 slug: "20"
-subject: "predicatizers, amongness, distributivity"
+subject: "predicatizers, sóq"
 ---
 
 ## Conversation
