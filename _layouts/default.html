@@ -24,6 +24,67 @@ layout: base
       {% endunless %}
       {% endfor %}
     </nav>
+    {% comment %} --- Mobile Navigation (Síao, Prev, Next) --- {% endcomment %}
+    <nav class="top-nav-mobile">
+      {% assign sorted_chapters = site.chapters | sort: "chapter" %}
+
+      {% comment %} Filter out WIP chapters first {% endcomment %}
+      {% assign non_wip_chapters = "" | split: "" %}
+      {% for ch in sorted_chapters %}
+        {% if ch.wip != true %}
+          {% assign non_wip_chapters = non_wip_chapters | push: ch %}
+        {% endif %}
+      {% endfor %}
+
+      {% comment %} Find the index of the current page in the non-WIP list {% endcomment %}
+      {% assign current_index = -1 %}
+      {% for ch in non_wip_chapters %}
+        {% if ch.url == page.url %}
+          {% assign current_index = forloop.index0 %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% comment %} Determine previous chapter {% endcomment %}
+      {% assign prev_chapter = nil %}
+      {% if current_index > 0 %}
+        {% assign prev_chapter_index = current_index | minus: 1 %}
+        {% assign prev_chapter = non_wip_chapters[prev_chapter_index] %}
+      {% endif %}
+
+      {% comment %} Determine next chapter (handle home page case) {% endcomment %}
+      {% assign next_chapter = nil %}
+      {% assign last_index = non_wip_chapters.size | minus: 1 %}
+      {% if current_index != -1 and current_index < last_index %}
+        {% comment %} Current page is a chapter, and not the last one {% endcomment %}
+        {% assign next_chapter_index = current_index | plus: 1 %}
+        {% assign next_chapter = non_wip_chapters[next_chapter_index] %}
+      {% elsif page.url == "/" and non_wip_chapters.size > 0 %}
+        {% comment %} Current page is home, next is the first chapter {% endcomment %}
+        {% assign next_chapter = non_wip_chapters[0] %}
+      {% endif %}
+
+      {% comment %} --- Output Mobile Nav Links --- {% endcomment %}
+
+      {% comment %} Síao (Home) Link {% endcomment %}
+      {% if "/" == page.url %}
+      {% else %}
+        <a class="nav-item" href="{{ "/" | relative_url }}">Síao</a>
+        &emsp;
+        {% comment %} Previous Chapter Link {% endcomment %}
+        {% if prev_chapter %}
+          <a class="nav-item prev" href="{{ prev_chapter.url | relative_url }}" title="Previous: {{ prev_chapter.chapter }}">← {{ prev_chapter.chapter }}</a>
+        {% endif %}
+
+        <span class="nav-item current">{{ page.chapter }}</span>
+
+        {% comment %} Next Chapter Link {% endcomment %}
+        {% if next_chapter %}
+          <a class="nav-item next" href="{{ next_chapter.url | relative_url }}" title="Next: {{ next_chapter.chapter }}">{{ next_chapter.chapter }} →</a>
+        {% endif %}
+      {% endif %}
+
+    </nav>
   </header>
 
   <main>

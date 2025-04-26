@@ -18,7 +18,7 @@ html { -moz-text-size-adjust: none; -webkit-text-size-adjust: none; text-size-ad
 body, h1, h2, h3, h4, p, figure, blockquote, dl, dd { margin-block-end: 0; }
 ul[role='list'], ol[role='list'] { list-style: none; }
 body { min-height: 100vh; line-height: 1.5; }
-h1, h2, h3, h4, button, input, label { line-height: 1.1; }
+h1, h2, h3, h4, button, input, label { line-height: 1.2; }
 h1, h2, h3, h4 { text-wrap: balance; }
 img, picture { max-width: 100%; display: block; }
 input, button, textarea, select { font-family: inherit; font-size: inherit; }
@@ -42,7 +42,7 @@ header nav { padding-top: 1em; padding-left: 2em; }
 .nav-item.current { font-weight: bold; }
 
 .t, [lang=qtq] { color: var(--primary); }
-em.t { font-style: normal; }
+em.t, i.t { font-style: normal; }
 em.sm { font-size: 0.9rem; line-height: 1.2; }
 .t.delta-derani { font-family: "Derani", sans-serif; font-size: 14px; color: #e07; }
 .t.delta { position: relative; border: 1px solid currentColor; padding: 1px 3px; margin-left: 9px; }
@@ -58,7 +58,8 @@ em.sm { font-size: 0.9rem; line-height: 1.2; }
 .aside>*:first-child { margin-top: 0; }
 .aside>*:last-child { margin-bottom: 0; }
 
-.top-nav { display: flex; }
+.top-nav { display: none; }
+.top-nav-mobile { display: flex; }
 .side-by-side { display: flex; align-items: start; flex-direction: column; }
 
 blockquote { margin: 1em 20px; }
@@ -67,8 +68,19 @@ blockquote { margin: 1em 20px; }
   blockquote { margin: 1em 40px; }
   .chapter { padding-left: 6em; width: 42em; margin: 0 auto 0 0; }
   header nav { padding-left: 6em; }
+  .top-nav { display: flex; }
+  .top-nav-mobile { display: none; }
   /* .sidenote { float: right; clear: right; max-width: 40%; position: relative; margin-right: -45%; } */
   .side-by-side { flex-direction: row; }
+}
+
+.bilingual-header>span[lang=en] { font-style: italic; }
+
+@media screen and (max-width: 749px) {
+  .bilingual-header { display: grid; grid-template-columns: fit-content(2em) 0.2em 1fr; }
+  .bilingual-header>span[lang] { grid-column: 3; }
+  .bilingual-sep { display: none; }
+  .bilingual-header>span[lang=en] { font-size: 75%; }
 }
 
 .prevnext { margin-top: 4rem; margin-bottom: 3rem; }

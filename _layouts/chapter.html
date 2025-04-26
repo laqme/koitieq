@@ -2,7 +2,14 @@
 layout: default
 ---
 <article class="chapter">
-  <h1>{% if page.chapter %}{{ page.chapter }}. {% endif %}<span lang="qtq">{{ page.title }}</span> / <span lang="en">{{ page.title_en }}</span></h1>
+  <h1>
+    <div class="bilingual-header">
+      <span class="bilingual-num">{% if page.chapter %}{{ page.chapter }}. {% endif %}</span>
+      <span lang="qtq">{{ page.title }}</span>
+      <span class="bilingual-sep">/</span>
+      <span lang="en">{{ page.title_en }}</span>
+    </div>
+  </h1>
 
   {{ content }}
 
