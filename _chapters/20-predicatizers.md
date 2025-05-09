@@ -57,7 +57,7 @@ For example, _po **noun**{:.v}_{:.t} means "▯ is of / is associated with **nou
 > _**Po báq dıu** ní kue._{:.t} <small>&emsp;(= _Bẹdıu ní kue_{:.t})</small><br>
 > This book **is of (about) science**.
 
-Predicatizers don't bind a variable like _pó_{:.t}. Instead, _pó **noun**{:.v}_{:.t} is short for _báq po **noun**{:.v}_{:.t}. You often see _pó_{:.t} used as a way to _inexactly refer_ to a noun, meaning "stuff about X" or "things involving X".
+Predicatizers don't bind a variable. After saying _sá po Tóaqzu_{:.t}, we can't refer back to it with _pó_{:.t}. Instead, _pó **noun**{:.v}_{:.t} is short for _báq po **noun**{:.v}_{:.t}. You often see _pó_{:.t} used as a way to _inexactly refer_ to a noun, meaning "stuff about X" or "things involving X".
 
 > _Dua jí **pó Ísıkuızu**._{:.t}<br>
 > I know **Ithkuil things**.
