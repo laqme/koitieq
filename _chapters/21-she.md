@@ -8,6 +8,8 @@ subject: "conditionals, áq, chéq"
 
 ## Conversation
 
+Míqte and Ánhe are talking about feeding their cat, Gége.
+
 {:.chat-log}
 > <div class="send speaker">Míqte
 > </div>
@@ -27,7 +29,7 @@ subject: "conditionals, áq, chéq"
 >
 > <div class="send speaker">Míqte
 > </div>
-> <div class="send bubble" markdown="1">Ꝡa, ıu rara kato súq da. Tíu zoaıcıa jí, ꝡá **ea** haqdo béı súq **áq** nha.
+> <div class="send bubble" markdown="1">Ꝡa, ıu rara kato súq da. Tíu zoaıcıa jí, ꝡá **ea** haqdo béı súq máo **áq** nha.
 > </div>
 >
 > <div class="recv speaker">Ánhe
