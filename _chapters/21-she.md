@@ -123,11 +123,9 @@ Again, we can use it in the falling tone to leave the condition implicit.
 
 A **possible world**, or simply **world**, is just _a way things could be_: a maximal situation. The Standford Encyclopedia of Philosophy has a lovely [introduction](https://plato.stanford.edu/entries/possible-worlds/) (read the first two paragraphs).
 
-Most Toaq sentences are about the real world: they ask "In the real world, is there some event…?" or they claim "In the real world, there exists (…)." But conditionals give us a way to quantify over other worlds: "If you were in Paris right now…" says something about all worlds, _minimally different_ from the real world, in which you are in Paris but everything else pretty much the same.
+Most Toaq sentences are about the real world: they ask "In the real world, is there some event…?" or they claim "In the real world, there exists some event…" But conditionals give us a way to quantify over other worlds: "If you were in Paris right now…" says something about all worlds, _minimally different_ from the real world, in which you are in Paris but everything else is pretty much the same.
 
-Worlds are absolutely everywhere in Toaq semantics. We say that a Toaq clause represents a function from _worlds_ to truth-values. The clause _tı súq Párı_{:.t} "means" (or "denotes") a function _f_, where _f(w)_ is true iff you are in Paris in world _w_.
-
-As semanticists, we say that a speech act particle, like _da_{:.t}, turns such a clause-function _f_ into the declarative speech act that is "declaring _f_ is true of the real world _w<sub>0</sub>_."
+Worlds pop up absolutely everywhere in Toaq semantics. We say that a Toaq clause represents a function from _worlds_ to _truth-values_. A clause _tı súq Párı_{:.t} represents a function _f_, where _f(w)_ is true if and only if you are in Paris in world _w_.
 
 </details>
 
@@ -135,19 +133,19 @@ As semanticists, we say that a speech act particle, like _da_{:.t}, turns such a
 
 ## If I were…
 
-The words _shê/dâı_{:.t} have "counterfactual" counterparts _âo/êa_{:.t}, which add the background information that the condition X is in fact _not_ met in the real world.
+The words _shê/dâı_{:.t} have counterparts _âo/êa_{:.t}, which add the background information that the condition X is in fact _not_ met in the real world. Linguists call these _counterfactual_ or _subjunctive_ conditionals.
 
-In English, this simply corresponds to conditional statements that use the subjunctive.
+In English, this corresponds to conditional statements like "if you were…" or "if we had been…"
 
-The word _ao_{:.t} expresses a "would've-been" necessity:
+The word _ao_{:.t} expresses a counterfactual necessity:
 
 > _**Âo**, ꝡä seo súq Élıza, nä ruaı súq._{:.t}<br>
-> **If** you **were** married to Eliza, you would be royalty.
+> **If** you **were** married to Eliza, you would be royalty. (But you're not.)
 
-And the word _ea_{:.t} expresses a "could've-been" possibility:
+And the word _ea_{:.t} expresses a counterfactual possibility:
 
 > _**Ea** jaı jí._{:.t}<br>
-> (If such-and-such **were** the case,) I could be happy.
+> (If such-and-such **were** the case,) I could be happy. (But it's not.)
 
 ## The words _áq_{:.t} and _chéq_{:.t}
 
