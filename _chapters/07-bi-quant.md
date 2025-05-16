@@ -16,7 +16,7 @@ Ráqsu complains about a bad day to Síoka.
 > **Síoka:** _Obe… Ma faq **sá** huı móq?_{:.t.sec}<br>
 > **Ráqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí **sía** chaı._{:.t}<br>
 > **Síoka:** _Akoı._{:.t.sec}<br>
-> **Ráqsu:** _Ké dıochu bï, zueq tú koqpıuta da._{:.t}<br>
+> **Ráqsu:** _Ké dıochu bï, zueq tú kompıuta da._{:.t}<br>
 > **Síoka:** _Pırıge° **hú** tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
 > **Ráqsu:** _Ké seum bï, zaq sá nharu°._{:.t} &emsp; _°storm_<br>
 > **Síoka:** _Ma bo níchaq máo sá gı?_{:.t.sec}<br>
@@ -44,7 +44,7 @@ Ráqsu complains about a bad day to Síoka.
 | _raı_{:.t} | ▯ is anything |
 | _huı_{:.t} | ▯ is bad |
 | _zueq_{:.t} | ▯ is broken |
-| _koqpıuta_{:.t} | ▯ is a computer |
+| _kompıuta_{:.t} | ▯ is a computer |
 | _zaq_{:.t} | ▯ appears / shows up |
 | _oro_{:.t} | ugh, tsk |
 | _akoı_{:.t} | poor thing! |
@@ -71,10 +71,10 @@ _Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _Ráqsu._{:.t2}
 
 The articles _sá, tú, sía_{:.t} mean "some, each, none," respectively.
 
-> _Zueq **sá** koqpıuta._{:.t}<br>
+> _Zueq **sá** kompıuta._{:.t}<br>
 > Some computers are broken. / A computer is broken.
 >
-> _Zueq **tú** koqpıuta._{:.t}<br>
+> _Zueq **tú** kompıuta._{:.t}<br>
 > Each computer is broken.
 >
 > _Bo **sía** poq **tú** raı._{:.t}<br>
@@ -92,14 +92,14 @@ When we say _tú poq_{:.t}, we don't mean "each person in the whole universe, in
 
 <details class="aside grammar" markdown="1">
 <summary>Quantification</summary>
-The articles _sá tú sía_{:.t} are _quantifying_ articles. A phrase like _tú koqpıuta_{:.t} implies a quantifying phrase like _for each computer x…_ around its clause. The phrase itself then refers to this variable _x_.
+The articles _sá tú sía_{:.t} are _quantifying_ articles. A phrase like _tú kompıuta_{:.t} implies a quantifying phrase like _for each computer x…_ around its clause. The phrase itself then refers to this variable _x_.
 
-> _= [For each koqpıuta x]_{: style="visibility:hidden;padding-right:0.125rem"} _Zueq tú koqpıuta._{:.t}<br>
-> = [For each _koqpıuta_{:.t} x] _Zueq_{:.t} _x_{: style="padding:0 2.4rem;"}
+> _= [For each kompıuta x]_{: style="visibility:hidden;padding-right:0.125rem"} _Zueq tú kompıuta._{:.t}<br>
+> = [For each _kompıuta_{:.t} x] _Zueq_{:.t} _x_{: style="padding:0 2.4rem;"}
 
 We'll use the logical symbols ∃ "there exists", ∀ "for all", and ¬ "not" in logical formulas. Specifically, we'll use the notation below to indicate a quantification over a limited domain given by some other formula:
 
-> [∀x: _koqpıuta_{:.t}(x)]<br>
+> [∀x: _kompıuta_{:.t}(x)]<br>
 > Read: "for each computer x…"
 
 Similarly, _sá_{:.t} means "for some _x_ …" and _sía_{:.t} means "for no _x_ …".

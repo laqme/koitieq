@@ -217,6 +217,32 @@ _dua cho_{:.t}<br>
 
 Essentially, _Dua cho jí nháo Tóaqzu_{:.t} is short for _Dua jí, **ꝡá** cho nháo Tóaqzu_{:.t}.
 
+The head can have just one slot:
+
+<div class="serial-combine" markdown="1">
+
+<div class="serial-part" markdown="1">
+
+_du_{:.t}<br>it seems like **ꝡá**{:.v}
+
+</div>
+
+<div class="serial-part" markdown="1">
+
+_cho_{:.t}<br>
+▯ likes ▯
+
+</div>
+
+</div>
+
+<div class="serial-result" markdown="1">
+
+_du cho_{:.t}<br>
+it seems like ▯ likes ▯
+
+</div>
+
 <details class="aside grammar" markdown="1">
 <summary>Complex serial verbs</summary>
 
@@ -233,16 +259,16 @@ The tail of a serial verb can itself be a serial verb. This means that three or 
 
 In lesson 8, we saw that a verb can be followed by adjectives. The whole truth is that a _serial verb_ can be followed by _serial adjectives_. Thus, we can replace every verb in
 
-> _sá gıaqche zaomıa bomıa_{:.t}<br>
+> _sá gıaqche <span class="sec">zaomıa bomıa</span>_{:.t}<br>
 > some musician (who is) famous (and) wealthy<br>
 > some wealthy, famous musician
 
 with a serial verb, resulting in:
 
-> _sá **leo gıaqche**{:.subs} **shao zaomıa**{:.subs} **shao bomıa**{:.subs}_{:.t}<br>
+> _sá **leo gıaqche**{:.subs} <span class="sec">**shao zaomıa**{:.subs} **shao bomıa**{:.subs}</span>_{:.t}<br>
 > some tries-to-be-musician (who is) wants-to-be-famous (and) wants-to-be-wealthy
 
-Each "simple" verb, _without_ a trailing **lá**{:.v} or **ꝡá**{:.v} slot in its definition, marks the end of one of these little sub-serials.
+Each "simple" verb, _without_ a trailing **lá**{:.v} or **ꝡá**{:.v} slot in its definition, marks the end of one of these little sub-serials, as it can't act as a head to serialize with the next verb.
 
 </details>
 
@@ -252,11 +278,19 @@ Each "simple" verb, _without_ a trailing **lá**{:.v} or **ꝡá**{:.v} slot in 
 There is a subtle but important difference between these sentences:
 
 > <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> shao jí, <div class="scope t s2"><span class="sb"><i>lá</i></span> geq já&nbsp;<b>sía raı</b></div> da.</div></center>
-
+>
 > <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> shao geq jí <b>sía raı</b> da.</div></center>
 
 The first sentence means "I want to be such that there is nobody that I meet" (I want to be alone). The scope of _sía_{:.t} is limited by the _lá_{:.t}-clause.
 
 But the second sentence means "There is nobody that I want to meet." When we use a serial verb, there's no inner scope island, and _sía_{:.t} scopes over the whole sentence.
+
+A similar pitfall is adverbs: in a clause with a serial verb, the adverb applies to the whole serial.
+
+> <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> tua jí, <div class="scope t s2"><span class="sb"><i>ꝡá</i></span> jaı nháo&nbsp;<b>nhâme</b></div> da.</div></center>
+>
+> <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> tua jaı jí nháo <b>nhâme</b> da.</div></center>
+
+In the first sentence, I cause that "she is happy, smilingly" (so she smiles). But in the second sentence, _nhâme_{:.t} applies to _tua jaı_{:.t} and therefore to the subject _jí_{:.t}: my cheering-her-up happens with me smiling.
 
 </details>
