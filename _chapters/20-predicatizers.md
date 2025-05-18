@@ -83,19 +83,6 @@ The _po_{:.t} constrains the scope of the _tú_{:.t}, and so this sentence _does
 
 </details>
 
-<details class="aside semantics" markdown="1">
-<summary>Masses, <i class="t">mea</i>, and <i class="t">mem</i></summary>
-
-It's easy to confuse plural constants with "words that mean a group." The word _mea_{:.t} can say something is _among_ a plurality, but it doesn't know anything about the parts we might see if we look "inside" the noun.
-
-For example: if _múaome_{:.t} refers to some forest(s), then _tú mea múaome_{:.t} means "each of the forests". It doesn't mean "each of the trees"! A forest is an example of a _mass_ — as far as plurality goes, it's one _thing_, even though it has parts on the inside.
-
-This may seem obvious, but the same applies to words like _ké poqme_{:.t} "the group of people", where it's a far easier mistake to make. The phrase _tú mea ké poqme_{:.t} means "every (group) among the groups of people." It does not mean "every person in the group."
-
-To refer to parts that make up groups, there's the predicatizer _mem **noun**{:.v}_{:.t}, which means "▯ is among _the parts forming_ **noun**{:.v}". So _tú mem ké poqme_{:.t} refers to "every person in the group" and _tú mem ké muaome_{:.t} refers to "every tree in the forest."
-
-</details>
-
 ## "Among" with _mea_{:.t}
 
 The predicatizer _mea **noun**{:.v}_{:.t} means "▯ is among **noun**{:.v}":
@@ -135,6 +122,19 @@ An especially useful construction is: article + _mea_{:.t} + noun. It lets us sa
 >
 > _Zao jí tú mea ní laı._{:.t}<br>
 > I know all of these letters.
+
+<details class="aside semantics" markdown="1">
+<summary>Masses, <i class="t">mea</i>, and <i class="t">mem</i></summary>
+
+It's easy to confuse plural constants with "words that mean a group." The word _mea_{:.t} can say something is _among_ a plurality, but it doesn't know anything about the parts we might see if we look "inside" the noun.
+
+For example: if _múaome_{:.t} refers to some forest(s), then _tú mea múaome_{:.t} means "each of the forests". It doesn't mean "each of the trees"! A forest is an example of a _mass_ — as far as plurality goes, it's one _thing_, even though it has parts on the inside.
+
+This may seem obvious, but the same applies to words like _ké poqme_{:.t} "the group of people", where it's a far easier mistake to make. The phrase _tú mea ké poqme_{:.t} means "every (group) among the groups of people." It does not mean "every person in the group."
+
+To refer to parts that make up groups, there's the predicatizer _mem **noun**{:.v}_{:.t}, which means "▯ is among _the parts forming_ **noun**{:.v}". So _tú mem ké poqme_{:.t} refers to "every person in the group" and _tú mem ké muaome_{:.t} refers to "every tree in the forest."
+
+</details>
 
 <details class="aside semantics" markdown="1">
 <summary>Distributivity</summary>
