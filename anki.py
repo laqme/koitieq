@@ -23,7 +23,7 @@ koitieq_model = genanki.Model(
         },
     ],
     css=r"""
-        body { font-family: "Fira Sans", sans-serif; text-align: center; }
+        body { font-family: "Fira Sans", Verdana, Arial, sans-serif; text-align: center; }
         h1 { font-size: 24px; }
         .ans { font-size: 20px; }
         .t { color: #27e; }

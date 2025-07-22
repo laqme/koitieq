@@ -84,7 +84,7 @@ Toaqists love cats. The most upvoted word in the community dictionary is _nhaq_{
 | _zoaıcıa_{:.t} | ▯ is certain that **ꝡá**{:.v} |
 | _áq_{:.t} | itself/themselves |
 
-## Saying "if" in Toaq
+## Saying "if … then"
 
 The basic pattern for saying "if X then Y" in Toaq is: _shê, ꝡä X, nä Y_{:.t}.
 
