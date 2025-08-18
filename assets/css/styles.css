@@ -30,6 +30,8 @@ audio, audio::-webkit-media-controls-panel { height: 30px; }
 
 a { color: inherit; }
 a[href]:hover { color: var(--primary); }
+table.index a { text-decoration: none; }
+table.index a:hover { text-decoration: underline; }
 body { margin: 0; }
 body { font-family: var(--sans); }
 body { font-size-adjust: from-font; }
@@ -50,7 +52,7 @@ em.sm { font-size: 0.9rem; line-height: 1.2; }
 
 .chapter { margin: 0 auto; padding: 1.5em; }
 
-.chapter table { border-collapse: collapse; margin: 1em auto; }
+.chapter table { border-collapse: collapse; margin: 1em auto; font-variant-numeric: tabular-nums; }
 .chapter th, .chapter td { padding-right: 0.5rem; }
 .chapter th { text-align: left; font-weight: normal; text-transform: uppercase; font-size: 0.9rem; }
 
