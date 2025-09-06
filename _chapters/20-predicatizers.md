@@ -77,9 +77,9 @@ This last sentence shows that predicatizers can be used as adjectives, too.
 
 Predicatizers make a tiny scope island. You can think of _po tú gua_{:.t} as a verb meaning "▯ is of each country", rather than its _tú_{:.t} applying a "for each country X…" to the whole clause it's in.
 
-> <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> ca <b>sá patı</b> <div class="scope t s2"><span class="sb"><i>po</i></span> <b>tú gua</b></div> <b>sá choeq</b> da.</div><br><small><b>Some</b> party (that's) <b>of-every-country</b> caused <b>some</b> commotion.</small></center>
+> <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> Paqbo <b>sá foto</b> <div class="scope t s2"><span class="sb"><i>po</i></span> <b>tú poq</b></div> <b>sá de</b> da.</div><br><small><b>Some</b> photo <b>of everyone</b> contains <b>something</b> beautiful.</small></center>
 
-The _po_{:.t} constrains the scope of the _tú_{:.t}, and so this sentence _doesn't_ mean anything like: "for each country X, some party-of-X caused some commotion."
+The _po_{:.t} constrains the scope of the _tú_{:.t}, and so this sentence _doesn't_ mean anything like: "for each person X, some photo of X contains something beautiful."
 
 </details>
 

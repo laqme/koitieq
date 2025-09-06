@@ -153,7 +153,7 @@ Verbs with one slot are also called _intransitive_. Verbs with two slots are _tr
 
 <details class="aside grammar" markdown="1">
 <summary>Underfilling</summary>
-In Toaq, you're not allowed to "underfill" a verb. _Tıjuı jí_{:.t} is not a valid sentence. Coming from other loglangs, this may come as a surprise. Basically, it's not clear if _Tıjuı jí_{:.t} should mean "I'm near something" or "I'm near it" or something else. So, in Toaq, we prefer just fill the object with an explicit pronoun or determiner.
+In Toaq, you're not allowed to "underfill" a verb. _Tıjuı jí_{:.t} is not a valid sentence. Coming from other loglangs, this may come as a surprise. Basically, it's not clear if _Tıjuı jí_{:.t} should mean "I'm near something" or "I'm near it" or something else. So, in Toaq, we prefer just fill the object with an explicit pronoun or article.
 
 > _Tıjuı jí máq._{:.t}<br>
 > I'm nearby it.

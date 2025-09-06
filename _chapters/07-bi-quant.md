@@ -80,7 +80,7 @@ The articles _sá, tú, sía_{:.t} mean "some, each, none," respectively.
 > _Bo **sía** poq **tú** raı._{:.t}<br>
 > Nobody has everything.
 
-The determiner _hú_{:.t} means "the … just mentioned".
+The article _hú_{:.t} means "the … just mentioned".
 
 > _Cho jí **hú** kıq._{:.t}<br>
 > I like that movie. (that we are talking about)
