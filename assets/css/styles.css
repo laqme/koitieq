@@ -78,7 +78,7 @@ blockquote { margin: 1em 20px; }
 
 .bilingual-header>span[lang=en] { font-style: italic; }
 
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 99999px) {
   .bilingual-header { display: grid; grid-template-columns: fit-content(2em) 0.2em 1fr; }
   .bilingual-header>span[lang] { grid-column: 3; }
   .bilingual-sep { display: none; }
