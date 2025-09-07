@@ -11,13 +11,13 @@ subject: "negation and focus"
 <!-- <img style="float:right;margin-left:-1em" src="../tika.svg" height="200" alt="Míqte arriving with groceries." /> -->
 
 > **Míqte:** _Tıka._{:.t}<br>
-> **Ánhe:** _Hóı Míqte, tîka! Hıa nánı cea?_{:.t.sec}<br>
-> **Míqte:** _Ém? Heaq jí **kú** ké haqsaı._{:.t}<br>
-> **Ánhe:** _A, nho, aja! Teqsom jí súq ba._{:.t.sec}<br>
-> **Míqte:** _Zı, zı. Pu **bu** choaısao ké hao nha._{:.t}<br>
-> **Ánhe:** _**Bu** chı jí hú! Duı paıgı súq ꝡeı._{:.t.sec}<br>
-> **Míqte:** _Ꝡá jıa sıqja súq ké haqtoq bï, paıgı **béı** <em>súq</em>._{:.t}<br>
-> **Ánhe:** _Oaı, **bu** mala kuq jí hú ba._{:.t.sec}
+> **Ánhe:** _Hóı Míqte, tîka! Hıa nánı cea?_{:data-audio="14 both 1" .t.sec}<br>
+> **Míqte:** _Ém? Heaq jí **kú** ké haqsaı._{:data-audio="14 both 2" .t}<br>
+> **Ánhe:** _A, nho, aja! Teqsom jí súq ba._{:data-audio="14 both 3" .t.sec}<br>
+> **Míqte:** _Zı, zı. Pu **bu** choaısao ké hao nha._{:data-audio="14 both 4" .t}<br>
+> **Ánhe:** _**Bu** chı jí hú! Duı paıgı súq ꝡeı._{:data-audio="14 both 5" .t.sec}<br>
+> **Míqte:** _Ꝡá jıa sıqja súq ké haqtoq bï, paıgı **béı** <em>súq</em>._{:data-audio="14 both 6" .t}<br>
+> **Ánhe:** _Oaı, **bu** mala kuq jí hú ba._{:data-audio="14 both 7" .t.sec}
 
 ## Negation
 

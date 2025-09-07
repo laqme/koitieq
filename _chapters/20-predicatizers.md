@@ -21,6 +21,7 @@ subject: "predicatizers, sóq"
 > De ké chaq suqbo ba.
 >
 > — jıbı Kọ́guheı
+{:data-audio="20"}
 
 ## Vocabulary
 

@@ -15,44 +15,44 @@ Lucas has just moved to a new city where people speak Toaq. He meets Míqte on t
 {:.chat-log}
 > <div class="send speaker">Lucas
 > </div>
-> <div class="send bubble" markdown="1">_Jadı_.
+> <div class="send bubble" markdown="1" data-audio="4 Lucas 1">_Jadı_.
 > </div>
-> <div class="send bubble" markdown="1">Sıomche jí. Naq jí.
+> <div class="send bubble" markdown="1"  data-audio="4 Lucas 2">Sıomche jí. Naq jí.
 > </div>
-> <div class="send bubble" markdown="1">Bua jí Tóaqgua. Jí Kanada.
+> <div class="send bubble" markdown="1"  data-audio="4 Lucas 3">Bua jí Tóaqgua. Jí Kanada.
 > </div>
-> <div class="send bubble" markdown="1">_Upa, zı!_ "Kanada jí."
+> <div class="send bubble" markdown="1"  data-audio="4 Lucas 4">_Upa, zı!_ "Kanada jí."
 > </div>
-> <div class="send bubble" markdown="1">Kushe, gom jí. Sıom jí Tóaqzu :)
+> <div class="send bubble" markdown="1"  data-audio="4 Lucas 5">Kushe, gom jí. Sıom jí Tóaqzu :)
 > </div>
 >
 > <div class="recv speaker">Míqte
 > </div>
-> <div class="recv bubble" markdown="1"> _Gıtu! Shadı._
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 1"> _Gıtu! Shadı._
 > </div>
-> <div class="recv bubble" markdown="1"> Zuche jí. Geqjaı jí súq.
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 2"> Zuche jí. Geqjaı jí súq.
 > </div>
 >
 > <div class="send speaker">Lucas
 > </div>
-> <div class="send bubble" markdown="1">_A, jadı! Kıjı_
+> <div class="send bubble" markdown="1"  data-audio="4 Lucas 6">_A, jadı! Kıjı_
 > </div>
 >
 > <div class="recv speaker">Míqte
 > </div>
-> <div class="recv bubble" markdown="1"> Bua súq Sáqmeı, _ına_. Bua jí Rédueq.
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 3"> Bua súq Sáqmeı, _ına_. Bua jí Rédueq.
 > </div>
-> <div class="recv bubble" markdown="1"> Tıjuı Sáqmeı Rédueq.
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 5"> Tıjuı Sáqmeı Rédueq.
 > </div>
 >
 > <div class="send speaker">Lucas
 > </div>
-> <div class="send bubble" markdown="1">_Ina._ De Rédueq!
+> <div class="send bubble" markdown="1"  data-audio="4 Lucas 7">_Ina._ De Rédueq!
 > </div>
 >
 > <div class="recv speaker">Míqte
 > </div>
-> <div class="recv bubble" markdown="1"> _Nho,_ de Rédueq.
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 6"> _Nho,_ de Rédueq.
 > </div>
 
 ## Vocabulary

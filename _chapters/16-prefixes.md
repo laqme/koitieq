@@ -10,15 +10,15 @@ subject: "prefixes"
 
 Ráqsu is hard at work.
 
-> **Ráqsu:** _Fúe cıheı shı… fúe cıheı gu…_{:.t}<br>
-> **Síoka:** _Puımıeq súq hí raı?_{:.t.sec}<br>
-> **Ráqsu:** _Aaaa, **bụqfoıge** ní **ẹguaı**. Enı, kao **bẹguaıche** ní hao._{:.t}<br>
-> **Síoka:** _Ina…_{:.t.sec}<br>
-> **Ráqsu:** _Tú poq bï, keakaı jí shí zıu **họpoha**._{:.t}<br>
-> **Síoka:** _Choq súq shúq sá **gẹjıoqkuna** bá?_{:.t.sec}<br>
-> **Ráqsu:** _Ém? Hıa báq jıoqkuna°?_{:.t} &emsp; _°formula_<br>
-> **Síoka:** _Hóı Ráqsu…_{:.t.sec}<br>
-> **Ráqsu:** _Hıaı súq **hı̣̂kuı**?!_{:.t}<br>
+> **Ráqsu:** _Fúe cıheı shı… fúe cıheı gu…_{:data-audio="16 both 1" .t}<br>
+> **Síoka:** _Puımıeq súq hí raı?_{:data-audio="16 both 2" .t.sec}<br>
+> **Ráqsu:** _Aaaa, **bụqfoıge** ní **ẹguaı**. Enı, kao **bẹguaıche** ní hao._{:data-audio="16 both 3" .t}<br>
+> **Síoka:** _Ina…_{:data-audio="16 both 4" .t.sec}<br>
+> **Ráqsu:** _Tú poq bï, keakaı jí shí zıu **họpoha**._{:data-audio="16 both 5" .t}<br>
+> **Síoka:** _Choq súq shúq sá **gẹjıoqkuna** bá?_{:data-audio="16 both 6" .t.sec}<br>
+> **Ráqsu:** _Ém? Hıa báq jıoqkuna°?_{:data-audio="16 both 7" .t} &emsp; _°formula_<br>
+> **Síoka:** _Hóı Ráqsu…_{:data-audio="16 both 8" .t.sec}<br>
+> **Ráqsu:** _Hıaı súq **hı̣̂kuı**?!_{:data-audio="16 both 9" .t}<br>
 
 ## Vocabulary
 

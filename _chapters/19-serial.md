@@ -8,13 +8,13 @@ subject: "serial verbs"
 
 ## Conversation
 
-> **A**: _Fı akımı ké haqrıaq ꝡo. Ma **buo** súq, **lá** soa já ké choaq kọshı?_{:.t}<br>
-> **B**: _Rạnho… Chum **sho gẹfeao** jí ꝡeı._{:.t.sec}<br>
-> **A**: _Feao súq môı hí raı?_{:.t}<br>
-> **B**: _**Deq baı** jí báq haq, kéo… **juoq hıo** jí báq poq châ hí raı móq?_{:.t.sec}<br>
-> **A**: _**Leo sı** súq kú, ꝡá **shue nhame** súq côm chóaq ba._{:.t}<br>
-> **B**: _Ina. **Taı tua** jí séu hú nha._{:.t.sec}<br>
-> **A**: _Tíu **mıu le** jí, ꝡá jıa gı tú raı. Aıka!_{:.t}<br>
+> **A**: _Fı akımı ké haqrıaq ꝡo. Ma **buo** súq, **lá** soa já ké choaq kọshı?_{:data-audio="19 1" .t}<br>
+> **B**: _Rạnho… Chum **sho gẹfeao** jí ꝡeı._{:data-audio="19 2" .t.sec}<br>
+> **A**: _Feao súq môı hí raı?_{:data-audio="19 3" .t}<br>
+> **B**: _**Deq baı** jí báq haq, kéo… **juoq hıo** jí báq poq châ hí raı móq?_{:data-audio="19 4" .t.sec}<br>
+> **A**: _**Leo sı** súq kú, ꝡá **shue nhame** súq côm chóaq ba._{:data-audio="19 5" .t}<br>
+> **B**: _Ina. **Taı tua** jí séu hú nha._{:data-audio="19 6" .t.sec}<br>
+> **A**: _Tíu **mıu le** jí, ꝡá jıa gı tú raı. Aıka!_{:data-audio="19 7" .t}<br>
 
 <div class="side-by-side" markdown="1">
 

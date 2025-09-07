@@ -13,28 +13,28 @@ Míqte and Ánhe are talking about feeding their cat, Gége.
 {:.chat-log}
 > <div class="send speaker">Míqte
 > </div>
-> <div class="send bubble" markdown="1">**Daı** fı buaq fatuı jí ké tuchao, orooo.
+> <div class="send bubble" markdown="1" data-audio="21 1">**Daı** fı buaq fatuı jí ké tuchao, orooo.
 > </div>
-> <div class="send bubble" markdown="1">**Shê**, ꝡä faq hú, **nä** haqdo kú súq Gége nhá?
+> <div class="send bubble" markdown="1" data-audio="21 2">**Shê**, ꝡä faq hú, **nä** haqdo kú súq Gége nhá?
 > </div>
 >
 > <div class="recv speaker">Ánhe
 > </div>
-> <div class="recv bubble" markdown="1">inha (-ω-ゞ
+> <div class="recv bubble" markdown="1" data-audio="21 3">inha (-ω-ゞ
 > </div>
-> <div class="recv bubble" markdown="1">**âo** wä kato máo jí **nä** haqdo hí raı jí?
+> <div class="recv bubble" markdown="1" data-audio="21 4">**âo** wä kato máo jí **nä** haqdo hí raı jí?
 > </div>
-> <div class="recv bubble" markdown="1"><img src="./../cat-pensive.png" height="40" alt="pensive cat emoji" />
+> <div class="recv bubble" markdown="1" data-audio="21 cat"><img src="./../cat-pensive.png" height="40" alt="pensive cat emoji" />
 > </div>
 >
 > <div class="send speaker">Míqte
 > </div>
-> <div class="send bubble" markdown="1">Ꝡa, ıu rara kato súq da. Tíu zoaıcıa jí, ꝡá **ea** haqdo béı súq máo **áq** nha.
+> <div class="send bubble" markdown="1" data-audio="21 5">Ꝡa, ıu rara kato súq da. Tíu zoaıcıa jí, ꝡá **ea** haqdo béı súq máo **áq** nha.
 > </div>
 >
 > <div class="recv speaker">Ánhe
 > </div>
-> <div class="recv bubble" markdown="1">rawom,,,
+> <div class="recv bubble" markdown="1" data-audio="21 6">rawom,,,
 > </div>
 
 

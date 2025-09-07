@@ -13,28 +13,28 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 {:.chat-log}
 > <div class="send speaker">Míqte
 > </div>
-> <div class="send bubble" markdown="1">Níchaq bï, chuq úmo sá karı noqchoı ba.
+> <div class="send bubble" markdown="1" data-audio="8 both 1">Níchaq bï, chuq úmo sá karı noqchoı ba.
 > </div>
-> <div class="send bubble" markdown="1">Jea jí sá nueq gı nha!
+> <div class="send bubble" markdown="1" data-audio="8 both 2">Jea jí sá nueq gı nha!
 > </div>
-> <div class="send bubble" markdown="1">**Naı** tı jí ké dıem
+> <div class="send bubble" markdown="1" data-audio="8 both 3">**Naı** tı jí ké dıem
 > </div>
 >
 > <div class="recv speaker">Ánhe
 > </div>
-> <div class="recv bubble" markdown="1">ma ti súq ké diem sao?
+> <div class="recv bubble" markdown="1" data-audio="8 both 4">ma ti súq ké diem sao?
 > </div>
-> <div class="recv bubble" markdown="1">jea súq máo sá choko nui baaa (ㅅ´ ˘ `)
+> <div class="recv bubble" markdown="1" data-audio="8 both 5">jea súq máo sá choko nui baaa (ㅅ´ ˘ `)
 > </div>
 >
 > <div class="send speaker">Míqte
 > </div>
-> <div class="send bubble" markdown="1">Ma **pu** chuq súq tú choko nuı...
+> <div class="send bubble" markdown="1" data-audio="8 both 6">Ma **pu** chuq súq tú choko nuı...
 > </div>
 >
 > <div class="recv speaker">Ánhe
 > </div>
-> <div class="recv bubble" markdown="1">**jia** chuq jí máo ké niq wo (｡･｀ω´･｡)
+> <div class="recv bubble" markdown="1" data-audio="8 both 7">**jia** chuq jí máo ké niq wo (｡･｀ω´･｡)
 > </div>
 
 ## Vocabulary
@@ -56,7 +56,8 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 | --- | --- |
 | _jea_{:.t} | ▯ buys ▯ |
 | _dıem_{:.t} | ▯ is a shop/store |
-| _noq_{:.t} | ▯ tastes ▯ |
+| _gaı_{:.t} | ▯ perceives ▯ |
+| _noqgaı_{:.t} | ▯ tastes ▯ |
 | _noqgı_{:.t} | ▯ is tasty |
 | _noqchoı_{:.t} | ▯ is spicy |
 | _sao_{:.t} | ▯ is big |

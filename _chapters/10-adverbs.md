@@ -26,6 +26,7 @@ This lesson covers adverbs and prepositions, formed using the hiatus tone.
 > Laojaı jí báq juo suqbo nha.
 >
 > Jıbı Náo.
+{: data-audio="10"}
 
 ## Vocabulary
 
