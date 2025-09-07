@@ -40,6 +40,9 @@ This lesson covers adverbs and prepositions, formed using the hiatus tone.
 | _kuao_{:.t} | ▯ is cyan |
 | _mıo_{:.t} | ▯ is blue |
 | _loa_{:.t} | ▯ is purple |
+| _deq_{:.t} | can, is able to |
+| _kaqgaı_{:.t} | ▯ sees ▯ |
+| _kaqsı_{:.t} | ▯ looks at ▯ |
 | _jım_{:.t} | ▯ is brief |
 | _nheoı_{:.t} | ▯ is long (in time) |
 | _chéq_{:.t} | each other |
@@ -76,7 +79,7 @@ This lesson covers adverbs and prepositions, formed using the hiatus tone.
 
 When we say a single-slot verb in the hiatus tone, it becomes an adverb. Adverbs go right after the verb, or at the end of the clause.
 
-> _Kaq jí ké toa **jîm**._{:.t} / _Kaq **jîm** jí ké toa._{:.t}<br>
+> _Kaqgaı jí ké toa **jîm**._{:.t} / _Kaqgaı **jîm** jí ké toa._{:.t}<br>
 > I look at the words **briefly**.
 >
 > _Marao jí **jâı**._{:.t} / _Marao **jâı** jí._{:.t}<br>

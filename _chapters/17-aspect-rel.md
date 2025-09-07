@@ -33,11 +33,9 @@ subject: "aspect, relative clauses"
 
 | Word | Meaning |
 | --- | --- |
-| _naına_{:.t} | ▯ is cool/stylish |
 | _gıaqtue_{:.t} | ▯ is a concert |
 | _fuaq_{:.t} | ▯ is a picture |
 | _pam_{:.t} | ▯ is (e.g. printed) on ▯ |
-| _esagı_{:.t} | ▯ rules / is awesome |
 | _cem_{:.t} | ▯ is normal |
 | _tıao_{:.t} | ▯ suits ▯ |
 | _chuabo_{:.t} | ▯ is called ▯ |

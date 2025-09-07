@@ -80,7 +80,6 @@ Toaqists love cats. The most upvoted word in the community dictionary is _nhaq_{
 | _fatuı_{:.t} | ▯ rides ▯ |
 | _tuchao_{:.t} | ▯ is a bus |
 | _haqdo_{:.t} | ▯ feeds ▯ |
-| _zoaı_{:.t} | ▯ doubts that **ꝡá**{:.v} |
 | _zoaıcıa_{:.t} | ▯ is certain that **ꝡá**{:.v} |
 | _áq_{:.t} | itself/themselves |
 

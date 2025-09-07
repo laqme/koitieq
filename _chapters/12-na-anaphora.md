@@ -21,6 +21,18 @@ This lesson covers pronouns that refer back to earlier descriptions, and how tho
 > **Íqse:** _Bo jí báq gıta. Choq jí **máq** ba..._{:.t}<br>
 > **Rúa:** _Nhooo, fıeq úmo báq esagı chôq **gíta** ba!_{:.t.sec}<br>
 
+## Vocabulary
+
+| Word | Meaning |
+| --- | --- |
+| _gıaqche_ | ▯ is a musician |
+| _sıeq_ | ▯ feels awe |
+| _sıeqge_ | ▯ is amazing |
+| _suaqtoa_ | ▯ are lyrics |
+| _naına_{:.t} | ▯ is cool/stylish |
+| _gıta_ | ▯ is a guitar |
+| _esagı_ | ▯ rules / is awesome |
+
 ## The words _nä_{:.t} and _hóa_{:.t}
 
 You can "float" a noun to the front of the sentence, or really anywhere else, by placing it before _nä_{:.t}. Then, you can refer to it later in the sentence with the pronoun _hóa_{:.t}.

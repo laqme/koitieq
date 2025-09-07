@@ -183,7 +183,7 @@ These particles are called **focus particles**. Here are some other useful ones:
 | _máo **X**{:.v}_{:.t} | also **X**{:.v} |
 | _júaq **X**{:.v}_{:.t} | even **X**{:.v} |
 | _shúq **X**{:.v}_{:.t} | merely **X**{:.v} |
-| _sóq **X**{:.v}_{:.t} | **X**{:.v} the most |
+|  _sóq **X**{:.v}_{:.t} | **X**{:.v} the most |
 | _súı **X**{:.v}_{:.t} | **X**{:.v} the least |
 | _séu **X**{:.v}_{:.t} | **X**{:.v} if nothing else |
 | _cúom **X**{:.v}_{:.t} | f\*$%ing **X**{:.v} |
