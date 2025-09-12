@@ -23,6 +23,7 @@ h1, h2, h3, h4 { text-wrap: balance; }
 img, picture { max-width: 100%; display: block; }
 input, button, textarea, select { font-family: inherit; font-size: inherit; }
 :target { scroll-margin-block: 5ex; }
+figure { margin-inline: 0; }
 
 /* ========================= Koitieq =========================== */
 
@@ -174,3 +175,12 @@ sup, sub { line-height: 0; }
 .serial-result { text-align: center; margin: 1em; display: flex; padding: 0; }
 .serial-result>* { margin: auto; }
 .subs { font-weight: normal;  padding: 0.1rem 0.2rem; margin: -0.1rem 0; border-inline-end: 1px solid currentColor; border-block-end: 1px solid currentColor; border-end-end-radius: 2px; }
+
+/* Kuna */
+
+math { font-family: "Fira Math", sans-serif; }
+.tree { display: flex; flex-direction: column; align-items: center; text-align: center; }
+.tree-children { display: grid; grid-template-columns: repeat(2, 200px); }
+math mo.kuna-squiggle { color: transparent; }
+div.kuna-squiggle { mask: url("squiggle.svg") repeat-x; background: currentColor;  position: absolute; }
+.kuna-math-container { display: inline-block; position: relative; }
