@@ -15,11 +15,13 @@ collections:
   chapters:
     output: true
     permalink: /:slug/
+  kuna:
+    output: true
+    permalink: /kuna/:slug/
 
 defaults:
   - scope:
       path: ""
-      type: "chapters"
     values:
       layout: "chapter"
 
