@@ -39,6 +39,7 @@ re_vocab_item = re.compile(r"^\| _([^_]+)_\{:\.t\} \| (.+) \|$")
 vocab_dict = {}
 
 for fn in Path("./_chapters").glob("*.md"):
+    if fn.name[:2].startswith("k"): continue
     chapter = int(fn.name[:2])
     if chapter <= 2:  # Skip phonology
         continue
@@ -65,7 +66,7 @@ frequent = [line.split() for line in open("freq.txt").read().splitlines()]
 
 for f in frequent:
     if f[1].replace('i', 'ı') not in vocab_dict:
-        print(f"TODO: {f}")
+        pass # print(f"TODO: {f}")
 
 genanki.Package(deck).write_to_file("Koitieq.apkg")
 with open("vocab.json", "w") as f:

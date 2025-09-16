@@ -39,7 +39,7 @@ body { font-size-adjust: from-font; }
 h1 { font-family: var(--serif); }
 h1 span[lang=en] { font-weight: 400; }
 h2 { margin-top: 2rem; }
-
+h3 { font-size: 1.1rem; }
 header nav { padding-top: 1em; padding-left: 2em; }
 .nav-item { padding-inline: 0.2em; }
 .nav-item.current { font-weight: bold; }
@@ -184,3 +184,10 @@ math { font-family: "Fira Math", sans-serif; }
 math mo.kuna-squiggle { color: transparent; }
 div.kuna-squiggle { mask: url("squiggle.svg") repeat-x; background: currentColor;  position: absolute; }
 .kuna-math-container { display: inline-block; position: relative; }
+.int {
+  border-image-source: url("squiggle.svg");
+  border-image-slice: 0 0 3 0;
+  border-image-width: 0 0 3px 0;
+  border-image-repeat: repeat;
+  border-image-outset: 2px 1px;
+}

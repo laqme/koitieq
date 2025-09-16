@@ -18,20 +18,73 @@ Have you been using flash cards? They're a great help! But perhaps the most effe
 | _due_{:.t} | ▯ is correct |
 | _chıaı_{:.t} | ▯ is incorrect |
 | _teoq_{:.t} | ▯ is a question |
-| _teqga_{:.t} | ▯ asks question ▯ |
-| _teqga_{:.t} | ▯ asks question ▯ |
+| _teqga_{:.t} | ▯ asks **ꝡá**{:.v} |
+| _ruıq_{:.t} | ▯ wonders **ꝡá**{:.v} |
 | _cua_{:.t} | ▯ responds to ▯ |
+| _kuaq_{:.t} | ▯ expresses **lá**{:.v} |
+| _rara_{:.t} | **ꝡá**{:.v} is sorta true |
+| _jaqbeı_{:.t} | degree: "so...!" |
+| _muana_{:.t} | for example… |
 
 | Word | Meaning |
 | --- | --- |
+| _sheı_{:.t} | ▯ is free to **lá**{:.v} |
+| _daq_{:.t} | ▯ is time |
+| _sheıdaq_{:.t} | ▯ is free time |
+| _jaolaq_{:.t} | ▯ is a telephone |
+| _jaolaqtao_{:.t} | ▯ calls ▯ on the phone |
 | _luaq_{:.t} | ▯ plays with ▯ |
 | _lucu_{:.t} | ▯ is a game |
-| _shaha_{:.t} | ▯ is chess |
-| _reısoı_{:.t} | ▯ is go/weiqi |
-| _jaolaq_{:.t} | ▯ is a telephone |
+| _puateı_{:.t} | ▯ is a hobby |
+| _duq_{:.t} | ▯ habitually **lá**{:.v} |
+| _dıaq_{:.t} | **ꝡá**{:.v} happens regularly |
 
-| _baızu_{:.t} | ▯ is a conlang |
-| _tıudıu_{:.t} | ▯ is logic |
-| _tıudıuzu_{:.t} | ▯ is a loglang |
+</div>
+<div class="side-by-side" markdown="1">
+
+| Word | Meaning |
+| --- | --- |
+| _pue_{:.t} | ▯ is a foot |
+| _muq_{:.t} | ▯ is a hand |
+| _gıe_{:.t} | ▯ is an arm |
+| _shıaq_{:.t} | ▯ is a leg |
+| _fuq_{:.t} | ▯ is a piece of clothing |
+| _puefuq_{:.t} | ▯ is a shoe |
+| _jake_{:.t} | ▯ is a jacket |
+| _lena_{:.t} | ▯ is a dress |
+| _zobo_{:.t} | ▯ are pants |
+| _saro_{:.t} | ▯ is a skirt |
+
+| Word | Meaning |
+| --- | --- |
+| _bıdeo_{:.t} | ▯ is a video |
+| _zıq_{:.t} | ▯ is digital |
+| _ceoq_{:.t} | ▯ is electrical |
+| _jıko_{:.t} | ▯ is the internet |
+| _boe_{:.t} | ▯ is a sheet |
+| _jıkoboe_{:.t} | ▯ is a webpage |
+| _cıoq_{:.t} | ▯ is a button/switch |
+| _kıkoe_{:.t} | ▯ clicks ▯ |
+| _coe_{:.t} | ▯ is connected to ▯ |
+| _dıeq_{:.t} | ▯ sends ▯ |
+
+</div>
+<div class="side-by-side" markdown="1">
+
+| Word | Meaning |
+| --- | --- |
+| _leuq_{:.t} | ▯ is gay/queer |
+| _zeq_{:.t} | ▯ is non-binary |
+| _lotuq_{:.t} | ▯ is LGBTQ+ |
+| _moıleı_{:.t} | ▯ is neurodivergent |
+| _soeı_{:.t} | ▯ has a disability |
+
+| Word | Meaning |
+| --- | --- |
+| _elu_{:.t} | ▯ is an elephant |
+| _tıqra_{:.t} | ▯ is a tiger |
+| _kanı_{:.t} | ▯ is a rabbit |
+| _apı_{:.t} | ▯ is a bee |
+| _tıqshoaı_{:.t} | ▯ is a butterfly |
 
 </div>
