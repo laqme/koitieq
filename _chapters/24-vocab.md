@@ -3,8 +3,7 @@ title: "Toajoe súq ꝡeı"
 title_en: "You're so eloquent"
 chapter: 24
 slug: "24"
-subject: "more vocab"
-wip: true
+subject: "even more vocab"
 ---
 
 You're a Toaq grammar expert by now! Extending your vocabulary becomes more and more important at this point: learning more words is a large part of fluency. So let's learn _six_ more sets of words in this lesson.
