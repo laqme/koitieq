@@ -88,3 +88,20 @@ Have you been using flash cards? They're a great help! But perhaps the most effe
 | _tıqshoaı_{:.t} | ▯ is a butterfly |
 
 </div>
+
+<img width="100%" src="../mia.svg" alt="An abstract illustration of various shapes.">
+
+## Exercises
+
+Translate the following sentences. If you've forgotten words, look them up on <a href="https://toadua.uakci.space/">Toadua</a>. If you've forgotten grammar, go look for it in the earlier chapters.
+
+1. Haha, this game is _so_ funny!
+1. Time is money. <small markdown="1">Use _he_{:.t}</small>
+1. The rabbit and the cat like each other. <small markdown="1">Use _róı_{:.t}</small>
+1. Please (go ahead and) click the blue button. <small markdown="1">Use _suena … doa_{:.t}</small>
+1. If you want to meet me, respond to this message.
+1. I wonder where that jacket I like is. <small markdown="1">Use _hî_{:.t}</small>
+1. _Mıu jí, ꝡá he juoq soa há báq poq soeı._{:.t}
+1. _Pu tam sea jí kâqsı báq bıdeo nuı._{:.t}
+1. _Mala geq jí ké bo nî haqrıaq._{:.t}
+1. _Ꝡá ma due ní kuna nä, bu họadua jí._{:.t}
