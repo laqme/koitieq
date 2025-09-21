@@ -18,12 +18,12 @@ By extension, in semantics, an **intensional** interpretation of a phrase is one
 
 ### Why do we need intension?
 
-It turns out that _extension_, i.e. identifying expression with their referents, is not enough for . Suppose that ⟦_Líma_{:.t}⟧ and ⟦_ké joqdoaq po Pérugua_{:.t}⟧ are equal, and refer to Lima (the capital of Peru). Then consider the following sentence:
+It turns out that _extension_, i.e. identifying expression with their referents, fails to capture some of what we say. Suppose that ⟦_Líma_{:.t}⟧ and ⟦_ké joqdoaq po Pérugua_{:.t}⟧ are equal, and refer to Lima (the capital of Peru). Then consider the following sentence:
 
 > _Chı Náo, ꝡá eq ké joqdoaq po Chílegua Líma._{:.t}<br>
 > Nao thinks the capital of Chile is Lima.
 
-This describes a reasonable belief, but the principle of compositionality would tell us that this would mean the same as
+This describes a reasonable belief. But if _Líma_ and _ké joqdoaq…_ mean the same thing, we should be able to swap one out for the other without changing the meaning of the sentence. Instead, we get
 
 > _Chı Náo, ꝡá eq ké joqdoaq po Chílegua ké joqdoaq po Pérugua._{:.t}<br>
 > Nao thinks the capital of Chile is the capital of Peru.
