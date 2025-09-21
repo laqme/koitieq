@@ -4,24 +4,24 @@ layout: base
 <div class="wrapper">
   <header>
     <nav class="top-nav">
-      {% if "/" == page.url or "/kuna/" == page.url %}
+      {% if "/" == page.url or "/meiaq/" == page.url %}
         {% if "/" == page.url %}
           <span class="nav-item current" href="{{ "/" | relative_url }}">Kóıtıeq</span>
         {% else %}
           <a class="nav-item" href="{{ "/" | relative_url }}">Kóıtıeq</a>
         {% endif %}
-        {% if "/kuna/" == page.url %}
-            <span class="nav-item current" href="{{ "/kuna/" | relative_url }}">Méı'aq</span>
+        {% if "/meiaq/" == page.url %}
+            <span class="nav-item current" href="{{ "/meiaq/" | relative_url }}">Méı'aq</span>
           {% else %}
-            <a class="nav-item" href="{{ "/kuna/" | relative_url }}">Méı'aq</a>
+            <a class="nav-item" href="{{ "/meiaq/" | relative_url }}">Méı'aq</a>
         {% endif %}
       {% endif %}
 
       {% comment %} Check if current page is from chapters collection {% endcomment %}
       {% if page.collection == 'chapters' %}
         {% assign sorted_chapters = site.chapters | sort: "chapter" %}
-      {% elsif page.collection == 'kuna' %}
-        {% assign sorted_chapters = site.kuna | sort: "chapter" %}
+      {% elsif page.collection == 'meiaq' %}
+        {% assign sorted_chapters = site.meiaq | sort: "chapter" %}
       {% else %}
         {% assign sorted_chapters = "" | split: "" %}
       {% endif %}
@@ -48,7 +48,7 @@ layout: base
       {% if page.collection == 'chapters' %}
         {% assign sorted_chapters = site.chapters | sort: "chapter" %}
       {% else %}
-        {% assign sorted_kuna = site.kuna | sort: "chapter" %}
+        {% assign sorted_meiaq = site.meiaq | sort: "chapter" %}
       {% endif %}
 
       {% comment %} Filter out WIP chapters first {% endcomment %}

@@ -24,6 +24,8 @@ This part of Kóıtıeq serves as documentation for Kuna. It will be a fair bit 
 
 We will describe a theory of Toaq semantics in all of its messy implementation details. We will work our way up, by first tackling the abstract concepts, and then describing a kind of "mini-Toaq" to which we add layers of complexity one by one.
 
+<img width="100%" src="../../soai.svg" alt="An abstract illustration of colored lines at various angles.">
+
 ## Compositionality and functions
 
 The idea that Kuna can do its job at all — build up the meaning of a sentence by working up from the leaves — is called the [principle of compositionality](https://en.wikipedia.org/wiki/Principle_of_compositionality). An early approach to natural language semantics was Richard Montague's [Montague grammar](https://en.wikipedia.org/wiki/Montague_grammar), which modeled the meaning of the various parts of speech as mathematical _functions_. To compose meanings, we apply functions to arguments.

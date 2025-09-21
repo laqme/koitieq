@@ -15,9 +15,9 @@ collections:
   chapters:
     output: true
     permalink: /:slug/
-  kuna:
+  meiaq:
     output: true
-    permalink: /kuna/:slug/
+    permalink: /meiaq/:slug/
 
 defaults:
   - scope:

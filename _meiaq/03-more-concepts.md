@@ -12,6 +12,10 @@ In philosophy, the word **intension** (spelled with an _s_: not "intention") ref
 
 By extension, in semantics, an **intensional** interpretation of a phrase is one that retains the _sense_ of the words used, whereas an **extensional** interpretation is one that directly gets at the _thing referred to_.
 
+<div class="aside semantics" markdown="1">See: [Sense and reference](https://en.wikipedia.org/wiki/Sense_and_reference) on Wikipedia.
+
+</div>
+
 ### Why do we need intension?
 
 It turns out that _extension_, i.e. identifying expression with their referents, is not enough for . Suppose that ⟦_Líma_{:.t}⟧ and ⟦_ké joqdoaq po Pérugua_{:.t}⟧ are equal, and refer to Lima (the capital of Peru). Then consider the following sentence:
@@ -44,6 +48,8 @@ Instead, propositions get the type <span class=int>◐</span> rather than ◐: t
 we retain the _sense_ of what is said.
 
 Here is a glimpse at the reason for the "squiggle" notation: world-dependence, or intensionality, is expressive and omnipresent in our semantics, while at the same time being a "layer" we don't want to draw too much attention to. We may think of <span class=int>○ › ◐</span> as a special flavor of function from ○ to ◐, that incidentally carries its "sense" with it by depending on the world variable.
+
+<img width="100%" src="../../sueq.svg" alt="An abstract illustration of a wave of colored lines.">
 
 ## Discourse and deixis
 

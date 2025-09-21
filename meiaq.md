@@ -2,7 +2,7 @@
 layout: chapter
 title: Méı'aq
 title_en: Mountain pass
-permalink: /kuna/
+permalink: /meiaq/
 ---
 
 A guide to [Kuna](https://github.com/toaq/kuna) (a program that reads and interprets Toaq sentences), and the theory of semantics it's based on.
@@ -19,7 +19,7 @@ This guide is much more technical than [Kóıtıeq](..). You should understand a
 ## Chapters
 
 <table class="index"><tbody>
-{% for kuna_page in site.kuna %}
+{% for kuna_page in site.meiaq %}
 <tr>
   <td style="display:flex;align-items:baseline; width: 15rem;">{{kuna_page.chapter}}.
   <a lang="qtq" style="margin:0 0.5em;" href="{{kuna_page.url | relative_url}}"><b>{{ kuna_page.title }}</b></a>
