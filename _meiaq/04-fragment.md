@@ -43,12 +43,12 @@ They all have this syntax tree:
             </svg>
             <div class="tree-children">
               <div><i class=t>suaq</i><br>V</div>
-              <div><i class=t>Mía</i><br><math>N</math></div>
+              <div><i class=t>Mía</i><br>N</div>
             </div>
         </div>
             </div>
         </div>
-      <div><i class=t>nha</i><br><math>SA</math></div>
+      <div><i class=t>nha</i><br>SA</div>
     </div>
 
   </div>

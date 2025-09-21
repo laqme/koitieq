@@ -34,32 +34,32 @@ For example, we may think of adjectives as functions from "entities" to "truth-v
 
 <figure>
   <div class="tree">
-    <div>this sweater is red<br><math>R(s)</math></div>
+    <div>this sweater is red<br>𝑅(𝑠)</div>
     <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
       <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
       <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
     </svg>
     <div class="tree-children">
-      <div>this sweater<br><math>s</math></div>
-      <div>is red<br><math>R</math></div>
+      <div>this sweater<br>𝑠</div>
+      <div>is red<br>𝑅</div>
     </div>
   </div>
 </figure>
 
-If we say this is the fundamental way semantics "compose", we need to answer a basic question: how do we know that the formula at the top should be <math>R(s)</math> and not <math>s(R)</math>?
+If we say this is the fundamental way semantics "compose", we need to answer a basic question: how do we know that the formula at the top should be 𝑅(𝑠) and not 𝑠(𝑅)?
 
-The answer we commit to is that our semantics are **type-driven**. We know which way around to apply things because we keep track of the _types_ as we denote constituents. At any point we either have a function of type <math>A → B</math> on the left and an argument of type <math>A</math> on the right, or the other way around. The types tell us which operation to perform. So let's write them in the tree:
+The answer we commit to is that our semantics are **type-driven**. We know which way around to apply things because we keep track of the _types_ as we denote constituents. At any point we either have a function of type 𝐴 → 𝐵 on the left and an argument of type 𝐴 on the right, or the other way around. The types tell us which operation to perform. So let's write them in the tree:
 
 <figure>
   <div class="tree">
-    <div>this sweater is red<br><math>R(s) : ◐</math></div>
+    <div>this sweater is red<br>𝑅(𝑠) : ◐</div>
     <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
       <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
       <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
     </svg>
     <div class="tree-children">
-      <div>this sweater<br><math>s : ○</math></div>
-      <div>is red<br><math>R : ○ › ◐</math></div>
+      <div>this sweater<br>𝑠 : ○</div>
+      <div>is red<br>𝑅 : ○ › ◐</div>
     </div>
   </div>
 </figure>
@@ -70,12 +70,12 @@ We'll close this first chapter with a note on the _sıteleq_{:.t} used in Kuna t
 
 ## Symbols for types
 
-In Kuna, we use symbols to represent types: for example, <math>○</math> for entities, <math>◐</math> for truth values, and <math>α › β</math> for functions. This is mostly for fun, but it has some tangible upsides. For one, we avoid the confusion common in semantics literature where lowercase letters mean different things as values and as types:
+In Kuna, we use symbols to represent types: for example, ○ for entities, ◐ for truth values, and α › β for functions. This is mostly for fun, but it has some tangible upsides. For one, we avoid the confusion common in semantics literature where lowercase letters mean different things as values and as types:
 
 | Letter | As value | As type |
 | :---: | :---: | :---: |
-| <math>e</math> | an event | …or the _entity_ type? |
-| <math>t</math> | a time interval | …or the _truth value_ type? |
-| <math>v</math> | a value | …or the _event_ type? |
+| 𝑒 | an event | …or the _entity_ type? |
+| 𝑡 | a time interval | …or the _truth value_ type? |
+| 𝑣 | a value | …or the _event_ type? |
 
 It also lends a sort of iconicity to the system. We can begin to recognize certain combinations of symbols, and think of them as complex glyphs, without being tempted to unpack them into their parts. Finally, abbreviating α → β into the narrower α › β pays off when dealing with lots of nested functions.

@@ -53,7 +53,7 @@ Here is a glimpse at the reason for the "squiggle" notation: world-dependence, o
 
 ## Discourse and deixis
 
-What is a conversation, or **discourse**, made up of? The common view says _speech acts_: questions, requests, statements, and so on. We denote these with the type <math>!</math>, and for now that is about all we do with them.
+What is a conversation, or **discourse**, made up of? The common view says _speech acts_: questions, requests, statements, and so on. We denote these with the type &nbsp;!&nbsp;, and for now that is about all we do with them.
 
 Speech acts update the _discourse state_, which describes which participants are committed to the truth of which facts, which questions have been raised, which variables are bound, and so on. Kuna does not yet model the discourse state beyond some support for cross-sentence anaphora. For our purposes, words like _da_{:.t} and _ba_{:.t} "wrap" a proposition up into a speech act, but we have no way of running or combining speech acts: we can only look inside them.
 
