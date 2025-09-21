@@ -39,7 +39,7 @@ body { font-size-adjust: from-font; }
 h1 { font-family: var(--serif); }
 h1 span[lang=en] { font-weight: 400; }
 h2 { margin-top: 2rem; }
-h3 { font-size: 1.1rem; }
+h3 { font-size: 1.1rem; margin-top: 1.8rem; }
 header nav { padding-top: 1em; padding-left: 2em; }
 .nav-item { padding-inline: 0.2em; }
 .nav-item.current { font-weight: bold; }
@@ -192,4 +192,18 @@ div.kuna-squiggle { mask: url("squiggle.svg") repeat-x; background: currentColor
   border-image-outset: 2px 1px;
 }
 
-.den { color: #d00; font-size: 80%; line-height: 1.2; display: inline-block; }
+.den { color: #0007; font-size: 80%; line-height: 1.2; display: inline-block; }
+.arrow-underline {
+  position: relative;
+  margin: 0 0.5em;
+  padding: 0 1em;
+  border-bottom: 1px solid black;
+  padding-bottom: 4px;
+}
+
+.arrow-underline:after {
+    position: absolute;
+    margin-left: calc(1em - 3px);
+    content: "›";
+    bottom: -0.7em;
+}
