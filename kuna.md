@@ -1,11 +1,11 @@
 ---
 layout: chapter
-title: Kúna
-title_en: Sentences
+title: Méı'aq
+title_en: Mountain pass
 permalink: /kuna/
 ---
 
-This is documentation for Kuna, a program that reads and interprets Toaq sentences.
+A guide through [Kuna](https://github.com/toaq/kuna), a program that reads and interprets Toaq sentences.
 
 ## Chapters
 

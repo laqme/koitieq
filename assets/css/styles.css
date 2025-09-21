@@ -191,3 +191,5 @@ div.kuna-squiggle { mask: url("squiggle.svg") repeat-x; background: currentColor
   border-image-repeat: repeat;
   border-image-outset: 2px 1px;
 }
+
+.den { color: #d00; font-size: 80%; line-height: 1.2; display: inline-block; }

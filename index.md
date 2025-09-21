@@ -4,7 +4,7 @@ title: Kóıtıeq
 title_en: Walkway
 ---
 
-This is a work-in-progress textbook for Toaq.
+A textbook for [Toaq](https://toaq.me).
 
 <img width="100%" src="./tieq.svg" alt="An abstract illustration of a path of little black rectangles with colored side paths.">
 

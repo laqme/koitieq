@@ -58,7 +58,7 @@ We will stick to certain sets of letters when naming members of these basic type
 | <math>○</math> | <math>𝑎, 𝑏, 𝑐…</math> | Entities |
 | <math>◐</math> | <math>𝑃, 𝑄, 𝑅…</math> | Truth values |
 | <math>✲</math> | 𝑒, 𝑒¹, 𝑒²… | Events |
-| <math>〜</math> | 𝑤, 𝑤¹, 𝑤²… | Worlds | 
+| <math>〜</math> | 𝑤, 𝑤¹, 𝑤²… | Worlds |
 | <math>🕔</math> | 𝑡, 𝑡¹, 𝑡²… | Times |
 
 To describe functions without giving them a name, we will use "lambda function" notation: <math>λx E</math> is a function mapping <math>x</math> to <math>E</math>. Here, <math>E</math> is some expression that may refer to the input variable <math>x</math>. So the following definitions are equivalent:
@@ -121,7 +121,7 @@ Instead, propositions get the type <span class=int>◐</span> rather than ◐: t
 
 we retain the _sense_ of what is said.
 
-Here is a glimpse at the reason for the "squiggle" notation: world-dependence, or intensionality, is expressive and omnipresent in our semantics, while at the same time being a "layer" we don't want to draw too much attention to. We may think of <span class=int>○ › ◐</span> as a special flavor of function from ○ to ◐, that incidentally carries its "sense" with it by depending on the world variable. 
+Here is a glimpse at the reason for the "squiggle" notation: world-dependence, or intensionality, is expressive and omnipresent in our semantics, while at the same time being a "layer" we don't want to draw too much attention to. We may think of <span class=int>○ › ◐</span> as a special flavor of function from ○ to ◐, that incidentally carries its "sense" with it by depending on the world variable.
 
 ## Discourse and deixis
 
@@ -132,3 +132,14 @@ Speech acts update the _discourse state_, which describes which participants are
 Sometimes, though, the meaning of a word or sentence hinges not just on the world it's said in and the words that came before it, but even on its speaker and their surroundings. A word like _súq_{:.t} or _naı_{:.t} doesn't mean much without the context of who it's said to, or when it's said. Such words are called **deictic**, and using deictic words is called **deixis**.
 
 Kuna models deixis as constituents "depending on the deictic state", the same way it models intensionality as constituents "depending on the world variable." Again we have special notation: placing a curved arrow before a type marks it as a function from deictic state to that type, and so something like ↪ <span class=int>◐</span> describes the type of _deictic_ propositions.
+
+## Event predicates
+
+To prepare us for the next chapter, it's worth getting familiar with the idea of an _event predicate_. Conceptually, this is a function that describes what kind of event something is, without yet situating it in time.
+
+Our example sentence promises the existence of a _Míala-singing-event_ in the future. The _event predicate_ we're dealing with is a function that has type <span class=int>✲&nbsp;›&nbsp;◐</span> and identifies or describes the event as such:
+
+> ⟦_suaq Míala_{:.t}⟧ = λ𝑤 λ𝑒&nbsp; 𝑒 is a Míala-singing-event in 𝑤
+
+It, too is intensional (depends on the world variable): this is what lets us tie events to a possible world that they might or might not happen in.
+

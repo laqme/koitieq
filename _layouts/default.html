@@ -11,12 +11,12 @@ layout: base
           <a class="nav-item" href="{{ "/" | relative_url }}">Kóıtıeq</a>
         {% endif %}
         {% if "/kuna/" == page.url %}
-            <span class="nav-item current" href="{{ "/kuna/" | relative_url }}">Kúna</span>
+            <span class="nav-item current" href="{{ "/kuna/" | relative_url }}">Méı'aq</span>
           {% else %}
-            <a class="nav-item" href="{{ "/kuna/" | relative_url }}">Kúna</a>
+            <a class="nav-item" href="{{ "/kuna/" | relative_url }}">Méı'aq</a>
         {% endif %}
       {% endif %}
-      
+
       {% comment %} Check if current page is from chapters collection {% endcomment %}
       {% if page.collection == 'chapters' %}
         {% assign sorted_chapters = site.chapters | sort: "chapter" %}
