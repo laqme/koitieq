@@ -67,7 +67,7 @@ To describe functions without giving them a name, we will use "lambda function" 
 
 ## Denotation
 
-We say that Toaq words or phrases **denote**, or simply "stand for", certain formulas. When describing Toaq's semantics, or Kuna's implementation, we will often use "denotation brackets" ⟦…⟧ to denote this relationship between Toaq words or phrases and expressions in our mathematical language.
+We say that Toaq words or phrases **denote**, or simply "stand for", certain formulas. When describing Toaq's semantics, or Kuna's implementation, we will often use "denotation brackets" ⟦…⟧ to show this relationship between Toaq words or phrases and expressions in our mathematical language.
 
 For example, the simplest stab at the meaning of _rú_{:.t} looks something like this:
 

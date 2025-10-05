@@ -10,7 +10,7 @@ subject: "intension, discourse, deixis"
 
 In philosophy, the word **intension** (spelled with an _s_: not "intention") refers to definitions in terms of properties, or "necessary and sufficient conditions", rather than **extension**, a definition by enumerating the referents.
 
-By extension, in semantics, an **intensional** interpretation of a phrase is one that retains the _sense_ of the words used, whereas an **extensional** interpretation is one that directly gets at the _thing referred to_.
+Furthermore, in semantics, an **intensional** interpretation of a phrase is one that retains the _sense_ of the words used, whereas an **extensional** interpretation is one that directly gets at the _thing referred to_.
 
 <div class="aside semantics" markdown="1">See: [Sense and reference](https://en.wikipedia.org/wiki/Sense_and_reference) on Wikipedia.
 
