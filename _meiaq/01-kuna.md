@@ -16,11 +16,11 @@ In a way, such a program is "living proof" that Toaq is a loglang: we show that 
 
 ## Kuna is complex
 
-Neither the inner workings nor the outputs produced by Kuna are simple to understand. Both are based on theories gathered across the fields of syntax and natural language semantics. The challenge is that we apply them all at once.
+Neither the inner workings nor the outputs produced by Kuna are simple to understand. Both are based on theories gathered from across the fields of syntax and natural language semantics. The challenge is that we apply them all at once.
 
 Scientists often assume a simplified model of reality when studying the single phenomenon they're interested in; in much the same way, linguists studying some subject in semantics (like "plurals" or "aspects" or "scope") will zoom in on their object of study and rightfully cut out the rest of the complexity. But we must account for all of Toaq at once, and so Kuna will turn even the simplest of Toaq clauses into a daunting expression that pulls out all the semantic stops.
 
-This part of Kóıtıeq serves as documentation for Kuna. It will be a fair bit more complex than the rest of Kóıtıeq. You'll want to have read and mostly understood all of the colored boxes in Kóıtıeq itself, before tackling this guide.
+This part of Kóıtıeq serves as documentation for Kuna. It will be a fair bit more complex than the rest of Kóıtıeq. You'll want to have read and mostly understood all of the colored boxes in Kóıtıeq itself before tackling this guide.
 
 We will describe a theory of Toaq semantics in all of its messy implementation details. We will work our way up, by first tackling the abstract concepts, and then describing a kind of "mini-Toaq" to which we add layers of complexity one by one.
 

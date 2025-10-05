@@ -14,7 +14,7 @@ Ráqsu is hard at work.
 > **Síoka:** _Puımıeq súq hí raı?_{:data-audio="16 both 2" .t.sec}<br>
 > **Ráqsu:** _Aaaa, **bụqfoıge** ní **ẹguaı**. Enı, kao **bẹguaıche** ní hao._{:data-audio="16 both 3" .t}<br>
 > **Síoka:** _Ina…_{:data-audio="16 both 4" .t.sec}<br>
-> **Ráqsu:** _Tú poq bï, keakaı jí shí zıu **họpoha**._{:data-audio="16 both 5" .t}<br>
+> **Ráqsu:** _Tú poq nä, keakaı jí shí zıu **họpoha**._{:data-audio="16 both 5" .t}<br>
 > **Síoka:** _Choq súq shúq sá **gẹjıoqkuna** bá?_{:data-audio="16 both 6" .t.sec}<br>
 > **Ráqsu:** _Ém? Hıa báq jıoqkuna°?_{:data-audio="16 both 7" .t} &emsp; _°formula_<br>
 > **Síoka:** _Hóı Ráqsu…_{:data-audio="16 both 8" .t.sec}<br>

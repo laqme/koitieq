@@ -18,7 +18,7 @@ By extension, in semantics, an **intensional** interpretation of a phrase is one
 
 ### Why do we need intension?
 
-It turns out that _extension_, i.e. identifying expression with their referents, fails to capture some of what we say. Suppose that ⟦_Líma_{:.t}⟧ and ⟦_ké joqdoaq po Pérugua_{:.t}⟧ are equal, and refer to Lima (the capital of Peru). Then consider the following sentence:
+It turns out that _extension_, i.e. identifying expressions with their referents, fails to capture some of what we say. Suppose that ⟦_Líma_{:.t}⟧ and ⟦_ké joqdoaq po Pérugua_{:.t}⟧ are equal, and refer to Lima (the capital of Peru). Then consider the following sentence:
 
 > _Chı Náo, ꝡá eq ké joqdoaq po Chílegua Líma._{:.t}<br>
 > Nao thinks the capital of Chile is Lima.
@@ -32,7 +32,7 @@ which is pretty absurd. There is something about these descriptions that we are 
 
 ### Intension in Kuna
 
-The solution to this problem used by Kuna is to make the denotations functions from possible worlds to entities: <span class=int>○</span> instead of ○.
+The solution to this problem used by Kuna is to make the denotations be functions from possible worlds to entities: <span class=int>○</span> instead of ○.
 
 > ⟦_Líma_{:.t}⟧ = λ𝑤&nbsp; Lima in world 𝑤<br>
 > ⟦_ké joqdoaq po Pérugua_{:.t}⟧ = λw&nbsp; the capital of Peru in world 𝑤
