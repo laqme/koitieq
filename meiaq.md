@@ -7,7 +7,7 @@ permalink: /meiaq/
 
 A guide to [Kuna](https://github.com/toaq/kuna) (a program that reads and interprets Toaq sentences), and the theory of semantics it's based on.
 
-<img width="75%" style="margin:auto;" src="./meiaq.svg" alt="An abstract illustration of a path of little black rectangles with colored side paths.">
+<img width="75%" style="margin:auto;" src="./meiaq.svg" alt="An abstract illustration of a series of syntax trees growing larger in size.">
 
 
 <div class="aside grammar" markdown="1">
