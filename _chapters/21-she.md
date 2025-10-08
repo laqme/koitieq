@@ -58,7 +58,7 @@ Toaqists love cats. The most upvoted word in the community dictionary is _nhaq_{
 |  _maomao_{:.t} | ▯ is a meowmeow cat. |
 |  _nhaqnhaq_{:.t} | ▯ is a kitty-cat. |
 |  _katochu_{:.t} | ▯ is a catboy/catgirl/catperson. |
-|  _katosoı_{:.t} | ▯ cat-fights with ▯. |
+|  _katosoı_{:.t} | ▯ cat-fights with ▯ |
 |  _nhaqluaı_{:.t} | ▯ is silly / :3-worthy. |
 |  _nhaqchoa_{:.t} | ▯ meows. |
 |  _rorochoa_{:.t} | ▯ purrs. |

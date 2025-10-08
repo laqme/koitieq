@@ -79,12 +79,12 @@ Lucas has just moved to a new city where people speak Toaq. He meets Míqte on t
 | ---- | ------- |
 | _sıom_{:.t} | ▯ studies ▯ |
 | _sıomche_{:.t} | ▯ is a student |
-| _Kanada_{:.t} | ▯ is Canadian. |
+| _Kanada_{:.t} | ▯ is Canadian |
 | _naq_{:.t} | ▯ is male |
 | _lıq_{:.t} | ▯ is female |
 | _de_{:.t} | ▯ is beautiful |
 | _gom_{:.t} | ▯ makes a mistake |
-| _bua_{:.t} | ▯ inhabits, live in ▯ |
+| _bua_{:.t} | ▯ inhabits, lives in ▯ |
 | _geq_{:.t} | ▯ meets ▯ |
 | _jaı_{:.t} | ▯ feels happy |
 | _geqjaı_{:.t} | ▯ is happy to meet ▯ |
@@ -141,11 +141,11 @@ Now compare these sentences:
 
 Again, let's look up these verbs in a Toaq dictionary.
 
-> _sıom_{:.t} — ▯ studies ▯. \
-> _bua_{:.t} — ▯ lives in ▯. \
-> _tıjuı_{:.t} — ▯ is nearby ▯.
+> _sıom_{:.t} — ▯ studies ▯ \
+> _bua_{:.t} — ▯ lives in ▯ \
+> _tıjuı_{:.t} — ▯ is nearby ▯
 
-These verbs are have _two_ slots. To make a sentence, you say the verb, and then fill both slots: a subject and an object.
+These verbs have _two_ slots. To make a sentence, you say the verb, and then fill both slots: a subject and an object.
 
 <div class="aside grammar" markdown="1">
 Verbs with one slot are also called _intransitive_. Verbs with two slots are _transitive_.
@@ -153,7 +153,7 @@ Verbs with one slot are also called _intransitive_. Verbs with two slots are _tr
 
 <details class="aside grammar" markdown="1">
 <summary>Underfilling</summary>
-In Toaq, you're not allowed to "underfill" a verb. _Tıjuı jí_{:.t} is not a valid sentence. Coming from other loglangs, this may come as a surprise. Basically, it's not clear if _Tıjuı jí_{:.t} should mean "I'm near something" or "I'm near it" or something else. So, in Toaq, we prefer just fill the object with an explicit pronoun or article.
+In Toaq, you're not allowed to "underfill" a verb. _Tıjuı jí_{:.t} is not a valid sentence. Coming from other loglangs, this may come as a surprise. Basically, it's not clear if _Tıjuı jí_{:.t} should mean "I'm near something" or "I'm near it" or something else. So, in Toaq, we prefer to just fill the object with an explicit pronoun or article.
 
 > _Tıjuı jí máq._{:.t}<br>
 > I'm nearby it.

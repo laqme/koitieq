@@ -26,7 +26,7 @@ If entities encompass anything in the world, why don't they encompass events or 
 
 There are, in fact, entities corresponding to such things. When we talk about _ké jıaq_{:.t} or _ké hora_{:.t}, they are entities just as _ké kune_{:.t} and _ké sıo_{:.t} are. The distinction is rather made in the **metalanguage**; the symbolic language we are describing right now, which Kuna uses to talk _about_ Toaq. So ○ refers to any such things as described _in Toaq_, where they can be subjects and objects and referents of pronouns, and 🕔 refers to time intervals _only_ in the context of describing the underlying behavior of tenses for Kuna to understand and manipulate.
 
-Making the distinction between ○ and other types helps the semantics be "type-directed" without confusing the language for the metalanguage. It also keeps us from running into issues when denoting things like "this sentence is false":
+Making the distinction between ○ and other types helps the semantics be "type-directed" without confusing the language for the metalanguage. It also keeps us from running into issues when denoting things like "this sentence is false".
 
 </details>
 
@@ -54,7 +54,7 @@ In this text, we'll use 𝑥 := 𝑦 to mean: 𝑥 is defined as being equal to 
 We will stick to certain sets of letters when naming members of these basic types. Here are our picks:
 
 | Type | Letter | Description |
-| --- | --- | --- |
+| :-: | --- | --- |
 | ○ | 𝑎, 𝑏, 𝑐… | Entities |
 | ◐ | 𝑃, 𝑄, 𝑅… | Truth values |
 | ✲ | 𝑒, 𝑒¹, 𝑒²… | Events |
@@ -63,11 +63,11 @@ We will stick to certain sets of letters when naming members of these basic type
 
 To describe functions without giving them a name, we will use "lambda function" notation: λ𝑥 𝐸 is a function mapping 𝑥 to 𝐸. Here, 𝐸 is some expression that may refer to the input variable 𝑥. So the following definitions are equivalent:
 
-<blockquote>𝑓(𝑥) := <b>red</b>(x) ∧ <b>sweater</b>(x)<br>𝑓(𝑥) := λx&nbsp; <b>red</b> x ∧ <b>sweater</b> x</blockquote>
+<blockquote>𝑓(𝑥) := <b>red</b>(x) ∧ <b>sweater</b>(x)<br>𝑓 := λx&nbsp; <b>red</b> x ∧ <b>sweater</b> x</blockquote>
 
 ## Denotation
 
-We say that Toaq words or phrases **denote**, or simply "stand for", certain formulas. When describing Toaq's semantics, or Kuna's implementation, we will often use "denotation brackets" ⟦…⟧ to denote this relationship between Toaq words or phrases and expressions in our mathematical language.
+We say that Toaq words or phrases **denote**, or simply "stand for", certain formulas. When describing Toaq's semantics, or Kuna's implementation, we will often use "denotation brackets" ⟦…⟧ to show this relationship between Toaq words or phrases and expressions in our mathematical language.
 
 For example, the simplest stab at the meaning of _rú_{:.t} looks something like this:
 
