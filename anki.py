@@ -62,12 +62,6 @@ for fn in Path("./_chapters").glob("*.md"):
                 print(f"!!! Duplicate word: {toaq} in {vocab_dict[toaq]} and {chapter}")
             vocab_dict[toaq] = chapter
 
-frequent = [line.split() for line in open("freq.txt").read().splitlines()]
-
-for f in frequent:
-    if f[1].replace('i', 'ı') not in vocab_dict:
-        pass # print(f"TODO: {f}")
-
 genanki.Package(deck).write_to_file("Koitieq.apkg")
 with open("vocab.json", "w") as f:
     json.dump(vocab_dict, f, ensure_ascii=False)
