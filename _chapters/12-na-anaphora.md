@@ -10,16 +10,16 @@ This lesson covers pronouns that refer back to earlier descriptions, and how tho
 
 ## Conversation
 
-Íqse and Rúa are talking about music they like.
+mí Iqse and mí Rua are talking about music they like.
 
-> **Íqse:** _Ní gıaqche nä, ma zao súq **hóa**?_{:.t data-audio="12 both 1"}<br>
-> **Rúa:** _Nho, zao jí **hó**!_{:.t.sec data-audio="12 both 2"}<br>
-> **Íqse:** _Jaq sıeqge ké nıq, dá?_{:.t data-audio="12 both 3"}<br>
-> **Rúa:** _Noga, bo **tá** báq suaqtoa naına ꝡeı._{:.t.sec data-audio="12 both 4"}<br>
-> **Íqse:** _Ma he baı súq báq gıaq?_{:.t data-audio="12 both 5"}<br>
-> **Rúa:** _Sá gıaq nä, mala baı jí **hóq**._{:.t.sec data-audio="12 both 6"}<br>
-> **Íqse:** _Bo jí báq gıta. Choq jí **máq** ba..._{:.t data-audio="12 both 7"}<br>
-> **Rúa:** _Nhooo, fıeq úmo báq esagı chôq **gíta** ba!_{:.t.sec data-audio="12 both 8"}<br>
+> **mí Iqse:** _Ní gıaqche nä, ma zao súq **hóa**?_{:.t data-audio="12 both 1"}<br>
+> **mí Rua:** _Nho, zao jí **hó**!_{:.t.sec data-audio="12 both 2"}<br>
+> **mí Iqse:** _Jaq sıeqge ké nıq, dá?_{:.t data-audio="12 both 3"}<br>
+> **mí Rua:** _Noga, bo **tá** báq suaqtoa naına ꝡeı._{:.t.sec data-audio="12 both 4"}<br>
+> **mí Iqse:** _Ma he baı súq báq gıaq?_{:.t data-audio="12 both 5"}<br>
+> **mí Rua:** _Sá gıaq nä, mala baı jí **hóq**._{:.t.sec data-audio="12 both 6"}<br>
+> **mí Iqse:** _Bo jí báq gıta. Choq jí **máq** ba..._{:.t data-audio="12 both 7"}<br>
+> **mí Rua:** _Nhooo, fıeq úmo báq esagı chôq **gíta** ba!_{:.t.sec data-audio="12 both 8"}<br>
 
 ## Vocabulary
 

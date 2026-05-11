@@ -93,10 +93,10 @@ The simplest Toaq verb that relates an entity to a property is _ıq_{:.t}, which
 > _lá bua já Súomıgua_{:.t}<br>
 > <i>λx</i>. _x_ lives in Finland
 >
-> _Iq Méarı, lá bua já Súomıgua._{:.t}<br>
+> _Iq mí Mearı, lá bua já Súomıgua._{:.t}<br>
 > (<i>λx</i>. _x_ lives in Finland)(Mary)
 >
-> _Bua Méarı Súomıgua._{:.t}<br>
+> _Bua mí Mearı Súomıgua._{:.t}<br>
 > Mary lives in Finland.
 
 </details>

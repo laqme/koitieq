@@ -83,7 +83,7 @@ If you're leaving for a while but you expect to see the other person again after
 
 If you're leaving indefinitely and you don't know when you'll meet again, you say _koıka_{:.t} (so long) and the other person says _reına_{:.t} (farewell).
 
-> _Naı tıshaı jí súq ba. Koıka, hóı Méloa._{:.t}<br>
+> _Naı tıshaı jí súq ba. Koıka, hóı mí Meloa._{:.t}<br>
 > I must leave you now. So long, Marigold.
 >
 > _Reına. Moaq jí ní daq dâqmıq nha._{:.t}<br>

@@ -1,5 +1,5 @@
 ---
-title: "Hıa Kúna?"
+title: "Hıa mí Kuna?"
 title_en: "What is Kuna?"
 chapter: 1
 slug: "1"
@@ -8,7 +8,7 @@ subject: "introduction to Kuna"
 
 ## Introduction
 
-<!-- This counterpart to Kóıtıeq documents _Kuna_, It assumes you've finished Kóıtıeq, and so you're comfortable with Toaq grammar. However, you don't need to understand Kuna in order to speak Toaq. -->
+<!-- This counterpart to mí Koıtıeq documents _Kuna_, It assumes you've finished mí Koıtıeq, and so you're comfortable with Toaq grammar. However, you don't need to understand Kuna in order to speak Toaq. -->
 
 Kuna is a program that reads and interprets Toaq sentences. It parses the grammar of a Toaq sentence into a tree structure, where each leaf is a lexical unit (a **lexeme**) and each sub-tree is a grammatical unit (a **constituent**). Then, it works its way up this tree from the leaves, composing the meaning of the whole sentence from the meaning of each part.
 
@@ -20,7 +20,7 @@ Neither the inner workings nor the outputs produced by Kuna are simple to unders
 
 Scientists often assume a simplified model of reality when studying the single phenomenon they're interested in; in much the same way, linguists studying some subject in semantics (like "plurals" or "aspects" or "scope") will zoom in on their object of study and rightfully cut out the rest of the complexity. But we must account for all of Toaq at once, and so Kuna will turn even the simplest of Toaq clauses into a daunting expression that pulls out all the semantic stops.
 
-This part of Kóıtıeq serves as documentation for Kuna. It will be a fair bit more complex than the rest of Kóıtıeq. You'll want to have read and mostly understood all of the colored boxes in Kóıtıeq itself before tackling this guide.
+This part of mí Koıtıeq serves as documentation for Kuna. It will be a fair bit more complex than the rest of mí Koıtıeq. You'll want to have read and mostly understood all of the colored boxes in mí Koıtıeq itself before tackling this guide.
 
 We will describe a theory of Toaq semantics in all of its messy implementation details. We will work our way up, by first tackling the abstract concepts, and then describing a kind of "mini-Toaq" to which we add layers of complexity one by one.
 

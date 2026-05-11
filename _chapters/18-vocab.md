@@ -84,5 +84,5 @@ Translate the following sentences. If you've forgotten words, look them up on <a
 1. _Soı ké heroe bíq jom chôq kú ní sheq._{:.t}
 1. _Ma juna, ꝡá jıa fa ní meaq báq nuım?!_{:.t}
 1. _Bu tú poq, ꝡë tı hóa sá bıajıo, nä bıa hóa dâ._{:.t}
-1. _Sáqmeı bï, ma dua súq, ꝡá chuabo ké hıu shú « Chıme »?_{:.t}
+1. _mí Saqmeı bï, ma dua súq, ꝡá chuabo ké hıu shú « Chıme »?_{:.t}
 1. _Ní shatı nä luı gom jí tûa, ꝡá naı bao máq._{:.t}

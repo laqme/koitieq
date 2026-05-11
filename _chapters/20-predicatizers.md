@@ -14,7 +14,7 @@ subject: "predicatizers, sóq"
 >
 > Ose, hóı súq, jü luı jaq guaı hóa! Ꝡa he sha joe há **pó Tóaqzu**, châ kú báq ge'ẹsıom puı nha.
 >
-> Jıe hıa súq Kóıtıeq móq? Cho súq **sóq** hí kaıse **po Kóıtıeq** móq? Ma chum sı súq ké gẹchuao bẹdao?
+> Jıe hıa súq mí Koıtıeq móq? Cho súq **sóq** hí kaıse **po mí Koıtıeq** móq? Ma chum sı súq ké gẹchuao bẹdao?
 >
 > Dua jí, ꝡá jua, ꝡá keoı báq kue há. Kéo jua púı seq hú raı tî ké jıaq amabo dá?
 >

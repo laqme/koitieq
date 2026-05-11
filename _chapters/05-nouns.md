@@ -10,21 +10,21 @@ In this lesson, we'll cover the different words that can come at the end of a se
 
 ## Conversation
 
-> **Lucas:** _Jadı, **hóı** Míqte!_{:.t data-audio="5 Lucas 1"} \
-> **Míqte:** _Jadı, hóı Lúka. **Ma** seakuaı súq **móq?**_{:.t.sec data-audio="5 Miqte 1"} \
+> **Lucas:** _Jadı, **hóı** mí Mıqte!_{:.t data-audio="5 Lucas 1"} \
+> **mí Mıqte:** _Jadı, hóı mí Luka. **Ma** seakuaı súq **móq?**_{:.t.sec data-audio="5 Miqte 1"} \
 > **Lucas:** _Zı, chuqkuaı jí._{:.t data-audio="5 Lucas 2"} \
-> **Míqte:** _Fa úmo Pícajıaq **ba**. Koı úmo ba._{:.t.sec data-audio="5 Miqte 2"} \
+> **mí Mıqte:** _Fa úmo Pícajıaq **ba**. Koı úmo ba._{:.t.sec data-audio="5 Miqte 2"} \
 > **Lucas:** _Inha._{:.t data-audio="5 Lucas 3"}
 >
 > **Lucas:** _Â, **ma** pıcarıaq Pícajıaq?_{:.t data-audio="5 Lucas 4"} \
-> **Míqte:** _Nho._{:.t.sec data-audio="5 Miqte 3"} \
+> **mí Mıqte:** _Nho._{:.t.sec data-audio="5 Miqte 3"} \
 > **Lucas:** _Ina. Gı ké chua._{:.t data-audio="5 Lucas 5"} \
-> **Míqte:** _Jaq gı **máo** ké pıca **nha**._{:.t.sec data-audio="5 Miqte 4"}
+> **mí Mıqte:** _Jaq gı **máo** ké pıca **nha**._{:.t.sec data-audio="5 Miqte 4"}
 >
-> **Míqte:** _Obe, tı Tóma Sáqmeı da!_{:.t.sec data-audio="5 Miqte 5"} \
-> **Lucas:** _Ma eq ní naq Tóma móq?_{:.t data-audio="5 Lucas 6"} \
-> **Míqte:** _Nho. Zuche máo Tóma. Paı nháo jí **dâ**. Hıchu, hóı Tóma!_{:.t.sec data-audio="5 Miqte 6"} \
-> **Tóma:** _?_{:.t}
+> **mí Mıqte:** _Obe, tı mí Toma mí Saqmeı da!_{:.t.sec data-audio="5 Miqte 5"} \
+> **Lucas:** _Ma eq ní naq mí Toma móq?_{:.t data-audio="5 Lucas 6"} \
+> **mí Mıqte:** _Nho. Zuche máo mí Toma. Paı nháo jí **dâ**. Hıchu, hóı mí Toma!_{:.t.sec data-audio="5 Miqte 6"} \
+> **mí Toma:** _?_{:.t}
 
 ## Vocabulary
 
@@ -164,18 +164,18 @@ Some two-slot verbs have one-slot variants, for ease of underfilling or making n
 
 ## The verb _to be_, _eq_{:.t}
 
-So far, we've encountered plenty of sentences where there isn't an equivalent word to "is" in the Toaq sentence. The "is" is usually already baked into the verb. For example, _naq_{:.t} means "\_\_\_ is a man",  and _Naq Tóma_{:.t} means "Tóma is a man."
+So far, we've encountered plenty of sentences where there isn't an equivalent word to "is" in the Toaq sentence. The "is" is usually already baked into the verb. For example, _naq_{:.t} means "\_\_\_ is a man",  and _Naq mí Toma_{:.t} means "mí Toma is a man."
 
 Sometimes, though, you have two nouns and just need to link them with an "is." In this case (and _only_ in this case) Toaq uses the verb _eq_{:.t}.
 
 > _eq_{:.t} \
 > ▯ is ▯
 >
-> _**Eq** ní naq Tóma._{:.t} \
-> This man **is** Tóma.
+> _**Eq** ní naq mí Toma._{:.t} \
+> This man **is** mí Toma.
 >
-> _**Eq** Tóma ní naq._{:.t} \
-> Tóma **is** this man.
+> _**Eq** mí Toma ní naq._{:.t} \
+> mí Toma **is** this man.
 >
 > _**Eq** jí nháo._{:.t} \
 > I **am** him.

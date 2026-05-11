@@ -18,12 +18,12 @@ Furthermore, in semantics, an **intensional** interpretation of a phrase is one 
 
 ### Why do we need intension?
 
-It turns out that _extension_, i.e. identifying expressions with their referents, fails to capture some of what we say. Suppose that ⟦_Líma_{:.t}⟧ and ⟦_ké joqdoaq po Pérugua_{:.t}⟧ are equal, and refer to Lima (the capital of Peru). Then consider the following sentence:
+It turns out that _extension_, i.e. identifying expressions with their referents, fails to capture some of what we say. Suppose that ⟦_mí Lıma_{:.t}⟧ and ⟦_ké joqdoaq po Pérugua_{:.t}⟧ are equal, and refer to Lima (the capital of Peru). Then consider the following sentence:
 
-> _Chı Náo, ꝡá eq ké joqdoaq po Chílegua Líma._{:.t}<br>
+> _Chı Náo, ꝡá eq ké joqdoaq po Chílegua mí Lıma._{:.t}<br>
 > Nao thinks the capital of Chile is Lima.
 
-This describes a reasonable belief. But if _Líma_ and _ké joqdoaq…_ mean the same thing, we should be able to swap one out for the other without changing the meaning of the sentence. Instead, we get
+This describes a reasonable belief. But if _mí Lıma_ and _ké joqdoaq…_ mean the same thing, we should be able to swap one out for the other without changing the meaning of the sentence. Instead, we get
 
 > _Chı Náo, ꝡá eq ké joqdoaq po Chílegua ké joqdoaq po Pérugua._{:.t}<br>
 > Nao thinks the capital of Chile is the capital of Peru.
@@ -34,12 +34,12 @@ which is pretty absurd. There is something about these descriptions that we are 
 
 The solution to this problem used by Kuna is to make the denotations be functions from possible worlds to entities: <span class=int>○</span> instead of ○.
 
-> ⟦_Líma_{:.t}⟧ = λ𝑤&nbsp; Lima in world 𝑤<br>
+> ⟦_mí Lıma_{:.t}⟧ = λ𝑤&nbsp; Lima in world 𝑤<br>
 > ⟦_ké joqdoaq po Pérugua_{:.t}⟧ = λw&nbsp; the capital of Peru in world 𝑤
 
 We can imagine possible worlds in which Lima had been founded elsewhere, or Peru had ended up with other borders and picked another capital. When given such worlds as input, these functions will differ in meaning. In this way the functions capture the _sense_ of what was said.
 
-Similarly, ⟦_ꝡá eq ké joqdoaq po Chílegua Líma_{:.t}⟧ does not just equal **false**, because the principle of compositionality would say that the above sentence would reduce to "Nao thinks **false**", which isn't what we want.
+Similarly, ⟦_ꝡá eq ké joqdoaq po Chílegua mí Lıma_{:.t}⟧ does not just equal **false**, because the principle of compositionality would say that the above sentence would reduce to "Nao thinks **false**", which isn't what we want.
 
 Instead, propositions get the type <span class=int>◐</span> rather than ◐: their truth value depends on the world. By denoting the content clause as
 
@@ -65,16 +65,16 @@ Kuna models deixis as constituents "depending on the deictic state", the same wa
 
 A final concept we should get comfortable with before stepping into the next chapter is the idea of an _event predicate_. Conceptually, this is a predicate that describes what kind of event something is, without yet situating it in time.
 
-A sentence like _Jıa suaq Mía nha_{:.t} promises the existence of a _Mía-singing-event_ in the future. In this case, the _event predicate_ is a function that has type <span class=int>✲&nbsp;›&nbsp;◐</span> and describes the event involved:
+A sentence like _Jıa suaq mí Mıa nha_{:.t} promises the existence of a _mí Mıa-singing-event_ in the future. In this case, the _event predicate_ is a function that has type <span class=int>✲&nbsp;›&nbsp;◐</span> and describes the event involved:
 
-> ⟦_suaq Mía_{:.t}⟧ = λ𝑤 λ𝑒&nbsp; 𝑒 is a Mía-singing-event in 𝑤
+> ⟦_suaq mí Mıa_{:.t}⟧ = λ𝑤 λ𝑒&nbsp; 𝑒 is a mí Mıa-singing-event in 𝑤
 
 It, too is intensional (depends on the world variable): this is what lets us tie events to a possible world that they might or might not happen in.
 
 The essential structure of any Toaq clause is that the verb-plus-nouns describe an _event predicate_, which is then modified by the aspect, tense, and complementizer nodes to describe a _proposition_.
 
 <figure style="margin: 2em 0;display:flex; align-items: center; gap: 1em; justify-content: center; text-align: center;">
-  <div><i class=t>suaq Mía</i><br><span class=int>✲&nbsp;›&nbsp;◐</span></div>
+  <div><i class=t>suaq mí Mıa</i><br><span class=int>✲&nbsp;›&nbsp;◐</span></div>
   <div style="font-size: 80%;" class="arrow-underline">aspect, tense, complementizer</div>
-  <div><i class=t>ꝡa jıa tam suaq Mía</i><br><span class=int>◐</span></div>
+  <div><i class=t>ꝡa jıa tam suaq mí Mıa</i><br><span class=int>◐</span></div>
 </figure>

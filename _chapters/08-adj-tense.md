@@ -11,7 +11,7 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 ## Conversation
 
 {:.chat-log}
-> <div class="send speaker">Míqte
+> <div class="send speaker">mí Mıqte
 > </div>
 > <div class="send bubble" markdown="1" data-audio="8 both 1">Níchaq bï, chuq úmo sá karı noqchoı ba.
 > </div>
@@ -20,19 +20,19 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 > <div class="send bubble" markdown="1" data-audio="8 both 3">**Naı** tı jí ké dıem
 > </div>
 >
-> <div class="recv speaker">Ánhe
+> <div class="recv speaker">mí Anhe
 > </div>
 > <div class="recv bubble" markdown="1" data-audio="8 both 4">ma ti súq ké diem sao?
 > </div>
 > <div class="recv bubble" markdown="1" data-audio="8 both 5">jea súq máo sá choko nui baaa (ㅅ´ ˘ `)
 > </div>
 >
-> <div class="send speaker">Míqte
+> <div class="send speaker">mí Mıqte
 > </div>
 > <div class="send bubble" markdown="1" data-audio="8 both 6">Ma **pu** chuq súq tú choko nuı...
 > </div>
 >
-> <div class="recv speaker">Ánhe
+> <div class="recv speaker">mí Anhe
 > </div>
 > <div class="recv bubble" markdown="1" data-audio="8 both 7">**jia** chuq jí máo ké niq wo (｡･｀ω´･｡)
 > </div>
@@ -68,7 +68,7 @@ In this lesson, we'll look at adjectives and tenses in Toaq.
 
 <details class="aside culture" markdown="1">
 <summary>Typing Toaq</summary>
-Toaq typists are sometimes in a hurry, and not all devices make it easy to write Toaq properly. It's common to see the letter _ı_{:.t} written with a dot: _jia_{:.t} instead of _jıa_{:.t}, as in Ánhe's texts above.
+Toaq typists are sometimes in a hurry, and not all devices make it easy to write Toaq properly. It's common to see the letter _ı_{:.t} written with a dot: _jia_{:.t} instead of _jıa_{:.t}, as in mí Anhe's texts above.
 
 The letter _ꝡ_{:.t} can be even trickier to type. You'll often see _v_{:.t}, _w_{:.t}, _y_{:.t}, or _vy_{:.t} used in its place.
 

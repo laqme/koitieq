@@ -11,7 +11,7 @@ This lesson covers adverbs and prepositions, formed using the hiatus tone.
 ## Conversation
 
 > **Sîaobo**: Náo &lt;nao99@telesom.aq&gt;<br>
-> **Côm**: Táısaq &lt;taisaq@telesom.aq&gt;<br>
+> **Côm**: mí Taısaq &lt;taisaq@telesom.aq&gt;<br>
 > **Râq**: Geq úmo chéq ba<br>
 > **Râo**: 2025n 9j 21ch, 11:05
 >

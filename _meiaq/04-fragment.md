@@ -12,7 +12,7 @@ To recap: Kuna is built on the idea that meaning is _compositional_, and we deri
 
 To get started studying this phenomenon, we'll imagine a simple fragment of Toaq (let's call it _Póaqzu_{:.t}) where all the sentences are of the form "tense, verb, proper noun, speech act particle."
 
-> _Jıa suaq Mía nha._{:.t}<br>
+> _Jıa suaq mí Mıa nha._{:.t}<br>
 > _Naı dom Pícarıaq da._{:.t}<br>
 > _Pu puagı Tóaqchaq ꝡeı._{:.t}
 
@@ -20,7 +20,7 @@ They all have this syntax tree:
 
 <figure>
   <div class="tree" style="margin-right:-100px">
-    <div><i class=t>jıa suaq Mía nha</i><br>SAP</div>
+    <div><i class=t>jıa suaq mí Mıa nha</i><br>SAP</div>
     <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
       <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
       <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
@@ -28,7 +28,7 @@ They all have this syntax tree:
     <div class="tree-children">
 
         <div class="tree">
-          <div><i class=t>jıa suaq Mía</i><br>TP</div>
+          <div><i class=t>jıa suaq mí Mıa</i><br>TP</div>
             <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
               <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
               <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
@@ -36,14 +36,14 @@ They all have this syntax tree:
             <div class="tree-children">
               <div><i class=t>jıa</i><br>T</div>
               <div class="tree">
-          <div><i class=t>suaq Mía</i><br>VP</div>
+          <div><i class=t>suaq mí Mıa</i><br>VP</div>
             <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
               <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
               <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
             </svg>
             <div class="tree-children">
               <div><i class=t>suaq</i><br>V</div>
-              <div><i class=t>Mía</i><br>N</div>
+              <div><i class=t>mí Mıa</i><br>N</div>
             </div>
         </div>
             </div>
@@ -60,16 +60,16 @@ Here, SA means "speech act", T means "tense", V means "verb", and N means "noun"
 
 What are the _types_ of the denotations of all the constituents (subtrees) in this tree?
 
-From our discussion of intension in the last chapter, We know that _Mía_{:.t} denotes an intensional entity <span class=int>○</span>, and _jıa suaq Mía_{:.t} an intensional truth value <span class=int>◐</span>. We also know that an SAP, a "speech act phrase", is supposed to denote a speech act (&nbsp;!&nbsp;), and we want the verb-and-noun to denote an _event predicate_.
+From our discussion of intension in the last chapter, We know that _mí Mıa_{:.t} denotes an intensional entity <span class=int>○</span>, and _jıa suaq mí Mıa_{:.t} an intensional truth value <span class=int>◐</span>. We also know that an SAP, a "speech act phrase", is supposed to denote a speech act (&nbsp;!&nbsp;), and we want the verb-and-noun to denote an _event predicate_.
 
 We can summarize this data in the following table:
 
 | Label | Text | Denotation | Type |
 | ----- | --- | --- | --- |
-| SAP | _Jıa suaq Mía nha._{:.t} | speech act | &nbsp;!&nbsp; |
-| TP | _jıa suaq Mía_{:.t} | proposition | <span class=int>◐</span> |
-| VP | _suaq Mía_{:.t} | event predicate | <span class=int>✲ › ◐</span> |
-| N | _Mía_{:.t} | noun | <span class=int>○</span> |
+| SAP | _Jıa suaq mí Mıa nha._{:.t} | speech act | &nbsp;!&nbsp; |
+| TP | _jıa suaq mí Mıa_{:.t} | proposition | <span class=int>◐</span> |
+| VP | _suaq mí Mıa_{:.t} | event predicate | <span class=int>✲ › ◐</span> |
+| N | _mí Mıa_{:.t} | noun | <span class=int>○</span> |
 
 ### Deriving the other types
 
@@ -81,13 +81,13 @@ As described in chapter 1, we'd like to use _function application_ to combine ou
 
 <figure>
   <div class="tree">
-    <div><i class=t>jıa suaq Mía nha</i><br>!</div>
+    <div><i class=t>jıa suaq mí Mıa nha</i><br>!</div>
     <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
       <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
       <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
     </svg>
     <div class="tree-children">
-      <div><i class=t>jıa suaq Mía</i><br><span class=int>◐</span></div>
+      <div><i class=t>jıa suaq mí Mıa</i><br><span class=int>◐</span></div>
       <div><i class=t>nha</i><br><span style="background:#fed;margin:-0.2em -1em;padding:0.2em 1em;"><span class=int>◐</span> › &nbsp;!&nbsp;</span></div>
     </div>
   </div>
@@ -112,15 +112,15 @@ Now we can denote the entire tree, writing a formula that has the right type at 
 
 <figure>
   <div class="tree" style="margin-right:-100px">
-    <div><i class=t>jıa suaq Mía nha</i><br>
-      <span class=den><b>nha</b>(λ𝑤&nbsp; Mía will sing in 𝑤)</span><br>!</div>
+    <div><i class=t>jıa suaq mí Mıa nha</i><br>
+      <span class=den><b>nha</b>(λ𝑤&nbsp; mí Mıa will sing in 𝑤)</span><br>!</div>
     <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
       <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
       <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
     </svg>
     <div class="tree-children">
       <div class="tree">
-        <div><i class=t>jıa suaq Mía</i><br><span class=den>λ𝑤&nbsp; Mía will sing in 𝑤</span><br><span class=int>◐</span></div>
+        <div><i class=t>jıa suaq mí Mıa</i><br><span class=den>λ𝑤&nbsp; mí Mıa will sing in 𝑤</span><br><span class=int>◐</span></div>
         <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
           <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
           <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
@@ -128,14 +128,14 @@ Now we can denote the entire tree, writing a formula that has the right type at 
         <div class="tree-children">
           <div><i class=t>jıa</i><br><span class=den>λ𝑃 λ𝑤&nbsp; ∃𝑒: 𝑃 𝑤 𝑒 ∧ future(𝑒)</span><br><span class=int>✲ › ◐</span> &nbsp;›&nbsp; <span class=int>◐</span></div>
           <div class="tree">
-                  <div><i class=t>suaq Mía</i><br><span class=den>λ𝑤 λ𝑒&nbsp; 𝑒 is a <br>Mía<sub>𝑤</sub>-singing-event in 𝑤</span><br><span class=int>✲ › ◐</span></div>
+                  <div><i class=t>suaq mí Mıa</i><br><span class=den>λ𝑤 λ𝑒&nbsp; 𝑒 is a <br>mí Mıa<sub>𝑤</sub>-singing-event in 𝑤</span><br><span class=int>✲ › ◐</span></div>
                   <svg width="200" height="40" viewBox="0 0 200 40" style="display:block; margin: 0 auto;">
                     <line x1="100" y1="2" x2="10" y2="38" stroke="currentColor" stroke-width="1"/>
                     <line x1="100" y1="2" x2="190" y2="38" stroke="currentColor" stroke-width="1"/>
                   </svg>
                   <div class="tree-children">
                     <div><i class=t>suaq</i><br><span class=den>λ𝑎 (λ𝑤 λ𝑒&nbsp; 𝑒 is an<br>𝑎(𝑤)-singing-event in 𝑤)</span><br><span class=int>○</span> &nbsp;›&nbsp; <span class=int>✲ › ◐</span></div>
-                    <div><i class=t>Mía</i><br><span class=den>λ𝑤&nbsp; Mía<sub>𝑤</sub></span><br><span class=int>○</span></div>
+                    <div><i class=t>mí Mıa</i><br><span class=den>λ𝑤&nbsp; mí Mıa<sub>𝑤</sub></span><br><span class=int>○</span></div>
                   </div>
                 </div>
         </div>
@@ -147,18 +147,18 @@ Now we can denote the entire tree, writing a formula that has the right type at 
 
 You can verify that each formula is the result of applying one of the two child formulas to the other and simplifying the resulting expression through substitution. For example:
 
-> &nbsp;&nbsp; ⟦_suaq Mía_{:.t}⟧
+> &nbsp;&nbsp; ⟦_suaq mí Mıa_{:.t}⟧
 >
-> = ⟦_suaq_{:.t}⟧ ⟦_Mía_{:.t}⟧
+> = ⟦_suaq_{:.t}⟧ ⟦_mí Mıa_{:.t}⟧
 >
-> = <span style="display:inline-block">[λ𝑎 (λ𝑤 λ𝑒  𝑒 is an 𝑎(𝑤)-singing-event in 𝑤)]</span>&ensp;<span style="display:inline-block;background:#eef;padding:0 4px">\[λ𝑤&nbsp; Mía<sub>𝑤</sub>\]</span>
+> = <span style="display:inline-block">[λ𝑎 (λ𝑤 λ𝑒  𝑒 is an 𝑎(𝑤)-singing-event in 𝑤)]</span>&ensp;<span style="display:inline-block;background:#eef;padding:0 4px">\[λ𝑤&nbsp; mí Mıa<sub>𝑤</sub>\]</span>
 >
-> = <span style="display:inline-block">(λ𝑤 λ𝑒  𝑒 is a <span style="display:inline-block;background:#eef;padding:0 4px;">\[λ𝑤&nbsp; Mía<sub>𝑤</sub>\]</span>(𝑤)-singing-event in 𝑤)</span>
+> = <span style="display:inline-block">(λ𝑤 λ𝑒  𝑒 is a <span style="display:inline-block;background:#eef;padding:0 4px;">\[λ𝑤&nbsp; mí Mıa<sub>𝑤</sub>\]</span>(𝑤)-singing-event in 𝑤)</span>
 >
-> = <span style="display:inline-block">(λ𝑤 λ𝑒  𝑒 is a Mía<sub>𝑤</sub>-singing-event in 𝑤)</span>
+> = <span style="display:inline-block">(λ𝑤 λ𝑒  𝑒 is a mí Mıa<sub>𝑤</sub>-singing-event in 𝑤)</span>
 
 ## Looking forward
 
-Hooray! We've denoted a sentence of Póaqzu. Importantly, if we change just one word of the sentence, we can see how changing the denotation of the _leaf_ has a ripple effect on the denotation of the whole sentence. (Try drawing your own tree for _Jıa marao Mía nha_{:.t}, for example.)
+Hooray! We've denoted a sentence of Póaqzu. Importantly, if we change just one word of the sentence, we can see how changing the denotation of the _leaf_ has a ripple effect on the denotation of the whole sentence. (Try drawing your own tree for _Jıa marao mí Mıa nha_{:.t}, for example.)
 
 Of course, we've made loads of simplifications. For the rest of the guide, we will undo them, until our little Póaqzu catches up with Toaq itself.

@@ -10,7 +10,7 @@ In this lesson, we'll cover how to form the simplest Toaq sentences.
 
 ## Conversation
 
-Lucas has just moved to a new city where people speak Toaq. He meets Míqte on the internet. Read their conversation out loud, paying attention to the falling and rising tone marks. What mistake does Lucas make?
+Lucas has just moved to a new city where people speak Toaq. He meets mí Mıqte on the internet. Read their conversation out loud, paying attention to the falling and rising tone marks. What mistake does Lucas make?
 
 {:.chat-log}
 > <div class="send speaker">Lucas
@@ -26,7 +26,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets Míqte on t
 > <div class="send bubble" markdown="1"  data-audio="4 Lucas 5">Kushe, gom jí. Sıom jí Tóaqzu :)
 > </div>
 >
-> <div class="recv speaker">Míqte
+> <div class="recv speaker">mí Mıqte
 > </div>
 > <div class="recv bubble" markdown="1"  data-audio="4 Miqte 1"> _Gıtu! Shadı._
 > </div>
@@ -38,21 +38,21 @@ Lucas has just moved to a new city where people speak Toaq. He meets Míqte on t
 > <div class="send bubble" markdown="1"  data-audio="4 Lucas 6">_A, jadı! Kıjı_
 > </div>
 >
-> <div class="recv speaker">Míqte
+> <div class="recv speaker">mí Mıqte
 > </div>
-> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 3"> Bua súq Sáqmeı, _ına_. Bua jí Rédueq.
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 3"> Bua súq mí Saqmeı, _ına_. Bua jí mí Redueq.
 > </div>
-> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 5"> Tıjuı Sáqmeı Rédueq.
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 5"> Tıjuı mí Saqmeı mí Redueq.
 > </div>
 >
 > <div class="send speaker">Lucas
 > </div>
-> <div class="send bubble" markdown="1"  data-audio="4 Lucas 7">_Ina._ De Rédueq!
+> <div class="send bubble" markdown="1"  data-audio="4 Lucas 7">_Ina._ De mí Redueq!
 > </div>
 >
-> <div class="recv speaker">Míqte
+> <div class="recv speaker">mí Mıqte
 > </div>
-> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 6"> _Nho,_ de Rédueq.
+> <div class="recv bubble" markdown="1"  data-audio="4 Miqte 6"> _Nho,_ de mí Redueq.
 > </div>
 
 ## Vocabulary
@@ -96,7 +96,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets Míqte on t
 <summary>Toaqgua</summary>
 A bit of worldbuilding can really tie a conlang together. It's nice to imagine the place where the conlang is spoken as a vivid environment with its own people and culture. How would they use Toaq? What words or registers or forms of poetry would they invent?
 
-When we imagine Toaq being spoken somewhere, we often think of _Tóaqgua_{:.t}, a fictional country somewhere between Southeast Asia, Lojbanistan, and Atlantis. _Sáqmeı_{:.t} and _Rédueq_{:.t} are equally fictional cities within this country.
+When we imagine Toaq being spoken somewhere, we often think of _Tóaqgua_{:.t}, a fictional country somewhere between Southeast Asia, Lojbanistan, and Atlantis. _mí Saqmeı_{:.t} and _mí Redueq_{:.t} are equally fictional cities within this country.
 </details>
 
 ## Verb, subject, object
@@ -133,10 +133,10 @@ Now compare these sentences:
 > _Sıom jí Tóaqzu._{:.t} \
 > I study Toaq.
 >
-> _Bua jí Sáqmeı._{:.t} \
+> _Bua jí mí Saqmeı._{:.t} \
 > I live in Saqmeı.
 >
-> _Tıjuı Sáqmeı Rédueq._{:.t} \
+> _Tıjuı mí Saqmeı mí Redueq._{:.t} \
 > Saqmeı is nearby Redueq.
 
 Again, let's look up these verbs in a Toaq dictionary.
@@ -164,12 +164,12 @@ In Toaq, you're not allowed to "underfill" a verb. _Tıjuı jí_{:.t} is not a v
 
 ## Nouns and tone
 
-Have you been paying attention to the tone marks? For now, all our nouns are _proper nouns_: _Tóaqzu_{:.t}, _Míqte_{:.t}, _Sáqmeı_{:.t}, and so on.
+Have you been paying attention to the tone marks? For now, all our nouns are _proper nouns_: _Tóaqzu_{:.t}, _mí Mıqte_{:.t}, _mí Saqmeı_{:.t}, and so on.
 
 Notice that these are all in the *rising tone*, as are personal pronouns: _jí_{:.t} (me) and _súq_{:.t} (you). The basic rule is that verbs are in the falling tone, and their participants --- nouns --- are in the rising tone.
 
 {:.tone-figure}
-_Bua_{:.t1} _jí_{:.t2} _Rédueq._{:.t2} _De_{:.t1} _Rédueq._{:.t2}
+_Bua_{:.t1} _jí_{:.t2} _mí Redueq._{:.t2} _De_{:.t1} _mí Redueq._{:.t2}
 
 <details class="aside grammar" markdown="1">
 <summary>What's a "noun"?</summary>
@@ -185,6 +185,6 @@ Linguists might call them something like "argument phrases." When being more pro
 
 If you've learned some Toaq before, you may know that the official Toaq Delta way to refer to things by name in Toaq is _mí **name**{:.v}_{:.t}. This still works fine!
 
-In this textbook, we adopt the convention that the rising tone makes _variable names_, and that there's no real difference between a proper name in the real world and a variable name in the logic world. So, _Míqte_{:.t} refers to Lucas's new friend because of some _context_ that that name is used in, just like how pronouns refer to the right thing in their own, smaller context.
+In this textbook, we adopt the convention that the rising tone makes _variable names_, and that there's no real difference between a proper name in the real world and a variable name in the logic world. So, _mí Mıqte_{:.t} refers to Lucas's new friend because of some _context_ that that name is used in, just like how pronouns refer to the right thing in their own, smaller context.
 
 </details>

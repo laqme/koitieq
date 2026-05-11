@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Kóıtıeq
+title: mí Koıtıeq
 title_en: Walkway
 ---
 

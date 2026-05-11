@@ -37,10 +37,10 @@ Essentially, Toaq is a [_formal language_](https://en.wikipedia.org/wiki/Formal_
 <!-- > _Gıtu :) â, ma noalıe súq kú, lá joaıtaı já báq toa tıao chôq Tóadua móq?_{:.t} \
 > _No worries :) ah, is it that you're having trouble finding the right words using Toadua?_{:.sm} -->
 >
-> _« Bu deq kuıdo jí pó áq, kushe », ïe kuq Álısı hóa kı, \
+> _« Bu deq kuıdo jí pó áq, kushe », ïe kuq mí Alısı hóa kı, \
 > « kûı kú, ꝡá bu eq jí áq dâ. »_{:.t} \
 > _“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m not myself, you see.”_{:.sm}
-> <audio controls><source src="../assets/audio/alisi.mp3"></audio>
+> <audio controls><source src="../assets/audio/alisi-mi.mp3"></audio>
 {: style="line-height:1.3;margin:2em 3em;"}
 
 Toaq exists at the intersection of human languages and formal languages, and may be analyzed using tools from either world. This textbook sets out to teach Toaq more or less as though it were a natural, human language. The main parts of the text stay friendly, and focus on helping you understand and communicate in Toaq.

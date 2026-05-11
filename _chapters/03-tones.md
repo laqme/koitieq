@@ -26,25 +26,25 @@ We are ready to learn our first Toaq words, and they will all be _interjections_
 
 ## Story
 
-Náo just finished explaining a complicated job to Tóma. She asks...
+Nao just finished explaining a complicated job to Toma. She asks...
 
 {:.tone-figure}
 _Ína,_{:.t2} _ínha?_{:.t2}
 <audio controls class="center-audio"><source src="../assets/audio/ina-inha.mp3"></audio>
 
-And Tóma shows that he understood, and will do as she asked:
+And Toma shows that he understood, and will do as she asked:
 
 {:.tone-figure}
 _Nho,_{:.t1} _ına._{:.t1} _Inha._{:.t1}
 <audio controls class="center-audio"><source src="../assets/audio/nho-ina-inha.mp3"></audio>
 
-While he's working on the job, Tóma cries out:
+While he's working on the job, Toma cries out:
 
 {:.tone-figure}
 _Ahı!_{:.t1}
 <audio controls class="center-audio"><source src="../assets/audio/ahi.mp3"></audio>
 
-Náo worries that he's hurt — then rushes over and sees the papercut on his hand.
+Nao worries that he's hurt — then rushes over and sees the papercut on his hand.
 
 {:.tone-figure}
 _Áhı?_{:.t2} ... _Âhı._{:.t4}

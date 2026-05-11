@@ -10,17 +10,17 @@ In this lesson, we'll learn about the "topic" paricle _bï_{:.t} and learn how t
 
 ## Conversation
 
-Ráqsu complains about a bad day to Síoka.
+mí Raqsu complains about a bad day to mí Sıoka.
 
-> **Ráqsu:** _Oro, níchaq **bï**, huı **tú** raı ꝡeı!_{:.t}<br>
-> **Síoka:** _Obe… Ma faq **sá** huı móq?_{:.t.sec}<br>
-> **Ráqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí **sía** chaı._{:.t}<br>
-> **Síoka:** _Akoı._{:.t.sec}<br>
-> **Ráqsu:** _Ké dıochu bï, zueq tú kompıuta da._{:.t}<br>
-> **Síoka:** _Pırıge° **hú** tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
-> **Ráqsu:** _Ké seum bï, zaq sá nharu°._{:.t} &emsp; _°storm_<br>
-> **Síoka:** _Ma bo níchaq máo sá gı?_{:.t.sec}<br>
-> **Ráqsu:** _Nho... ké nuaq bï, tıjuı jí súq._{:.t}
+> **mí Raqsu:** _Oro, níchaq **bï**, huı **tú** raı ꝡeı!_{:.t}<br>
+> **mí Sıoka:** _Obe… Ma faq **sá** huı móq?_{:.t.sec}<br>
+> **mí Raqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí **sía** chaı._{:.t}<br>
+> **mí Sıoka:** _Akoı._{:.t.sec}<br>
+> **mí Raqsu:** _Ké dıochu bï, zueq tú kompıuta da._{:.t}<br>
+> **mí Sıoka:** _Pırıge° **hú** tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
+> **mí Raqsu:** _Ké seum bï, zaq sá nharu°._{:.t} &emsp; _°storm_<br>
+> **mí Sıoka:** _Ma bo níchaq máo sá gı?_{:.t.sec}<br>
+> **mí Raqsu:** _Nho... ké nuaq bï, tıjuı jí súq._{:.t}
 
 ## Vocabulary
 
@@ -55,8 +55,8 @@ Ráqsu complains about a bad day to Síoka.
 
 You can start a sentence with a noun and _bï_{:.t} to specify a "topic" that the rest of the sentence is a "comment" on. It's like the subject and body of an email.
 
-> _Níchaq **bï**, pırı Ráqsu._{:.t}<br>
-> As for today: Ráqsu is annoyed.
+> _Níchaq **bï**, pırı mí Raqsu._{:.t}<br>
+> As for today: mí Raqsu is annoyed.
 >
 > _Ké zu **bï**, de ké toa._{:.t}<br>
 > As for the language: the words are beautiful.
@@ -64,7 +64,7 @@ You can start a sentence with a noun and _bï_{:.t} to specify a "topic" that th
 This word is in the only tone we haven't seen yet: the **glottal tone**, marked by two dots on the first vowel of a word. It's only used for particles: everyday verbs are never in the glottal tone. It's pronounced as a low tone with a little "glottal stop" in the middle, like in "uh-oh" or "nuh-uh".
 
 {:.tone-figure}
-_Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _Ráqsu._{:.t2}
+_Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _mí Raqsu._{:.t2}
 <audio controls class="center-audio"><source src="../assets/audio/nichaq-bi.mp3"></audio>
 
 ## More articles: _sá tú sía hú_{:.t}

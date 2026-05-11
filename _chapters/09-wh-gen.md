@@ -10,16 +10,16 @@ In this lesson, we'll learn how to ask questions using _hí_{:.t}, and the diffe
 
 ## Conversation
 
-Lucas and Míqte find the pizzeria, but...
+Lucas and mí Mıqte find the pizzeria, but...
 
 > **Lucas:** _Tı ké pıcarıaq hí raı?_{:.t data-audio="9 both 1"}<br>
-> **Míqte:** _Ní tıeq! Kéo, oaı, naı dom ké rıaq._{:.t.sec data-audio="9 both 2"}<br>
+> **mí Mıqte:** _Ní tıeq! Kéo, oaı, naı dom ké rıaq._{:.t.sec data-audio="9 both 2"}<br>
 > **Lucas:** _Ubaı…_{:.t data-audio="9 both 3"}<br>
-> **Míqte:** _Nho. He baı nhána báq pıca noqgı._{:.t.sec data-audio="9 both 4"}<br>
+> **mí Mıqte:** _Nho. He baı nhána báq pıca noqgı._{:.t.sec data-audio="9 both 4"}<br>
 > **Lucas:** _Kéo naı baı nhána sía raı._{:.t data-audio="9 both 5"}<br>
-> **Míqte:** _Ubaı._{:.t.sec data-audio="9 both 6"}<br>
+> **mí Mıqte:** _Ubaı._{:.t.sec data-audio="9 both 6"}<br>
 > **Lucas:** _Tao úmo hí raı móq?_{:.t data-audio="9 both 7"}<br>
-> **Míqte:** _Eju… enı! He cho jí máo ní sushırıaq._{:.t.sec data-audio="9 both 8"}<br>
+> **mí Mıqte:** _Eju… enı! He cho jí máo ní sushırıaq._{:.t.sec data-audio="9 both 8"}<br>
 > **Lucas:** _Fa úmo nánı rıaq ba!_{:.t data-audio="9 both 9"}<br>
 
 ## Vocabulary
