@@ -37,6 +37,8 @@ Lucas has just moved to a new city where people speak Toaq. He meets mí Mıqte 
 > </div>
 > <div class="send bubble" markdown="1"  data-audio="4 Lucas 6">_A, jadı! Kıjı_
 > </div>
+> <div class="send bubble" markdown="1"  data-audio="">Je, bua jí mí Saqmeı.
+> </div>
 >
 > <div class="recv speaker">mí Mıqte
 > </div>
@@ -68,6 +70,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets mí Mıqte 
 | _kushe_{:.t} | sorry |
 | _gıtu_{:.t} | no worries |
 | _a_{:.t} | ah, oh |
+| _je_{:.t} | so... (new topic) |
 | _jí_{:.t} | I, me |
 | _súq_{:.t} | you |
 | _Tóaqzu_{:.t} | Toaq |
