@@ -167,12 +167,19 @@ In Toaq, you're not allowed to "underfill" a verb. _Tıjuı jí_{:.t} is not a v
 
 ## Nouns and tone
 
-Have you been paying attention to the tone marks? For now, all our nouns are _proper nouns_: _Tóaqzu_{:.t}, _mí Mıqte_{:.t}, _mí Saqmeı_{:.t}, and so on.
+Have you been paying attention to the tone marks? Our "nouns" so far are _proper nouns_: _Tóaqzu_{:.t}, _mí Mıqte_{:.t}, _mí Saqmeı_{:.t}, and so on.
 
-Notice that these are all in the *rising tone*, as are personal pronouns: _jí_{:.t} (me) and _súq_{:.t} (you). The basic rule is that verbs are in the falling tone, and their participants --- nouns --- are in the rising tone.
+Some words exist only as proper nouns, like _Tóaqzu_{:.t}, which means Toaq. Such words are inherently in the **rising tone**.
+
+Others need the particle _mí_{:.t}, which introduces a proper noun. This particle is in the **rising tone**, and the name itself is in the **falling tone**.
+
+Personal pronouns like _jí_{:.t} (me) and _súq_{:.t} (you) are also in the rising tone. The basic rule is that verbs are in the falling tone, and their participants --- nouns --- are introduced by a rising tone.
 
 {:.tone-figure}
-_Bua_{:.t1} _jí_{:.t2} _mí Redueq._{:.t2} _De_{:.t1} _mí Redueq._{:.t2}
+_Bua_{:.t1} _jí_{:.t2} _mí_{:.t2} _Redueq._{:.t1}
+
+{:.tone-figure}
+_Sıom_{:.t1} _mí_{:.t2} _Luka_{:.t1} _Tóaqzu._{:.t2}
 
 <details class="aside grammar" markdown="1">
 <summary>What's a "noun"?</summary>
@@ -183,11 +190,3 @@ Linguists might call them something like "argument phrases." When being more pro
 
 </details>
 
-<details class="aside history" markdown="1">
-<summary>The word <em class="t">mí</em></summary>
-
-If you've learned some Toaq before, you may know that the official Toaq Delta way to refer to things by name in Toaq is _mí **name**{:.v}_{:.t}. This still works fine!
-
-In this textbook, we adopt the convention that the rising tone makes _variable names_, and that there's no real difference between a proper name in the real world and a variable name in the logic world. So, _mí Mıqte_{:.t} refers to Lucas's new friend because of some _context_ that that name is used in, just like how pronouns refer to the right thing in their own, smaller context.
-
-</details>
