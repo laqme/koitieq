@@ -12,15 +12,15 @@ In this lesson, we'll learn about the "topic" paricle _bï_{:.t} and learn how t
 
 mí Raqsu complains about a bad day to mí Sıoka.
 
-> **mí Raqsu:** _Oro, níchaq **bï**, huı **tú** raı ꝡeı!_{:.t}<br>
-> **mí Sıoka:** _Obe… Ma faq **sá** huı móq?_{:.t.sec}<br>
-> **mí Raqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí **sía** chaı._{:.t}<br>
-> **mí Sıoka:** _Akoı._{:.t.sec}<br>
-> **mí Raqsu:** _Ké dıochu bï, zueq tú kompıuta da._{:.t}<br>
-> **mí Sıoka:** _Pırıge° **hú** tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
-> **mí Raqsu:** _Ké seum bï, zaq sá nharu°._{:.t} &emsp; _°storm_<br>
-> **mí Sıoka:** _Ma bo níchaq máo sá gı?_{:.t.sec}<br>
-> **mí Raqsu:** _Nho... ké nuaq bï, tıjuı jí súq._{:.t}
+> **Raqsu:** _Oro, níchaq **bï**, huı **tú** raı ꝡeı!_{:.t}<br>
+> **Sıoka:** _Obe… Ma faq **sá** huı móq?_{:.t.sec}<br>
+> **Raqsu:** _Bo tú hora sá huı! Ké hoeı bï, bo jí **sía** chaı._{:.t}<br>
+> **Sıoka:** _Akoı._{:.t.sec}<br>
+> **Raqsu:** _Ké dıochu bï, zueq tú kompıuta da._{:.t}<br>
+> **Sıoka:** _Pırıge° **hú** tue ꝡeı._{:.t.sec} &emsp; _°annoying_<br>
+> **Raqsu:** _Ké seum bï, zaq sá nharu°._{:.t} &emsp; _°storm_<br>
+> **Sıoka:** _Ma bo níchaq máo sá gı?_{:.t.sec}<br>
+> **Raqsu:** _Nho... ké nuaq bï, tıjuı jí súq._{:.t}
 
 ## Vocabulary
 

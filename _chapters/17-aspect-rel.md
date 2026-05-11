@@ -8,12 +8,12 @@ subject: "aspect, relative clauses"
 
 ## Conversation
 
-> **mí Iqse**: _**Chum** geı súq sá shatı naına ꝡeı._{:data-audio="17 both 1" .t}<br>
-> **mí Rua**: _Obe, kıjı! **Luı** jea jí ní hao tî sá gıaqtue._{:data-audio="17 both 2" .t.sec}<br>
-> **mí Iqse**: _A, ına, **hıq** gaı jí ké fuaq, **ꝡë** pam hóa shátı._{:data-audio="17 both 3" .t}<br>
-> **mí Rua**: _Pu **fı** ruaq máo jí, ꝡá esagı, **ꝡé** chum geı súq hóa._{:data-audio="17 both 4" .t.sec}<br>
-> **mí Iqse**: _Zı, zı. **Tam** jea jí sá fuq, **ꝡë** bu kuo hóa ba…_{:data-audio="17 both 5" .t}<br>
-> **mí Rua**: _Súq, **jü** chuabo hóa ké suqbo, nä bo hóa sá rıq ba!_{:data-audio="17 both 6" .t.sec}
+> **Iqse**: _**Chum** geı súq sá shatı naına ꝡeı._{:data-audio="17 both 1" .t}<br>
+> **Rua**: _Obe, kıjı! **Luı** jea jí ní hao tî sá gıaqtue._{:data-audio="17 both 2" .t.sec}<br>
+> **Iqse**: _A, ına, **hıq** gaı jí ké fuaq, **ꝡë** pam hóa shátı._{:data-audio="17 both 3" .t}<br>
+> **Rua**: _Pu **fı** ruaq máo jí, ꝡá esagı, **ꝡé** chum geı súq hóa._{:data-audio="17 both 4" .t.sec}<br>
+> **Iqse**: _Zı, zı. **Tam** jea jí sá fuq, **ꝡë** bu kuo hóa ba…_{:data-audio="17 both 5" .t}<br>
+> **Rua**: _Súq, **jü** chuabo hóa ké suqbo, nä bo hóa sá rıq ba!_{:data-audio="17 both 6" .t.sec}
 
 ## Vocabulary
 

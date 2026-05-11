@@ -11,20 +11,20 @@ In this lesson, we'll cover the different words that can come at the end of a se
 ## Conversation
 
 > **Lucas:** _Jadı, **hóı** mí Mıqte!_{:.t data-audio="5 Lucas 1"} \
-> **mí Mıqte:** _Jadı, hóı mí Luka. **Ma** seakuaı súq **móq?**_{:.t.sec data-audio="5 Miqte 1"} \
+> **Mıqte:** _Jadı, hóı mí Luka. **Ma** seakuaı súq **móq?**_{:.t.sec data-audio="5 Miqte 1"} \
 > **Lucas:** _Zı, chuqkuaı jí._{:.t data-audio="5 Lucas 2"} \
-> **mí Mıqte:** _Fa úmo Pícajıaq **ba**. Koı úmo ba._{:.t.sec data-audio="5 Miqte 2"} \
+> **Mıqte:** _Fa úmo Pícajıaq **ba**. Koı úmo ba._{:.t.sec data-audio="5 Miqte 2"} \
 > **Lucas:** _Inha._{:.t data-audio="5 Lucas 3"}
 >
 > **Lucas:** _Â, **ma** pıcarıaq Pícajıaq?_{:.t data-audio="5 Lucas 4"} \
-> **mí Mıqte:** _Nho._{:.t.sec data-audio="5 Miqte 3"} \
+> **Mıqte:** _Nho._{:.t.sec data-audio="5 Miqte 3"} \
 > **Lucas:** _Ina. Gı ké chua._{:.t data-audio="5 Lucas 5"} \
-> **mí Mıqte:** _Jaq gı **máo** ké pıca **nha**._{:.t.sec data-audio="5 Miqte 4"}
+> **Mıqte:** _Jaq gı **máo** ké pıca **nha**._{:.t.sec data-audio="5 Miqte 4"}
 >
-> **mí Mıqte:** _Obe, tı mí Toma mí Saqmeı da!_{:.t.sec data-audio="5 Miqte 5"} \
+> **Mıqte:** _Obe, tı mí Toma mí Saqmeı da!_{:.t.sec data-audio="5 Miqte 5"} \
 > **Lucas:** _Ma eq ní naq mí Toma móq?_{:.t data-audio="5 Lucas 6"} \
-> **mí Mıqte:** _Nho. Zuche máo mí Toma. Paı nháo jí **dâ**. Hıchu, hóı mí Toma!_{:.t.sec data-audio="5 Miqte 6"} \
-> **mí Toma:** _?_{:.t}
+> **Mıqte:** _Nho. Zuche máo mí Toma. Paı nháo jí **dâ**. Hıchu, hóı mí Toma!_{:.t.sec data-audio="5 Miqte 6"} \
+> **Toma:** _?_{:.t}
 
 ## Vocabulary
 
