@@ -10,7 +10,7 @@ In this lesson, we'll cover how to form the simplest Toaq sentences.
 
 ## Conversation
 
-Lucas has just moved to a new city where people speak Toaq. He meets mí Mıqte on the internet. Read their conversation out loud, paying attention to the falling and rising tone marks. What mistake does Lucas make?
+Lucas has just moved to a new city where people speak Toaq. He meets Mıqte on the internet. Read their conversation out loud, paying attention to the falling and rising tone marks. What mistake does Lucas make?
 
 {:.chat-log}
 > <div class="send speaker">Lucas
@@ -26,7 +26,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets mí Mıqte 
 > <div class="send bubble" markdown="1"  data-audio="4 Lucas 5">Kushe, gom jí. Sıom jí Tóaqzu :)
 > </div>
 >
-> <div class="recv speaker">mí Mıqte
+> <div class="recv speaker">Mıqte
 > </div>
 > <div class="recv bubble" markdown="1"  data-audio="4 Miqte 1"> _Gıtu! Shadı._
 > </div>
@@ -40,7 +40,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets mí Mıqte 
 > <div class="send bubble" markdown="1"  data-audio="">Je, bua jí mí Saqmeı.
 > </div>
 >
-> <div class="recv speaker">mí Mıqte
+> <div class="recv speaker">Mıqte
 > </div>
 > <div class="recv bubble" markdown="1"  data-audio="4 Miqte 3"> Bua súq mí Saqmeı, _ına_. Bua jí mí Redueq.
 > </div>
@@ -52,7 +52,7 @@ Lucas has just moved to a new city where people speak Toaq. He meets mí Mıqte 
 > <div class="send bubble" markdown="1"  data-audio="4 Lucas 7">_Ina._ De mí Redueq!
 > </div>
 >
-> <div class="recv speaker">mí Mıqte
+> <div class="recv speaker">Mıqte
 > </div>
 > <div class="recv bubble" markdown="1"  data-audio="4 Miqte 6"> _Nho,_ de mí Redueq.
 > </div>
@@ -167,19 +167,31 @@ In Toaq, you're not allowed to "underfill" a verb. _Tıjuı jí_{:.t} is not a v
 
 ## Nouns and tone
 
-Have you been paying attention to the tone marks? Our "nouns" so far are _proper nouns_: _Tóaqzu_{:.t}, _mí Mıqte_{:.t}, _mí Saqmeı_{:.t}, and so on.
+Have you been paying attention to the tone marks? Our "nouns" so far are _personal pronouns_, like _súq_{:.t}, and _proper nouns_ like _Tóaqzu_{:.t} or _mí Mıqte_{:.t}.
 
-Some words exist only as proper nouns, like _Tóaqzu_{:.t}, which means Toaq. Such words are inherently in the **rising tone**.
+* Personal pronouns are in the rising tone.
+* Some words _exist only as proper nouns_, like _Tóaqzu_{:.t}, which means _the Toaq Language_. Such words are inherently in the rising tone.
+* Others need the particle _mí_{:.t}, which _introduces_ a proper noun. This particle is in the rising tone, and the name itself is in the falling tone.
 
-Others need the particle _mí_{:.t}, which introduces a proper noun. This particle is in the **rising tone**, and the name itself is in the **falling tone**.
+The basic rule is that verbs are in the falling tone, and their participants --- nouns --- are **introduced by a rising tone**.
 
-Personal pronouns like _jí_{:.t} (me) and _súq_{:.t} (you) are also in the rising tone. The basic rule is that verbs are in the falling tone, and their participants --- nouns --- are introduced by a rising tone.
+<p class="tone-figure" style="gap:1.25rem;">
+<em class="t1">Bua</em>
+<em class="t2">súq</em>
+<span style="display:flex; gap:0.5rem">
+<em class="t2">mí</em>
+<em class="t1">Redueq.</em>
+</span>
+</p>
 
-{:.tone-figure}
-_Bua_{:.t1} _jí_{:.t2} _mí_{:.t2} _Redueq._{:.t1}
-
-{:.tone-figure}
-_Sıom_{:.t1} _mí_{:.t2} _Luka_{:.t1} _Tóaqzu._{:.t2}
+<p class="tone-figure" style="gap:1.25rem;">
+<em class="t1">Sıom</em>
+<span style="display:flex; gap:0.5rem">
+<em class="t2">mí</em>
+<em class="t1">Luka</em>
+</span>
+<em class="t2">Tóaqzu.</em>
+</p>
 
 <details class="aside grammar" markdown="1">
 <summary>What's a "noun"?</summary>

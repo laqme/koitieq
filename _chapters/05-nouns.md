@@ -164,7 +164,7 @@ Some two-slot verbs have one-slot variants, for ease of underfilling or making n
 
 ## The verb _to be_, _eq_{:.t}
 
-So far, we've encountered plenty of sentences where there isn't an equivalent word to "is" in the Toaq sentence. The "is" is usually already baked into the verb. For example, _naq_{:.t} means "\_\_\_ is a man",  and _Naq mí Toma_{:.t} means "mí Toma is a man."
+So far, we've encountered plenty of sentences where there isn't an equivalent word to "is" in the Toaq sentence. The "is" is usually already baked into the verb. For example, _naq_{:.t} means "\_\_\_ is a man",  and _Naq mí Toma_{:.t} means "Toma is a man."
 
 Sometimes, though, you have two nouns and just need to link them with an "is." In this case (and _only_ in this case) Toaq uses the verb _eq_{:.t}.
 
@@ -172,10 +172,10 @@ Sometimes, though, you have two nouns and just need to link them with an "is." I
 > ▯ is ▯
 >
 > _**Eq** ní naq mí Toma._{:.t} \
-> This man **is** mí Toma.
+> This man **is** Toma.
 >
 > _**Eq** mí Toma ní naq._{:.t} \
-> mí Toma **is** this man.
+> Toma **is** this man.
 >
 > _**Eq** jí nháo._{:.t} \
 > I **am** him.

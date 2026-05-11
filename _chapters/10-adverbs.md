@@ -10,8 +10,8 @@ This lesson covers adverbs and prepositions, formed using the hiatus tone.
 
 ## Conversation
 
-> **Sîaobo**: Náo &lt;nao99@telesom.aq&gt;<br>
-> **Côm**: mí Taısaq &lt;taisaq@telesom.aq&gt;<br>
+> **Sîaobo**: Nao &lt;nao99@telesom.aq&gt;<br>
+> **Côm**: Taısaq &lt;taisaq@telesom.aq&gt;<br>
 > **Râq**: Geq úmo chéq ba<br>
 > **Râo**: 2025n 9j 21ch, 11:05
 >
@@ -25,7 +25,7 @@ This lesson covers adverbs and prepositions, formed using the hiatus tone.
 >
 > Laojaı jí báq juo suqbo nha.
 >
-> Jıbı Náo.
+> Jıbı mí Nao.
 {: data-audio="10"}
 
 ## Vocabulary

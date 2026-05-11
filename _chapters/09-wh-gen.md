@@ -10,7 +10,7 @@ In this lesson, we'll learn how to ask questions using _hí_{:.t}, and the diffe
 
 ## Conversation
 
-Lucas and mí Mıqte find the pizzeria, but...
+Lucas and Mıqte find the pizzeria, but...
 
 > **Lucas:** _Tı ké pıcarıaq hí raı?_{:.t data-audio="9 both 1"}<br>
 > **Mıqte:** _Ní tıeq! Kéo, oaı, naı dom ké rıaq._{:.t.sec data-audio="9 both 2"}<br>

@@ -10,7 +10,7 @@ In this lesson, we'll learn about the "topic" paricle _bï_{:.t} and learn how t
 
 ## Conversation
 
-mí Raqsu complains about a bad day to mí Sıoka.
+Raqsu complains about a bad day to Sıoka.
 
 > **Raqsu:** _Oro, níchaq **bï**, huı **tú** raı ꝡeı!_{:.t}<br>
 > **Sıoka:** _Obe… Ma faq **sá** huı móq?_{:.t.sec}<br>
@@ -56,7 +56,7 @@ mí Raqsu complains about a bad day to mí Sıoka.
 You can start a sentence with a noun and _bï_{:.t} to specify a "topic" that the rest of the sentence is a "comment" on. It's like the subject and body of an email.
 
 > _Níchaq **bï**, pırı mí Raqsu._{:.t}<br>
-> As for today: mí Raqsu is annoyed.
+> As for today: Raqsu is annoyed.
 >
 > _Ké zu **bï**, de ké toa._{:.t}<br>
 > As for the language: the words are beautiful.
@@ -64,7 +64,7 @@ You can start a sentence with a noun and _bï_{:.t} to specify a "topic" that th
 This word is in the only tone we haven't seen yet: the **glottal tone**, marked by two dots on the first vowel of a word. It's only used for particles: everyday verbs are never in the glottal tone. It's pronounced as a low tone with a little "glottal stop" in the middle, like in "uh-oh" or "nuh-uh".
 
 {:.tone-figure}
-_Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _mí Raqsu._{:.t2}
+_Níchaq_{:.t2} _bï,_{:.t3} _pırı_{:.t1} _mí_{:.t2} _Raqsu._{:.t1}
 <audio controls class="center-audio"><source src="../assets/audio/nichaq-bi.mp3"></audio>
 
 ## More articles: _sá tú sía hú_{:.t}

@@ -8,17 +8,17 @@ subject: "conditionals, áq, chéq"
 
 ## Conversation
 
-mí Mıqte and mí Anhe are talking about feeding their cat, mí Gege.
+Mıqte and Anhe are talking about feeding their cat, Gege.
 
 {:.chat-log}
-> <div class="send speaker">mí Mıqte
+> <div class="send speaker">Mıqte
 > </div>
 > <div class="send bubble" markdown="1" data-audio="21 1">**Daı** fı buaq fatuı jí ké tuchao, orooo.
 > </div>
 > <div class="send bubble" markdown="1" data-audio="21 2">**Shê**, ꝡä faq hú, **nä** haqdo kú súq mí Gege nhá?
 > </div>
 >
-> <div class="recv speaker">mí Anhe
+> <div class="recv speaker">Anhe
 > </div>
 > <div class="recv bubble" markdown="1" data-audio="21 3">inha (-ω-ゞ
 > </div>
@@ -27,12 +27,12 @@ mí Mıqte and mí Anhe are talking about feeding their cat, mí Gege.
 > <div class="recv bubble" markdown="1" data-audio="21 cat"><img src="./../cat-pensive.png" height="40" alt="pensive cat emoji" />
 > </div>
 >
-> <div class="send speaker">mí Mıqte
+> <div class="send speaker">Mıqte
 > </div>
 > <div class="send bubble" markdown="1" data-audio="21 5">Ꝡa, ıu rara kato súq da. Tíu zoaıcıa jí, ꝡá **ea** haqdo béı súq máo **áq** nha.
 > </div>
 >
-> <div class="recv speaker">mí Anhe
+> <div class="recv speaker">Anhe
 > </div>
 > <div class="recv bubble" markdown="1" data-audio="21 6">rawom,,,
 > </div>

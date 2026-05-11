@@ -10,7 +10,7 @@ This lesson covers pronouns that refer back to earlier descriptions, and how tho
 
 ## Conversation
 
-mí Iqse and mí Rua are talking about music they like.
+Iqse and Rua are talking about music they like.
 
 > **Iqse:** _Ní gıaqche nä, ma zao súq **hóa**?_{:.t data-audio="12 both 1"}<br>
 > **Rua:** _Nho, zao jí **hó**!_{:.t.sec data-audio="12 both 2"}<br>

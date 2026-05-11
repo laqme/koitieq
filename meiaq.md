@@ -12,7 +12,7 @@ A guide to [Kuna](https://github.com/toaq/kuna) (a program that reads and interp
 
 <div class="aside grammar" markdown="1">
 
-This guide is much more technical than [mí Koıtıeq](..). You should understand all the boxes in mí Koıtıeq before reading Méı'aq. It's also fairly fast-paced: feel free to linger on each chapter and ask some questions before moving on.
+This guide is much more technical than [Koıtıeq](..). You should understand all the boxes in Koıtıeq before reading Méı'aq. It's also fairly fast-paced: feel free to linger on each chapter and ask some questions before moving on.
 
 </div>
 
