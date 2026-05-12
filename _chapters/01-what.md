@@ -77,8 +77,7 @@ This course aims to document a version of "community Toaq" that incorporates the
 <details class="aside grammar" markdown="1">
 <summary>Which proposals are included?</summary>
 
-It's Toaq Delta + [Simple Focus](https://toaq.me/Simple_Focus) + [Pronoun structure](https://toaq.me/Pronoun_structure) + [Some Scope Creep](https://toaq.me/Some_Scope_Creep) + [Kıazıu](https://toaq.me/Kıazıu) + [Eatoaq](https://robin.town/blog/sa-ea-buriaq)'s complementizers, pendents, generics, discursives, variable names (but not the three-tone system, middlethought connectives, etc.)
-
+It's Toaq Delta + [Simple Focus](https://toaq.me/Simple_Focus) + [Pronoun structure](https://toaq.me/Pronoun_structure) + [Some Scope Creep](https://toaq.me/Some_Scope_Creep) + [Kıazıu](https://toaq.me/Kıazıu) + [Eatoaq](https://robin.town/blog/sa-ea-buriaq)'s theories about _nä_{:.t}, _báq_{:.t}, and _ló_{:.t}.
 </details>
 
 ## How to use this textbook

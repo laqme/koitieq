@@ -20,8 +20,10 @@ layout: base
       {% comment %} Check if current page is from chapters collection {% endcomment %}
       {% if page.collection == 'chapters' %}
         {% assign sorted_chapters = site.chapters | sort: "chapter" %}
+        <a class="nav-item" href="{{ "/" | relative_url }}">Kóıtıeq</a>
       {% elsif page.collection == 'meiaq' %}
         {% assign sorted_chapters = site.meiaq | sort: "chapter" %}
+        <a class="nav-item" href="{{ "/meiaq/" | relative_url }}">Méı'aq</a>
       {% else %}
         {% assign sorted_chapters = "" | split: "" %}
       {% endif %}
@@ -40,7 +42,7 @@ layout: base
     <nav class="top-nav-mobile">
       {% if "/" == page.url %}
       {% else %}
-        <a class="nav-item" href="{{ "/" | relative_url }}">Síao</a>
+        <a class="nav-item" href="{{ "/" | relative_url }}">Kóıtıeq</a>
         &emsp;
       {% endif %}
 
