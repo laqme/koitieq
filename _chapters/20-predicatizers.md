@@ -16,7 +16,7 @@ subject: "predicatizers, sóq"
 >
 > Jıe hıa súq mí Koıtıeq móq? Cho súq **sóq** hí kaıse **po mí Koıtıeq** móq? Ma chum sı súq ké gẹchuao bẹdao?
 >
-> Dua jí, ꝡá jua, ꝡá keoı báq kue há. Kéo jua púı seq hú raı tî ké jıaq amabo dá?
+> Dua jí, ꝡä jua, ꝡä keoı báq kue há. Kéo jua púı seq hú raı tî ké jıaq amabo dá?
 >
 > De ké chaq suqbo ba.
 >
@@ -31,7 +31,7 @@ subject: "predicatizers, sóq"
 | _kọ**number**{:.v}_{:.t} | ▯ is **number**{:.v}-th |
 | _joe_{:.t} | ▯ is skilled at **lá**{:.v} |
 | _puı_{:.t} | number: many |
-| _jıe_{:.t} | ▯ finds that **ꝡá**{:.v} |
+| _jıe_{:.t} | ▯ finds that **ꝡä**{:.v} |
 | _hıa_{:.t} | what/how is ▯? |
 | _sóq **X**{:.v}_{:.t} | **X**{:.v} the most |
 | _chuao_{:.t} | ▯ is a window |

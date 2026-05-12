@@ -58,11 +58,11 @@ Using _nä_{:.t}, we can not only move words around to where we want them, we ca
 
 Last time, we saw quantifiers have their scope limited by the clause they're in. Using _nä_{:.t}, we can pull a quantifier out of the clause.
 
-> _Aojaı jí, ꝡá chuq jí **sía** raı._{:.t}<br>
+> _Aojaı jí, ꝡä chuq jí **sía** raı._{:.t}<br>
 > I want that [I eat nothing].<br>
 > _(as in: I want to fast)_
 >
-> _Aojaı jí **sía** raı nä, ꝡá chuq jí hóa._{:.t}<br>
+> _Aojaı jí **sía** raı nä, ꝡä chuq jí hóa._{:.t}<br>
 > I want, of nothing, [that I eat it].<br>
 > _(as in: I'm not hungry)_
 
@@ -76,7 +76,7 @@ After a description using an article, like _sá poq_{:.t} or _ké nıq_{:.t}, th
 
 Most simply, you can repeat the verb in the rising tone: after _sá poq_{:.t}, "some person _x_", you can say _póq_{:.t} to refer to _x_. We say that _sá poq_{:.t} _binds_ the variable _póq_{:.t}.
 
-> _He chı **sá poq**, ꝡá he cho tú raı **póq**._{:.t}<br>
+> _He chı **sá poq**, ꝡä he cho tú raı **póq**._{:.t}<br>
 > **Some people** believe that everybody likes **them**.
 
 If there's an adjective, you only repeat the "noun" (first word after the article). And as we can see in the next sentence, this strategy is also compatible with _nä_{:.t}. You might prefer it over _hóa_{:.t} to make it clear what you're referring back to.
@@ -86,7 +86,7 @@ If there's an adjective, you only repeat the "noun" (first word after the articl
 
 However, repeating the same word can be a bit cumbersome.
 
-> _Ruaq **ké galeche**, ꝡá laheq, ꝡá sıomoı **gáleche**, ꝡá jıq **gáleche**._{:.t}<br>
+> _Ruaq **ké galeche**, ꝡä laheq, ꝡä sıomoı **gáleche**, ꝡä jıq **gáleche**._{:.t}<br>
 > The **teacher** states: that **he** thinks implies that **he** exists.
 
 There are a few other pronouns that get bound whenever you use an article. Which pronoun gets bound by which verb depends on that verb's _class_.

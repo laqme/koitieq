@@ -17,11 +17,11 @@ Have you been using flash cards? They're a great help! But perhaps the most effe
 | _due_{:.t} | ▯ is correct |
 | _chıaı_{:.t} | ▯ is incorrect |
 | _teoq_{:.t} | ▯ is a question |
-| _teqga_{:.t} | ▯ asks **ꝡá**{:.v} |
-| _ruıq_{:.t} | ▯ wonders **ꝡá**{:.v} |
+| _teqga_{:.t} | ▯ asks **ꝡä**{:.v} |
+| _ruıq_{:.t} | ▯ wonders **ꝡä**{:.v} |
 | _cua_{:.t} | ▯ responds to ▯ |
 | _kuaq_{:.t} | ▯ expresses **lá**{:.v} |
-| _rara_{:.t} | **ꝡá**{:.v} is sorta true |
+| _rara_{:.t} | **ꝡä**{:.v} is sorta true |
 | _jaqbeı_{:.t} | degree: "so...!" |
 | _muana_{:.t} | for example… |
 
@@ -36,7 +36,7 @@ Have you been using flash cards? They're a great help! But perhaps the most effe
 | _lucu_{:.t} | ▯ is a game |
 | _puateı_{:.t} | ▯ is a hobby |
 | _duq_{:.t} | ▯ habitually **lá**{:.v} |
-| _dıaq_{:.t} | **ꝡá**{:.v} happens regularly |
+| _dıaq_{:.t} | **ꝡä**{:.v} happens regularly |
 
 </div>
 <div class="side-by-side" markdown="1">
@@ -100,7 +100,7 @@ Translate the following sentences. If you've forgotten words, look them up on <a
 1. Please (go ahead and) click the blue button. <small markdown="1">Use _suena … doa_{:.t}</small>
 1. If you want to meet me, respond to this message.
 1. I wonder where that jacket I like is. <small markdown="1">Use _hî_{:.t}</small>
-1. _Mıu jí, ꝡá he juoq soa há báq poq soeı._{:.t}
+1. _Mıu jí, ꝡä he juoq soa há báq poq soeı._{:.t}
 1. _Pu tam sea jí kâqsı báq bıdeo nuı._{:.t}
 1. _Mala geq jí ké bo nî haqrıaq._{:.t}
-1. _Ꝡá ma due ní kuna nä, bu họadua jí._{:.t}
+1. _Ꝡä ma due ní kuna nä, bu họadua jí._{:.t}

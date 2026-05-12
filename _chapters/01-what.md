@@ -38,7 +38,7 @@ Essentially, Toaq is a [_formal language_](https://en.wikipedia.org/wiki/Formal_
 > _No worries :) ah, is it that you're having trouble finding the right words using Toadua?_{:.sm} -->
 >
 > _« Bu deq kuıdo jí pó áq, kushe », ïe kuq mí Alısı hóa kı, \
-> « kûı kú, ꝡá bu eq jí áq dâ. »_{:.t} \
+> « kûı kú, ꝡä bu eq jí áq dâ. »_{:.t} \
 > _“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m not myself, you see.”_{:.sm}
 > <audio controls><source src="../assets/audio/alisi-mi.mp3"></audio>
 {: style="line-height:1.3;margin:2em 3em;"}

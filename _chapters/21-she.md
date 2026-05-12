@@ -29,7 +29,7 @@ Mıqte and Anhe are talking about feeding their cat, Gege.
 >
 > <div class="send speaker">Mıqte
 > </div>
-> <div class="send bubble" markdown="1" data-audio="21 5">Ꝡa, ıu rara kato súq da. Tíu zoaıcıa jí, ꝡá **ea** haqdo béı súq máo **áq** nha.
+> <div class="send bubble" markdown="1" data-audio="21 5">Ꝡa, ıu rara kato súq da. Tíu zoaıcıa jí, ꝡä **ea** haqdo béı súq máo **áq** nha.
 > </div>
 >
 > <div class="recv speaker">Anhe
@@ -75,12 +75,12 @@ Toaqists love cats. The most upvoted word in the community dictionary is _nhaq_{
 | _dâı … nä_{:.t} | if … then can |
 | _âo … nä_{:.t} | if … then would |
 | _êa … nä_{:.t} | if … then could |
-| _ıu_{:.t} | **ꝡá**{:.v} is the case in the real world |
+| _ıu_{:.t} | **ꝡä**{:.v} is the case in the real world |
 | _buaq_{:.t} | ▯ fails to **lá**{:.v} |
 | _fatuı_{:.t} | ▯ rides ▯ |
 | _tuchao_{:.t} | ▯ is a bus |
 | _haqdo_{:.t} | ▯ feeds ▯ |
-| _zoaıcıa_{:.t} | ▯ is certain that **ꝡá**{:.v} |
+| _zoaıcıa_{:.t} | ▯ is certain that **ꝡä**{:.v} |
 | _áq_{:.t} | itself/themselves |
 
 ## Saying "if … then"
@@ -169,10 +169,10 @@ There's a rule called the **áq rule**, saying that you _must_ use _áq_{:.t} wh
 
 In the first sentence below, **hó** doesn't refer to **ké naq**. The áq rule tells us that, if the speaker meant that, they would've said _áq_{:.t}. (Think about how in English, it sounds weird to say _him_ instead of _himself_.)
 
-> _Aojaı ké lıq, ꝡá cho ké naq **hó**._{:.t}<br>
+> _Aojaı ké lıq, ꝡä cho ké naq **hó**._{:.t}<br>
 > The girl wants the guy to like **her**.
 >
-> _Aojaı ké lıq, ꝡá cho ké naq **áq**._{:.t}<br>
+> _Aojaı ké lıq, ꝡä cho ké naq **áq**._{:.t}<br>
 > The girl wants the guy to like **himself**.
 
 </details>

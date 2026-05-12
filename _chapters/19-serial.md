@@ -12,9 +12,9 @@ subject: "serial verbs"
 > **B**: _Rạnho… Chum **sho gẹfeao** jí ꝡeı._{:data-audio="19 2" .t.sec}<br>
 > **A**: _Feao súq môı hí raı?_{:data-audio="19 3" .t}<br>
 > **B**: _**Deq baı** jí báq haq, kéo… **juoq hıo** jí báq poq châ hí raı móq?_{:data-audio="19 4" .t.sec}<br>
-> **A**: _**Leo sı** súq kú, ꝡá **shue nhame** súq côm chóaq ba._{:data-audio="19 5" .t}<br>
+> **A**: _**Leo sı** súq kú, ꝡä **shue nhame** súq côm chóaq ba._{:data-audio="19 5" .t}<br>
 > **B**: _Ina. **Taı tua** jí séu hú nha._{:data-audio="19 6" .t.sec}<br>
-> **A**: _Tíu **mıu le** jí, ꝡá jıa gı tú raı. Aıka!_{:data-audio="19 7" .t}<br>
+> **A**: _Tíu **mıu le** jí, ꝡä jıa gı tú raı. Aıka!_{:data-audio="19 7" .t}<br>
 
 <div class="side-by-side" markdown="1">
 
@@ -161,15 +161,15 @@ _buo soı_{:.t}<br>
 
 Essentially, _Buo soı jí nháo_{:.t} is short for _Buo jí, **lá** soı <i>já</i> nháo_{:.t}. The tail's subject gets turned into _já_{:.t}.
 
-## Serial verbs: _ꝡá_{:.t} means stack
+## Serial verbs: _ꝡä_{:.t} means stack
 
-There's another way verbs can form serial verbs. When the first verb's definition ends in a **ꝡá**{:.v} slot, the definitions **stack**.
+There's another way verbs can form serial verbs. When the first verb's definition ends in a **ꝡä**{:.v} slot, the definitions **stack**.
 
 <div class="serial-combine" markdown="1">
 
 <div class="serial-part" markdown="1">
 
-_dua_{:.t}<br>▯ knows that **ꝡá**{:.v}
+_dua_{:.t}<br>▯ knows that **ꝡä**{:.v}
 
 </div>
 
@@ -195,7 +195,7 @@ The difference compared to merging is that with stacking, the tail's subject doe
 
 <div class="serial-part" markdown="1">
 
-_dua_{:.t}<br>▯ knows that **ꝡá**{:.v}
+_dua_{:.t}<br>▯ knows that **ꝡä**{:.v}
 
 </div>
 
@@ -215,7 +215,7 @@ _dua cho_{:.t}<br>
 
 </div>
 
-Essentially, _Dua cho jí nháo Tóaqzu_{:.t} is short for _Dua jí, **ꝡá** cho nháo Tóaqzu_{:.t}.
+Essentially, _Dua cho jí nháo Tóaqzu_{:.t} is short for _Dua jí, **ꝡä** cho nháo Tóaqzu_{:.t}.
 
 The head can have just one slot:
 
@@ -223,7 +223,7 @@ The head can have just one slot:
 
 <div class="serial-part" markdown="1">
 
-_du_{:.t}<br>it seems like **ꝡá**{:.v}
+_du_{:.t}<br>it seems like **ꝡä**{:.v}
 
 </div>
 
@@ -268,7 +268,7 @@ with a serial verb, resulting in:
 > _sá **leo gıaqche**{:.subs} <span class="sec">**shao zaomıa**{:.subs} **shao bomıa**{:.subs}</span>_{:.t}<br>
 > some tries-to-be-musician (who is) wants-to-be-famous (and) wants-to-be-wealthy
 
-Each "simple" verb, _without_ a trailing **lá**{:.v} or **ꝡá**{:.v} slot in its definition, marks the end of one of these little sub-serials, as it can't act as a head to serialize with the next verb.
+Each "simple" verb, _without_ a trailing **lá**{:.v} or **ꝡä**{:.v} slot in its definition, marks the end of one of these little sub-serials, as it can't act as a head to serialize with the next verb.
 
 </details>
 
@@ -287,7 +287,7 @@ But the second sentence means "There is nobody that I want to meet." When we use
 
 A similar pitfall is adverbs: in a clause with a serial verb, the adverb applies to the whole serial.
 
-> <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> tua jí, <div class="scope t s2"><span class="sb"><i>ꝡá</i></span> jaı nháo&nbsp;<b>nhâme</b></div> da.</div></center>
+> <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> tua jí, <div class="scope t s2"><span class="sb"><i>ꝡä</i></span> jaı nháo&nbsp;<b>nhâme</b></div> da.</div></center>
 >
 > <center><div class="scope t"><span class="sb"><i>Ꝡa</i></span> tua jaı jí nháo <b>nhâme</b> da.</div></center>
 

@@ -82,7 +82,7 @@ Translate the following sentences. If you've forgotten words, look them up on <a
 1. Wow, yum, this coffee is super tasty! <small markdown="1">Use _ꝡeı_{:.t}</small>
 1. _Pıe bîe ké ẹguaı úmo sá bıra ba._{:.t}
 1. _Soı ké heroe bíq jom chôq kú ní sheq._{:.t}
-1. _Ma juna, ꝡá jıa fa ní meaq báq nuım?!_{:.t}
+1. _Ma juna, ꝡä jıa fa ní meaq báq nuım?!_{:.t}
 1. _Bu tú poq, ꝡë tı hóa sá bıajıo, nä bıa hóa dâ._{:.t}
-1. _mí Saqmeı bï, ma dua súq, ꝡá chuabo ké hıu shú « Chıme »?_{:.t}
-1. _Ní shatı nä luı gom jí tûa, ꝡá naı bao máq._{:.t}
+1. _mí Saqmeı bï, ma dua súq, ꝡä chuabo ké hıu shú « Chıme »?_{:.t}
+1. _Ní shatı nä luı gom jí tûa, ꝡä naı bao máq._{:.t}

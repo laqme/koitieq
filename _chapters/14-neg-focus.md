@@ -16,7 +16,7 @@ subject: "negation and focus"
 > **Anhe:** _A, nho, aja! Teqsom jí súq ba._{:data-audio="14 both 4" .t.sec}<br>
 > **Mıqte:** _Zı, zı. Pu **bu** choaısao ké hao nha._{:data-audio="14 both 5" .t}<br>
 > **Anhe:** _**Bu** chı jí hú! Duı paıgı súq ꝡeı._{:data-audio="14 both 6" .t.sec}<br>
-> **Mıqte:** _Ꝡá jıa sıqja súq ké haqtoq bï, paıgı **béı** <em>súq</em>._{:data-audio="14 both 7" .t}<br>
+> **Mıqte:** _Ꝡä jıa sıqja súq ké haqtoq bï, paıgı **béı** <em>súq</em>._{:data-audio="14 both 7" .t}<br>
 > **Anhe:** _Oaı, **bu** mala kuq jí hú ba._{:data-audio="14 both 8" .t.sec}
 
 ## Negation
@@ -41,9 +41,9 @@ The word _bu_{:.t} means "not": it **negates** the clause it's in. It usually go
 Just like the quantifying articles _sá_{:.t} wraps its scope island in a "there exists" (∃) and _tú_{:.t} wraps it scope island in a "for all" (∀), the word _bu_{:.t} wraps its scope island in a _not_ (¬).
 
 {:style="text-align:center"}
-> <small>Ꝡa chı jí, ꝡá pu <b>bu</b> suaq <b>sá</b> poq da.</small>
+> <small>Ꝡa chı jí, ꝡä pu <b>bu</b> suaq <b>sá</b> poq da.</small>
 >
-> <div class="scope t"><span class="sb"><i>Ꝡa</i></span> chı jí, <div class="scope t s2"><span class="sb"><i>ꝡá</i></span> pu <b>bu</b> suaq <b>sá</b> poq</div> da.</div>
+> <div class="scope t"><span class="sb"><i>Ꝡa</i></span> chı jí, <div class="scope t s2"><span class="sb"><i>ꝡä</i></span> pu <b>bu</b> suaq <b>sá</b> poq</div> da.</div>
 >
 > <div class="scope t"><span class="sb"><i>&ensp;</i></span>I believe <div class="scope t s2"><span class="sb"><i>¬ ∃p:</i></span><b>p</b> sang.</div></div>
 >
@@ -53,9 +53,9 @@ Just like the quantifying articles _sá_{:.t} wraps its scope island in a "there
 The operators ¬ and ∃p in the formula reflect the order of _bu_{:.t} and _sá_{:.t} in the original sentence. And so if we reorder these words, the meaning changes.
 
 {:style="text-align:center"}
-> <small>Ꝡa chı jí, ꝡá <b>sá</b> poq nä pu <b>bu</b> suaq hó da.</small>
+> <small>Ꝡa chı jí, ꝡä <b>sá</b> poq nä pu <b>bu</b> suaq hó da.</small>
 >
-> <div class="scope t"><span class="sb"><i>Ꝡa</i></span> chı jí, <div class="scope t s2"><span class="sb"><i>ꝡá</i></span> <b>sá</b> poq nä pu <b>bu</b> suaq hó</div> da.</div>
+> <div class="scope t"><span class="sb"><i>Ꝡa</i></span> chı jí, <div class="scope t s2"><span class="sb"><i>ꝡä</i></span> <b>sá</b> poq nä pu <b>bu</b> suaq hó</div> da.</div>
 >
 > <div class="scope t"><span class="sb"><i>&ensp;</i></span>I believe <div class="scope t s2"><span class="sb"><i>∃p: ¬</i></span><b>p</b> sang.</div></div>
 >
@@ -133,7 +133,7 @@ The word _kú_{:.t} marks the following noun or adverb as **new information**, a
 > _The groceries_ are what I'm carrying.<br>
 > <small>Answers the implied question "What are you carrying?"</small>
 >
-> _Chı jí **kú**, ꝡá shuıja nháo sá raı._{:.t}<br>
+> _Chı jí **kú**, ꝡä shuıja nháo sá raı._{:.t}<br>
 > What I think is, that she's hiding something.<br>
 > <small>Answers the implied question "What do you think?"</small>
 
