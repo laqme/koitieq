@@ -34,7 +34,7 @@ Essentially, Toaq is a [_formal language_](https://en.wikipedia.org/wiki/Formal_
 > <audio controls><source src="../assets/audio/jeba.mp3"></audio>
 > -->
 >
-<!-- > _Gıtu :) â, ma noalıe súq kú, lá joaıtaı já báq toa tıao chôq Tóadua móq?_{:.t} \
+<!-- > _Gıtu :) â, ma noalıe súq kú, lä joaıtaı já báq toa tıao chôq Tóadua móq?_{:.t} \
 > _No worries :) ah, is it that you're having trouble finding the right words using Toadua?_{:.sm} -->
 >
 > _« Bu deq kuıdo jí pó áq, kushe », ïe kuq mí Alısı hóa kı, \

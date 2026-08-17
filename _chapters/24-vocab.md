@@ -20,14 +20,14 @@ Have you been using flash cards? They're a great help! But perhaps the most effe
 | _teqga_{:.t} | ▯ asks **ꝡä**{:.v} |
 | _ruıq_{:.t} | ▯ wonders **ꝡä**{:.v} |
 | _cua_{:.t} | ▯ responds to ▯ |
-| _kuaq_{:.t} | ▯ expresses **lá**{:.v} |
+| _kuaq_{:.t} | ▯ expresses **lä**{:.v} |
 | _rara_{:.t} | **ꝡä**{:.v} is sorta true |
 | _jaqbeı_{:.t} | degree: "so...!" |
 | _muana_{:.t} | for example… |
 
 | Word | Meaning |
 | --- | --- |
-| _sheı_{:.t} | ▯ is free to **lá**{:.v} |
+| _sheı_{:.t} | ▯ is free to **lä**{:.v} |
 | _daq_{:.t} | ▯ is time |
 | _sheıdaq_{:.t} | ▯ is free time |
 | _jaolaq_{:.t} | ▯ is a telephone |
@@ -35,7 +35,7 @@ Have you been using flash cards? They're a great help! But perhaps the most effe
 | _luaq_{:.t} | ▯ plays with ▯ |
 | _lucu_{:.t} | ▯ is a game |
 | _puateı_{:.t} | ▯ is a hobby |
-| _duq_{:.t} | ▯ habitually **lá**{:.v} |
+| _duq_{:.t} | ▯ habitually **lä**{:.v} |
 | _dıaq_{:.t} | **ꝡä**{:.v} happens regularly |
 
 </div>

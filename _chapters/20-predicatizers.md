@@ -29,7 +29,7 @@ subject: "predicatizers, sóq"
 | --- | --- |
 | _kuepaq_{:.t} | ▯ is a chapter |
 | _kọ**number**{:.v}_{:.t} | ▯ is **number**{:.v}-th |
-| _joe_{:.t} | ▯ is skilled at **lá**{:.v} |
+| _joe_{:.t} | ▯ is skilled at **lä**{:.v} |
 | _puı_{:.t} | number: many |
 | _jıe_{:.t} | ▯ finds that **ꝡä**{:.v} |
 | _hıa_{:.t} | what/how is ▯? |
