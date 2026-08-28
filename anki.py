@@ -57,7 +57,7 @@ for fn in Path("./_chapters").glob("*.md"):
                 continue  # Skip fancy month names
 
             fields = [toaq, english, str(chapter)]
-            deck.add_note(genanki.Note(model=koitieq_model, fields=fields))
+            deck.add_note(genanki.Note(model=koitieq_model, fields=fields, tags=["Kóıtıeq_chapter_{}".format(chapter)]))
             if toaq in vocab_dict:
                 print(f"!!! Duplicate word: {toaq} in {vocab_dict[toaq]} and {chapter}")
             vocab_dict[toaq] = chapter
