@@ -13,7 +13,7 @@ Toaq is most often written using the Latin alphabet, as in this book. There are 
 | _a_{:.t} | /a/ | Spanish _m**á**s_ |
 | _b_{:.t} | /b/ | _**b**uy_ |
 | _c_{:.t} | /t͡sʰ/ | _mee**ts** **h**im_ |
-| _ch_{:.t} | /t͡ɕ/ | _**ch**in_ |
+| _ch_{:.t} | /t͡ɕʰ/ | _**ch**in_ |
 | _d_{:.t} | /d/ | _**d**ad_ |
 | _e_{:.t} | /ɛ/ | _b**e**d_ |
 | _f_{:.t} | /f/ | _**f**ix_ |
@@ -25,7 +25,7 @@ Toaq is most often written using the Latin alphabet, as in this book. There are 
 | _l_{:.t} | /l/ | _**l**eg_ |
 | _m_{:.t} | /m/ | _**m**ake_ |
 | _n_{:.t} | /n/ | _**n**ew_ |
-| _nh_{:.t} | /ɳ/ | ca**ny**on |
+| _nh_{:.t} | /ɲ/ | ca**ny**on |
 | _o_{:.t} | /o/ | Spanish _n**o**_ |
 | _p_{:.t} | /pʰ/ | _**p**et_ |
 | _q_{:.t} | /ŋ/ | _si**ng**_ |
