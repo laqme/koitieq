@@ -36,6 +36,7 @@ table.index a:hover { text-decoration: underline; }
 body { margin: 0; }
 body { font-family: var(--sans); }
 body { font-size-adjust: from-font; }
+.wrapper { max-width: fit-content; margin-left: auto; margin-right: auto; }
 h1 { font-family: var(--serif); }
 h1 span[lang=en] { font-weight: 400; }
 h2 { margin-top: 2rem; }
